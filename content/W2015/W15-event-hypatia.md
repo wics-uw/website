@@ -3,6 +3,7 @@ Date: 2015-01-07 17:00
 Category: Events
 Slug: leigh-honeywell-security
 Author: Elana Hashman
+Status: draft
 Summary: Leigh Honeywell will be visiting campus to give a talk on computer security and privacy.
 
 We are excited to announce that we will be hosting a special guest speaker, 
