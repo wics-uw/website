@@ -44,6 +44,7 @@ SOCIAL = (('Facebook', 'https://www.facebook.com/groups/wicsUW'),
           ('Twitter', 'https://twitter.com/wicsuw'),
           ('GitHub', 'https://github.com/wics-uw'),
          )
+TWITTER_USERNAME = 'wicsuw'
 
 DEFAULT_PAGINATION = 5
 
