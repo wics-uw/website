@@ -15,6 +15,9 @@ EXTRA_PATH_METADATA = {
         {'path': 'favicon.ico'},
 }
 
+ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}.html'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}.html'
+
 TIMEZONE = 'Canada/Eastern'
 
 DEFAULT_LANG = u'en'
