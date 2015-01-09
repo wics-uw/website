@@ -15,6 +15,9 @@ EXTRA_PATH_METADATA = {
         {'path': 'favicon.ico'},
 }
 
+ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}.html'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}.html'
+
 TIMEZONE = 'Canada/Eastern'
 
 DEFAULT_LANG = u'en'
@@ -44,6 +47,7 @@ SOCIAL = (('Facebook', 'https://www.facebook.com/groups/wicsUW'),
           ('Twitter', 'https://twitter.com/wicsuw'),
           ('GitHub', 'https://github.com/wics-uw'),
          )
+TWITTER_USERNAME = 'wicsuw'
 
 DEFAULT_PAGINATION = 5
 
