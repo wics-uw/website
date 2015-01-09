@@ -17,6 +17,7 @@ Now you can create a `virtualenv`:
 ```
 mkdir -p ~/virtualenvs/pelican
 cd ~/virtualenvs/pelican
+virtualenv .
 source bin/activate
 ```
 
@@ -36,7 +37,7 @@ pip install pelican markdown
 If you ever need to re-enable the `virtualenv`, simply run
 
 ```
-source ~/virtualenvs/pelican
+source ~/virtualenvs/pelican/bin/activate
 ```
 
 ## Development ##
