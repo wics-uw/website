@@ -1,6 +1,7 @@
 Title: STEM Feminism 101 Panel
 Date: 2014-11-13 17:00
 Category: Media
+Tags: feminism, panels
 Slug: feminism101
 Author: Elana Hashman
 Summary: Various domain experts discuss the need for feminism in STEM fields.

@@ -1,6 +1,7 @@
 Title: Big CSters Board Game Meet and Greet
 Date: 2015-01-05 23:00
 Category: Events
+Tags: social
 Slug: board-games
 Author: Elana Hashman
 Summary: We'll be meeting up in the Math CnD to play board games for this term's welcome event!
