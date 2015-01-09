@@ -15,5 +15,5 @@ Current upper-year women in Computer Science at Waterloo will be speaking about 
 
 + **Who:** TBA
 + **What:** Panel on co-op experiences for new students 
-+ **Where:** DC 1302
++ **Where:** TBA
 + **When:** Wed. Jan. 14th, 5:30&ndash;8:00pm
