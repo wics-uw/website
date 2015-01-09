@@ -1,6 +1,7 @@
 Title: Sarah Sharp and her USB 3.0 Success Story
 Date: 2014-11-20 17:30
 Category: Media
+Tags: linux, open source, talks
 Slug: sarah-sharp
 Author: Elana Hashman
 Summary: Sarah Sharp, Linux kernel developer, visits Waterloo to give a talk about getting involved with the Linux kernel and open source.
