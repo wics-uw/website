@@ -2,6 +2,7 @@ Title: Co-op Showcase Panel
 Date: 2015-01-09 15:00
 Category: Events
 Slug: coop-panel
+Tags: panels, industry
 Author: Melissa Tedesco
 Summary: Upper year students showcase their co-op experience to help junior students in their job hunt this term.
 
