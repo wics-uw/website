@@ -64,7 +64,12 @@ a:hover, a:active {
 h1 a:hover {
     background-color: inherit
 }
-	
+a.tag {
+    background-color: #a34958;
+    color: #fff;
+    text-decoration: none;
+}
+
 /* Paragraphs */
 div.line-block,
 p { margin-top: 1em;
