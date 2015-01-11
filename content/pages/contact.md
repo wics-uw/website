@@ -51,3 +51,6 @@ network. Come visit us by connecting to [irc.oftc.net](http://www.oftc.net/) or
 using our convenient [webchat link](http://webchat.oftc.net/?channels=wics). 
 Note that the chat room is governed by our [Code of 
 Conduct]({filename}/pages/code-of-conduct.md).
+
+If you've never used IRC before, check out our [IRC 
+how-to]({filename}/pages/irc.md) document!
