@@ -15,8 +15,8 @@ session.
 
 ## Event Details ##
 
-+ **Who:** [Elana Hashman](https://hashman.ca/),
-           [Sarah Harvey](https://cs.uwaterloo.ca/~sharvey/),
++ **Who:** [Sarah Harvey](https://cs.uwaterloo.ca/~sharvey/),
+           [Elana Hashman](https://hashman.ca/),
            [Luxsumi Jeevananthan](https://ca.linkedin.com/pub/luxsumi-jeevananthan/84/622/620),
            [Julia Nguyen](http://julianguyen.org/)
 + **What:** Panel on co-op experiences for new students 
