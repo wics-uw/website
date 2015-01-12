@@ -82,24 +82,24 @@ You can also tag posts! Try to use tags that have already been used on the
 other posts, but feel free to add new tags as necessary.
 
 Please try to use a consistent naming scheme. Articles are named by term,
-category, and slug; for instance, posting a video of a talk about automata in 
+category, and slug; for instance, posting a video of a talk about automata in
 S13 might be named `S13-media-automata.md`.
 
 #### Pages ####
 
-We only need a limited number of pages. You probably won't need to add many 
+We only need a limited number of pages. You probably won't need to add many
 more. These include things like our Code of Conduct, contact info, etc.
 
-It might be useful to add a page that doesn't show up in the site navigation. 
-To do so, make sure you set `Status: hidden` in the Markdown preamble. This 
-will cause the page to be generated without showing up in the site's main 
+It might be useful to add a page that doesn't show up in the site navigation.
+To do so, make sure you set `Status: hidden` in the Markdown preamble. This
+will cause the page to be generated without showing up in the site's main
 navigation.
 
 ### Markup beautification ###
 
-The theme we are currently using is called `notmyidea`. Pelican uses the 
-[jinja2](http://jinja.pocoo.org/docs/dev/) templating system; if you've used 
-Django, you'll find the templates very similar. 
+The theme we are currently using is called `notmyidea`. Pelican uses the
+[jinja2](http://jinja.pocoo.org/docs/dev/) templating system; if you've used
+Django, you'll find the templates very similar.
 
 To modify the theme css or html, simply take a look at the theme data under
 `theme/notmyidea/` and modify it at will.
@@ -127,9 +127,9 @@ To shut down the development server, use
 
 ## Deployment ##
 
-We are currently using the [Computer Science 
-Club](https://csclub.uwaterloo.ca)'s ["club 
-hosting"](http://wiki.csclub.uwaterloo.ca/Club_Hosting) as our webhost. You 
+We are currently using the [Computer Science
+Club](https://csclub.uwaterloo.ca)'s ["club
+hosting"](http://wiki.csclub.uwaterloo.ca/Club_Hosting) as our webhost. You
 must have a CSC login in the `wics` group to complete the next steps.
 
 To deploy the site, first log into the CSC's webserver:
