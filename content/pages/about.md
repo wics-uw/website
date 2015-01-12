@@ -21,7 +21,7 @@ M3 with Linux terminals!
 # Volunteer Opportunities #
 
 We can always use more volunteers! If you're interested in getting involved, 
-we'd love to hear from you. Email our executive team at 
+we'd love to hear from you. Email the [committee]({filename}/pages/exec.md) at
 <wics-ugrad@lists.uwaterloo.ca> and we'll get back to you as soon as we can.
 
 We have many diverse volunteer opportunities. This is not an exhaustive list, 
