@@ -1,5 +1,5 @@
 Title: Get to Know: Caley Brock
-Date: 2015-01-13 19:00
+Date: 2015-01-14 19:00
 Category: Blog
 Tags: get to know
 Slug: get-to-know-caley-brock
@@ -20,7 +20,7 @@ Rather than just pursuing a minor, she decided to make the full transition into 
 
 "I can only go so far with design, but if I build things so many more doors open," she cites.
 
-The transition was a vigourous process, as switching programs is "harder than switching schools". Caley's high school achievements were not screened. On top of maintaining grades for the arts faculty, she had to take all of the first year CS major courses and maintain at least a 70 average. It took about a year for her to enter the math faculty, become a CS major, and get into the co-op program.
+The transition was a rigorous process, as switching programs is "harder than switching schools". High school achievements are not put into consideration. On top of maintaining grades for the arts faculty, she had to take all of the first year CS major courses and maintain at least a 70 average. It took about a year for her to enter the math faculty, become a CS major, and get into the co-op program.
 
 Throughout the process, the lack of support from academic staff and classmates from both arts and math faculties took a toll on her self-esteem. An arts advisor discouraged her because it was uncommon for students to switch into CS due to the heavier workload. In the past, Caley believed that CS was an exclusive field for people who were considered "really smart".
 
