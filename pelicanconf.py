@@ -25,7 +25,7 @@ CATEGORY_URL = '{slug}/'
 CATEGORY_SAVE_AS = '{slug}/index.html'
 
 TAGS_SAVE_AS = 'tags/index.html'
-TAG_URL = 'tag/{slug}/'
+TAG_URL = 'tags/{slug}/'
 TAG_SAVE_AS = 'tags/{slug}/index.html'
 
 AUTHOR_URL = 'author/{slug}/'
