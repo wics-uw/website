@@ -18,18 +18,18 @@ careers, sexism, secure software development, management, burnout and ambition.
 + **Who:** Leigh Honeywell
 + **What:** Trust Your Gut: Adventures in the Worst Parts of the Tech Industry
 + **Where:** DC 1302
-+ **When:** Thursday, January 23, 5:30PM
++ **When:** Friday, January 23, 5:30PM
 <br><br>
 
 # About the Speaker #
 
-Leigh is a Security Engineer at [Heroku](https://heroku.com/), a
+Leigh Honeywell is a Security Engineer at [Heroku](https://heroku.com/), a
 [Salesforce.com](https://salesforce.com/) company. Prior to Heroku, she
 worked at [Microsoft](http://microsoft.com/msrc),
 [MessageLabs/Symantec](http://www.symantec.com/products-solutions/families/?fid=symantec-cloud),
 and Bell Canada.
 
-Her community work includes founding several hackerspace, and she is
+Her community work includes founding several hackerspaces, and she is
 currently Chief Security Officer of [Double Union](http://doubleunion.org/),
 a women's hackerspace in San Francisco. She is an administrator of the [Geek
 Feminism wiki](http://geekfeminism.wikia.com/) and
