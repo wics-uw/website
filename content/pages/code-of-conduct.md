@@ -37,9 +37,12 @@ unacceptable behavior.
 + Be mindful of your surroundings and of your fellow participants.
 
 If you notice a dangerous situation, someone in distress, or violations of this
-Code of Conduct, [contact our community
-leaders](mailto:wics-ugrad@lists.uwaterloo.ca). No situation is considered
-inconsequential.
+Code of Conduct, [contact the committee](mailto:wics-ugrad@lists.uwaterloo.ca).
+No situation is considered inconsequential. If you do not feel comfortable
+contacting the committee at large due to the nature of the incident, you may
+contact the [Women in Computer Science Undergraduate Committee
+Chair]({filename}/pages/exec.md) or the Chair of the at-large Women in Computer
+Science Committee, currently [Jo Atlee](mailto:jmatlee@uwaterloo.ca).
 
 # Unacceptable Behavior #
 
@@ -81,8 +84,9 @@ will also provide escorts as desired by the person experiencing distress.
 # Addressing Grievances #
 
 If you feel you have been falsely or unfairly accused of violating this Code of
-Conduct, you should contact the Women in Computer Science Undergraduate
-Committee with a concise description of your grievance.
+Conduct, you should contact the at-large Women in Computer Science Committee
+Chair, currently [Jo Atlee](mailto:jmatlee@uwaterloo.ca), with a concise
+description of your grievance.
 
 # Scope #
 
@@ -106,5 +110,5 @@ license](http://creativecommons.org/licenses/by-sa/3.0/), derived from the
 [Open Source Bridge Code of
 Conduct](http://opensourcebridge.org/about/code-of-conduct/).
 
-*Revision 1.0, adopted by the Women in Computer Science Undergraduate Committee
-on 8 September 2014.*
+*Revision 1.1, adopted by the Women in Computer Science Undergraduate Committee
+on 22 January 2015.*
