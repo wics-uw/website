@@ -32,7 +32,7 @@ With perseverance, Caley successfully transitioned into the computer science co-
 
 Caley found more confidence and support in her work terms. She believes that employers value what you can offer more than "how long you've programmed for" or what "grades you have".
 
-"Anybody can learn to program," she believes, "your value is what you can do top of that."
+"Anybody can learn to program," she believes, "your value is what you can do on top of that."
 
 In the workplace, Caley has found immense support from her co-workers. Kristin Powers, a PM and UX designer from her high school internship, inspires her to be more confident and not let anyone "stand in the way" of her ambitions. Sachin Agrawal, a mentor from her second work term, has challenged her to be a risk-taker and "take on projects that are absolutely terrifying".
 
