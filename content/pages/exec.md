@@ -15,13 +15,13 @@ Elana Hashman (`ehashman`)
 
 Evy Kassirer (`eawkassi`)
 
-## Administrative Director ##
+## Administrative Director &amp; Office Manager ##
 
 Anna Lorimer (`aemhlori`)
 
-## Big CSters Director ##
+## Big CSters Director &amp; Director of Public Outreach ##
 
-Vacant
+Julia Nguyen (`j52nguye`)
 
 ## Director of Educational Outreach ##
 
@@ -35,10 +35,6 @@ Fatema Boxwala (`fhboxwal`)
 
 Helen Mo Zhou (`m49zhou`)
 
-## Office Manager ##
-
-Julia Nguyen (`j52nguye`)
-
 ## Director of Publicity ##
 
 Jenny Sun (`j89sun`)
@@ -47,7 +43,7 @@ Jenny Sun (`j89sun`)
 
 Christina Liu (`xc2liu`)
 
-## System Administrator ##
+## Systems Administrator ##
 
 Melissa Tedesco (`matedesc`)
 
