@@ -1,7 +1,7 @@
 Title: Big CSters Board Game Meet and Greet
 Date: 2015-01-05 23:00
 Category: Events
-Tags: social
+Tags: social, big csters
 Slug: board-games
 Author: Elana Hashman
 Summary: We'll be meeting up in the Math CnD to play board games for this term's welcome event!
@@ -19,3 +19,6 @@ Hope to see you there!
 + **What:** Board Games Meet and Greet
 + **Where:** Math CnD (MC 3002)
 + **When:** Thu. Jan. 8, 7:00&ndash;11:00PM
+
+# About Big CSters #
+Big CSters is our mentorship program for female Computer Science students. We host social activities throughout the term for CSters to meet new friends in all stages of university life.
