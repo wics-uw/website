@@ -1,14 +1,14 @@
 Title: Get to Know: Holly Xu
-Date: 2015-01-23 19:00
+Date: 2015-01-26 19:00
 Category: Blog
 Tags: get to know
 Slug: get-to-know-holly-xu
 Author: Julia Nguyen
-Summary: This week I sat down with Holly Xu, a fourth year student to talk about her transition into CS from accounting, how robotics club boosted her confidence, and the importance of independence.
+Summary: This week I sat down with Holly Xu, a fourth year student, to talk about her transition into CS from accounting, how the robotics club boosted her confidence, and the importance of independence.
 
-There's a recurring theme in these interviews - taking risks. Overcoming self-esteem is a huge part of being a woman in computing. This week I sat down with Holly Xu, a fourth year student to talk about her transition into CS from accounting, how robotics club boosted her confidence, and the importance of independence.
+There's a recurring theme in these interviews &mdash; taking risks. Overcoming self-esteem is a huge part of being a woman in computing. This week I sat down with Holly Xu, a fourth year student, to talk about her transition into CS from accounting, how the robotics club boosted her confidence, and the importance of independence.
 
-![Photo of Holly Xu](http://i725.photobucket.com/albums/ww252/itsjulianguyen/holly_xu_zps74dlwd86.png "Holly Xu")
+![Photo of Holly Xu](/images/holly_xu.png "Holly Xu")
 
 Holly had a difficult decision to make when it came to applying to university. She had always been interested in computers, but she faced familial pressure to apply for accounting, an industry with a traditionally secure job market.
 
@@ -16,31 +16,31 @@ In high school, she was a website and t-shirt designer for the robotics club. Sh
 
 Despite receiving multiple offers to engineering programs, Holly settled on the Mathematics/Chartered Professional Accountancy program at the University of Waterloo. Between her first and second year, she realized she had no passion whatsoever for accounting. She envied her engineering friends who worked on exciting software projects.
 
-"Dude why am I not like you?!" she recalls her emotions.
+"Dude &mdash; why am I not like you?!" she recalls thinking.
 
-Holly's interest in computer science grew during a first year summer job in IT. Although she anticipated disapproval from her parents, she switched programs in a rebellious act of confidence. Since she was already in the Math faculty, the switch was a straightforward process.
+Holly's interests in computer science grew during a first year summer job in IT. She asserted her new-found confidence and switched programs before seeking approval from her parents. As an existing student in the Math faculty, the process with straightforward.
 
-"I realized any form that I sign at the university doesn't need parental consent. All you need is determination - visit the CS advisors," Holly reflects.
+"I realized any form that I sign at the university doesn't need parental consent. All you need is determination &mdash; visit the CS advisors."
 
-As a CS student, Holly faced low self-esteem. In high school, she was accustomed to excelling with little effort. School was now a "big kick in the face" because it felt like she was competing with all the the "smart people" who had impressive grades and résumés. She didn't believe she was "smart enough" - relying heavily on her family and friends for reassurance.
+As a CS student, Holly faced low self-esteem. In high school, she was accustomed to excelling with little effort. School was a "big kick in the face" because it felt like she was competing with all the the "smart people" who had impressive grades and r&eacute;sum&eacute;s. She didn't believe she was "smart enough", relying heavily on her family and friends for reassurance.
 
-"Everyone here is smart - don't let that discourage you. Learn to think more independently," Holly advises.
+"Everyone here is smart &mdash; don't let that discourage you. Learn to think more independently," Holly advises.
 
 At school, Holly had no mentors she could turn to for advice on self-esteem. Holly had peers she admired but never reached out to, which she regrets.
 
 The mentorships she had during co-op helped her to develop more confidence. Holly's mentors have supported her growth as a software engineer without patronizing her for being a woman. One of her first mentors, Leith Abdulla, encouraged her to ask more questions that were intimidating to ask.
 
-"He's a great communicator," she describes, "Whenever I had problems, he would try to approach it from my perspective. It was really helpful."
+"He's a great communicator," she recalls. "Whenever I had problems, he would try to approach it from my perspective. It was really helpful."
 
 In addition to achieving career goals during co-op, Holly is grateful for being able to travel and meet new people. She enjoys working at companies with many interns. Last term, she had a blast working with her close friend Jackie Baek in Venice Beach.
 
-After being employed, Jackie spent an entire term convincing Holly to join her. "To get me to go to a different city - it was her complete doing."
+Jackie spent an entire term convincing Holly to join her in the same co-op placement. "To get me to go to a different city &mdash; it was her complete doing."
 
 Holly describes Venice Beach as a touristy, sunny, and laid-back rural area tucked away in Los Angeles. The fact that it was not a technological hub like Silicon Valley encouraged her to go outside and try activities like surfing.
 
 "In Silicon Valley, Waterloo interns tend to just hang out with other Waterloo interns," she observes, "Travel to new places like Seattle or Austin! Meet new people who can offer new perspectives."
 
-"Living it out" is what Holly describes her attitude towards new experiences. This attitude has made her more self-reliant - making her more comfortable with offering support to others. Based on her experiences mentoring high school students in robotics club, she believes that mentorships should be treated as friendships.
+"Living it out" is what Holly describes her attitude towards having new experiences. This attitude has made her more self-reliant &mdash; making her more comfortable with offering support to others. Based on her experiences mentoring high school students in robotics club, she believes that mentorships should be treated as friendships.
 
 "I wish I was part of more opportunities to help women gain confidence in STEM. If you have any questions and would like to talk, I would love to help! I didn't realize how much young Holly needed it."
 
