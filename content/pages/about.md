@@ -2,6 +2,10 @@ Title: About
 Category: pages
 Summary: About WiCS
 
+<footer class="post-info">
+<img src="/images/logo.png" style="margin:5px">
+</footer>
+
 The Women in Computer Science Undergraduate Committee is a student-run 
 initiative that supports the success of women in computer science at Waterloo 
 by:
