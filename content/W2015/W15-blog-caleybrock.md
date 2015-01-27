@@ -4,11 +4,11 @@ Category: Blog
 Tags: get to know
 Slug: get-to-know-caley-brock
 Author: Julia Nguyen
-Summary: This week I sat down with Caley Brock, a fourth year student to talk about her transition into CS from arts, her passion for UI/UX, and how her support network keeps her grounded.
+Summary: This week I sat down with Caley Brock, a fourth year student, to talk about her transition into CS from arts, her passion for UI/UX, and how her support network keeps her grounded.
 
-Computer science is an intimidating field to get into, especially for students who have little or no exposure in high school. This week I sat down with Caley Brock, a fourth year student to talk about her transition into CS from arts, her passion for UI/UX, and how her support network keeps her grounded.
+Computer science is an intimidating field to get into, especially for students who have little or no exposure in high school. This week I sat down with Caley Brock, a fourth year student, to talk about her transition into CS from arts, her passion for UI/UX, and how her support network keeps her grounded.
 
-![Photo of Caley Brock](http://i725.photobucket.com/albums/ww252/itsjulianguyen/caley_brock_zpsd6b49556.png "Caley Brock")
+![Photo of Caley Brock](/images/caley_brock.png "Caley Brock")
 
 Despite her involvement in mathletes and engineering club in high school, Caley never pictured herself as an engineer or computer scientist. Although there were no programming classes offered at her school, she got the opportunity to intern as a QA tester for an educational games startup in Florida, her home state.
 
