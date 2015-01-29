@@ -4,11 +4,11 @@ Category: Blog
 Tags: get to know
 Slug: get-to-know-caley-brock
 Author: Julia Nguyen
-Summary: This week I sat down with Caley Brock, a fourth year student to talk about her transition into CS from arts, her passion for UI/UX, and how her support network keeps her grounded.
+Summary: This week I sat down with Caley Brock, a fourth year student, to talk about her transition into CS from arts, her passion for UI/UX, and how her support network keeps her grounded.
 
-Computer science is an intimidating field to get into, especially for students who have little or no exposure in high school. This week I sat down with Caley Brock, a fourth year student to talk about her transition into CS from arts, her passion for UI/UX, and how her support network keeps her grounded.
+Computer science is an intimidating field to get into, especially for students who have little or no exposure in high school. This week I sat down with Caley Brock, a fourth year student, to talk about her transition into CS from arts, her passion for UI/UX, and how her support network keeps her grounded.
 
-![Photo of Caley Brock](http://i725.photobucket.com/albums/ww252/itsjulianguyen/caley_brock_zpsd6b49556.png "Caley Brock")
+![Photo of Caley Brock](/images/caley_brock.png "Caley Brock")
 
 Despite her involvement in mathletes and engineering club in high school, Caley never pictured herself as an engineer or computer scientist. Although there were no programming classes offered at her school, she got the opportunity to intern as a QA tester for an educational games startup in Florida, her home state.
 
@@ -32,7 +32,7 @@ With perseverance, Caley successfully transitioned into the computer science co-
 
 Caley found more confidence and support in her work terms. She believes that employers value what you can offer more than "how long you've programmed for" or what "grades you have".
 
-"Anybody can learn to program," she believes, "your value is what you can do top of that."
+"Anybody can learn to program," she believes, "your value is what you can do on top of that."
 
 In the workplace, Caley has found immense support from her co-workers. Kristin Powers, a PM and UX designer from her high school internship, inspires her to be more confident and not let anyone "stand in the way" of her ambitions. Sachin Agrawal, a mentor from her second work term, has challenged her to be a risk-taker and "take on projects that are absolutely terrifying".
 
