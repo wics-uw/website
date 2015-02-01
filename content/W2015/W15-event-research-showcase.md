@@ -1,4 +1,4 @@
-Title: Academic Showcase and Mixer
+Title: Research Showcase and Mixer
 Date: 2015-02-04 17:30
 Category: Events
 Tags: talks, academia, social
@@ -19,6 +19,6 @@ connect with them and get to know more in a mixer setting.
 
 + **Who:** [Cecylia Bocovich](https://cs.uwaterloo.ca/~cbocovic/), [Marianna
   Rapoport](https://cs.uwaterloo.ca/~mrapopor/index.html), more TBA
-+ **What:** Academic Showcase and Mixer
++ **What:** Research Showcase and Mixer
 + **Where:** TBD
 + **When:** Wed. Feb 4, 5:30&ndash;7:00PM
