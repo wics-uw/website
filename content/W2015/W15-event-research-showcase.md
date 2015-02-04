@@ -17,8 +17,8 @@ connect with them and get to know more in a mixer setting.
 
 ## Event Details ##
 
-+ **Who:** [Cecylia Bocovich](https://cs.uwaterloo.ca/~cbocovic/), [Marianna
-  Rapoport](https://cs.uwaterloo.ca/~mrapopor/index.html), more TBA
++ **Who:** [Cecylia Bocovich](https://cs.uwaterloo.ca/~cbocovic/), [Erinn Atwater]
+(https://cs.uwaterloo.ca/~aatwater/),[Carolyn Lamb], [Laleh Ghoraie] 
 + **What:** Research Showcase and Mixer
-+ **Where:** M C 5417
++ **Where:** MC 5417
 + **When:** Wed. Feb 4, 5:30&ndash;7:00PM
