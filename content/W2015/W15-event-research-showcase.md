@@ -20,5 +20,5 @@ connect with them and get to know more in a mixer setting.
 + **Who:** [Cecylia Bocovich](https://cs.uwaterloo.ca/~cbocovic/), [Marianna
   Rapoport](https://cs.uwaterloo.ca/~mrapopor/index.html), more TBA
 + **What:** Research Showcase and Mixer
-+ **Where:** MC 5417
++ **Where:** M C 5417
 + **When:** Wed. Feb 4, 5:30&ndash;7:00PM
