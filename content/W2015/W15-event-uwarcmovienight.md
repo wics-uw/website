@@ -1,6 +1,6 @@
 Title: WiCS and UWARC Movie Night
 Date: 2015-02-12 19:00
-Category: Event
+Category: Events
 Tags: social
 Slug: uwarc-movie-night
 Author: Melissa Tedesco
