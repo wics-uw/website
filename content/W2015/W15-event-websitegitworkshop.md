@@ -10,7 +10,7 @@ Interested in creating your own personal website? Women in Computer Science will
 
 RSVP: There are limited spots available! Please fill out the following form by February 28th. We will let you know if you've been selected by March 3rd. http://goo.gl/forms/ybYZ4uL8Ld
 
-## Talk Details ##
+## Workshop Details ##
 
 + **Who:** Cis and trans women and non-binary folks
 + **What:** Github/git and website workshop
