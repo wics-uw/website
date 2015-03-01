@@ -14,6 +14,8 @@ Please try and bring your own mug if possible.
 
 Hope to see you there!
 
+Our Big CSters program helps connect ciswomen, transwomen, and non-binary students with other students in CS and related fields, through social events geared towards mentorship.
+
 ## Event Details ##
 
 + **Who:** Big and Little CSters
