@@ -151,7 +151,7 @@ aside, nav, article, figure {
 }
 
 /***** Layout *****/
-.body {clear: both; margin: 0 auto; width: 900px;}
+.body {clear: both; margin: 0 auto; width: 920px;}
 img.right, figure.right {float: right; margin: 0 0 2em 2em;}
 img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 
@@ -183,20 +183,20 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	/* Main Nav */
 	#banner nav {
 		background: #000305;
-		font-size: 1.09em;
+		font-size: 1.143em;
 		height: 40px;
 		line-height: 30px;
 		margin: 0 auto 2em auto;
 		padding: 0;
 		text-align: center;
-		width: 900px;
+		width: 920px;
 		
 		border-radius: 5px;
 		-moz-border-radius: 5px;
 		-webkit-border-radius: 5px;
 	}
 	
-	#banner nav ul {list-style: none; margin: 0 auto; width: 900px;}
+	#banner nav ul {list-style: none; margin: 0 auto; width: 920px;}
 	#banner nav li {float: left; display: inline; margin: 0;}
 	
 	#banner nav a:link, #banner nav a:visited {
@@ -231,7 +231,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px;
-	width: 860px;
+	width: 880px;
 	
 	border-radius: 10px;
 	-moz-border-radius: 10px;
@@ -260,7 +260,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px 20px;
-	width: 860px;
+	width: 880px;
 	
 	border-radius: 10px;
 	-moz-border-radius: 10px;
@@ -349,7 +349,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	overflow: hidden;
 	padding: 20px;
 	text-align: left;
-	width: 860px;
+	width: 880px;
 	
 	border-radius: 10px;
 	-moz-border-radius: 10px;
