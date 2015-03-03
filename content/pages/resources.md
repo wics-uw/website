@@ -1,12 +1,19 @@
 Title: Resources
 Category: pages
 Summary: Feminism101 and Other Resources
+Status: Hidden
 
-# Feminism101 #
+Confused? Not sure where to start? Well, you're in the right place. 
 
-[Geek Feminism 101](http://http://geekfeminism.wikia.com/wiki/Feminism_101)
+## Feminism101 ##
 
-[STEM Feminism 101 Panel @ UWaterloo](http://wics.uwaterloo.ca/2014/11/feminism101/)
+These resources give a basic overview women's issues not only in STEM, but in the world around them. 
+
+[Geek Feminism101](http://http://geekfeminism.wikia.com/wiki/Feminism_101)
+
+[Julie Pagano's Feminism101](http://juliepagano.com/blog/2013/11/02/101-off-limits/)
+
+[STEM Feminism101 Panel @ UWaterloo](http://wics.uwaterloo.ca/2014/11/feminism101/)
 
 [6 Reasons Why STEM Outreach is a Feminist Issue](http://everydayfeminism.com/2014/04/stem-outreach-feminist-issue/) 
 
@@ -16,7 +23,9 @@ Summary: Feminism101 and Other Resources
 
 [Feminist Fridays](https://www.youtube.com/playlist?list=PLfyCXMlxeWkgPOs4ZubIbxf_6HYv0ZQ9F)
 
-# WiCS Favourite Resources # 
+## WiCS Favourite Resources ## 
+
+Below is a collection of some of our favourite resources for meeting other women in STEM and learning to code.
 
 [Black Girls Code](http://www.blackgirlscode.com/)
 
