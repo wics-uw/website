@@ -151,7 +151,7 @@ aside, nav, article, figure {
 }
 
 /***** Layout *****/
-.body {clear: both; margin: 0 auto; width: 920px;}
+.body {clear: both; margin: 0 auto; width: 935px;}
 img.right, figure.right {float: right; margin: 0 0 2em 2em;}
 img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 
@@ -189,14 +189,14 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 		margin: 0 auto 2em auto;
 		padding: 0;
 		text-align: center;
-		width: 920px;
+		width: 935px;
 		
 		border-radius: 5px;
 		-moz-border-radius: 5px;
 		-webkit-border-radius: 5px;
 	}
 	
-	#banner nav ul {list-style: none; margin: 0 auto; width: 920px;}
+	#banner nav ul {list-style: none; margin: 0 auto; width: 935px;}
 	#banner nav li {float: left; display: inline; margin: 0;}
 	
 	#banner nav a:link, #banner nav a:visited {
@@ -231,7 +231,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px;
-	width: 880px;
+	width: 895px;
 	
 	border-radius: 10px;
 	-moz-border-radius: 10px;
@@ -260,7 +260,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px 20px;
-	width: 880px;
+	width: 895px;
 	
 	border-radius: 10px;
 	-moz-border-radius: 10px;
@@ -349,7 +349,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	overflow: hidden;
 	padding: 20px;
 	text-align: left;
-	width: 880px;
+	width: 895px;
 	
 	border-radius: 10px;
 	-moz-border-radius: 10px;
