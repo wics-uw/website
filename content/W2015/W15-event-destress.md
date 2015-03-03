@@ -4,13 +4,16 @@ Category: Events
 Tags: social
 Slug: de-stress
 Author: Anna Lorimer
-Summary: School is stressful! Come find out what strategies upper&ndash;year students use to handle their workload.
+Summary: School is stressful! Come find out what strategies upper-year students use to handle their workload.
 
-Big and Little CSters, we would like to invite you to our first CSters discussion circle all about de&ndash;stressing!
+Big CSters would like to invite you to our first CSters discussion circle all about de-stressing! There will be several activities centered around recognizing when you are stressed and what causes it. The evening will finish with a presentation and discussion of strategies to manage stress. 
 
-There will be tacos (vegetarian, gluten-free and vegan options are available) and other snacks! 
+There will be tacos (vegetarian option available) and other snacks! 
 
-Our Big CSters program helps connect ciswomen, transwomen, and non-binary students with other students in CS and related fields, through social events geared towards mentorship. 
+
+**About Big CSters**
+
+Our Big CSters program helps connect ciswomen, transwomen, and non-binary students with other students in Computer Science and related fields, through social events geared towards mentorship. 
 
 ## Event Details ##
 
