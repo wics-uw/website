@@ -13,7 +13,7 @@ There will be tacos (vegetarian option available) and other snacks!
 
 **About Big CSters**
 
-Our Big CSters program helps connect ciswomen, transwomen, and non-binary students with other students in Computer Science and related fields, through social events geared towards mentorship. 
+Our Big CSters program helps connect cis and trans, and non-binary folk students with other students in Computer Science and related fields, through social events geared towards mentorship. 
 
 ## Event Details ##
 
