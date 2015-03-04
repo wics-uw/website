@@ -1,7 +1,7 @@
 Title: Big CSters Tea Party Social
 Date: 2015-01-25 16:00
 Category: Events
-Tags: social
+Tags: social, big csters
 Slug: tea-party 
 Author: Melissa Tedesco 
 Summary: We'll be meeting up in the CS lounge for a tea party social!
@@ -13,6 +13,11 @@ There will be tea, pastries, and other snacks! Come out and socialize with other
 Please try and bring your own mug if possible.
 
 Hope to see you there!
+
+
+**About Big CSters:** Our Big CSters program helps connect cis &amp; trans
+women and non-binary students in computer science and related fields, through
+events geared towards mentorship and community-building.
 
 ## Event Details ##
 
