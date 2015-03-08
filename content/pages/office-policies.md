@@ -1,19 +1,18 @@
-Title: Office Policies
+Title: Office Policy
 Category: pages
 Status: hidden
 Slug: office policies
 
+# Personnel #
 
-WiCS OFFICE POLICY (Version 2.0 March 8th 2015) 
-
-PERSONNEL:
-
-* If the office is open for office hours, drop-ins or for any other reason, a MINIMUM of ONE committee member of WiCS must be present in the office at all times. 
+* If the office is open for office hours, drop-ins or for any other reason, a
+MINIMUM of ONE committee member of WiCS must be present in the office at all
+times.
 
 * All WiCS members occupying the office are responsible for complying with and enforcing the Code of Conduct. 
 
 
-CLEANUP:
+## Cleanup: ##
 
 * The last WiCS staff member to occupy the office is responsible for cleanup.
     * If the recycling and/or garbage is full, empty it. 
@@ -26,24 +25,28 @@ CLEANUP:
     * Lock the door.
 
 
-OFFICE HOURS:
+## Office Hours: ##
 
-* Office hours and services are open only to ciswomen, transwomen and non-binary folks.
+* Office hours and services are open only to cis and trans women, and non-
+binary folks.
 
-* The Code of Conduct is in effect at all times during office hours 
+* The Code of Conduct is in effect at all times during office hours.
 
-CODE OF CONDUCT:
 
-ANY PERSON WHO ENTERS THE WOMEN IN COMPUTER SCIENCE OFFICE IS SUBJECT TO THE CODE OF CONDUCT. THIS INCLUDES COMMITTEE MEMBERS.
-VIOLATIONS OF THE CODE OF CONDUCT WILL RESULT IN LOSS OF PRIVILEGES, FORMAL WARNINGS,  AND/OR LOSS OF MEMBERSHIP. 
+## Code of Conduct: ##
 
-The Code of Conduct can be found here: http://wics.uwaterloo.ca/code-of-conduct/ 
+Any person who enters the Women in Computer Science office is subject to the
+[Code of Conduct](http://wics.uwaterloo.ca/code-of-conduct/). This includes
+commitee members. Violations of the Code of Conduct will result in loss of
+privileges.
 
-MACHINES:
+## Machines: ##
 
-* The user of any of the computers provided by WiCS is responsible for their actions on that machine and any implications thereof as per our  Machine Usage Agreement. 
+* The user of any of the computers provided by WiCS is responsible for their
+actions on that machine and any implications thereof as per our  Machine
+Usage Agreement.
 
- LIBRARY: 
+## Library: ##
 
 * The library is free to use. 
 * Books and articles must not be removed from the office. 
