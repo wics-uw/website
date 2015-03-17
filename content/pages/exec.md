@@ -35,6 +35,10 @@ Fatema Boxwala (`fhboxwal`)
 
 Helen Mo Zhou (`m49zhou`)
 
+## Marketing Director ##
+
+Helga Jiang (`hhjiang`)
+
 ## Director of Publicity ##
 
 Jenny Sun (`j89sun`)
