@@ -18,8 +18,8 @@ success!
 ## Talk Details ##
 
 + **Who:** Alicia Liu
-+ **What:** Talk Title TBA
-+ **Where:** TBA
++ **What:** Life is tough and then you graduate
++ **Where:** MC 4020
 + **When:** Tuesday, March 31, 5:30PM
 <br><br>
 
