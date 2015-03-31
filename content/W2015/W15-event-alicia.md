@@ -20,7 +20,7 @@ success!
 + **Who:** Alicia Liu
 + **What:** Life is tough and then you graduate
 + **Where:** MC 4020
-+ **When:** Tuesday, March 31, 5:30PM
++ **When:** Tuesday, March 31, 6:00PM
 <br><br>
 
 # About the Speaker #
