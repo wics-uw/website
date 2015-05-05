@@ -5,52 +5,38 @@ Summary: Volunteer Positions
 
 These are the people making things happen!
 
-# Winter 2015 Committee #
+You can view [past terms' committees here]({filename}/pages/past-exec.md).
 
-## Executive Director ##
-
-Elana Hashman (`ehashman`)
+# Spring 2015 Committee #
 
 ## Chair ##
 
-Evy Kassirer (`eawkassi`)
+Position Vacant
 
-## Administrative Director &amp; Office Manager ##
+## Big CSters Director ##
 
-Anna Lorimer (`aemhlori`)
-
-## Big CSters Director &amp; Director of Public Outreach ##
-
-Julia Nguyen (`j52nguye`)
-
-## Director of Educational Outreach ##
-
-Srishti Gupta (`s88gupta`)
-
-## External Liaison ##
-
-Fatema Boxwala (`fhboxwal`)
+Position Vacant
 
 ## Director of Finance ##
 
-Helen Mo Zhou (`m49zhou`)
-
-## Marketing Director ##
-
-Helga Jiang (`hhjiang`)
+Position Vacant
 
 ## Director of Publicity ##
 
-Jenny Sun (`j89sun`)
+Position Vacant
+
+## Office Manager ##
+
+Position Vacant
 
 ## Secretary ##
 
-Christina Liu (`xc2liu`)
+Position Vacant
 
 ## Systems Administrator ##
 
-Melissa Tedesco (`matedesc`)
+Position Vacant
 
-## Core Volunteers ##
+## Volunteers ##
 
-Rose Xu (`h99xu`)
+Positions Vacant
