@@ -43,7 +43,7 @@ consent. All you need is determination&mdash;visit the CS advisors."
 
 As a CS student, Holly faced low self-esteem. In high school, she was
 accustomed to excelling with little effort. School was a "big kick in the face"
-because it felt like she was competing with all the the "smart people" who had
+because it felt like she was competing with all the "smart people" who had
 impressive grades and r&eacute;sum&eacute;s. She didn't believe she was "smart
 enough," relying heavily on her family and friends for reassurance.
 
