@@ -1,5 +1,5 @@
 Title: Get to Know: Rasheeda Yehuza
-Date: 2015-05-05 18:00
+Date: 2015-05-08 18:00
 Category: Blog
 Tags: get to know
 Slug: get-to-know-rasheeda-yehuza
@@ -16,7 +16,7 @@ For this project, VOTO Mobile partnered with [Savana Signatures](http://savsign.
 
 Back in Ghana, Rasheeda is passionate about changing the perception of STEM for women. All around the world, the low representation of women in STEM is alarming, and even more in Africa.
 
-Rasheeda was chosen this year to be a fellow at the [Kumvana Program](http://kumvana.ewb.ca) of Engineers Without Borders Canada. As part of her fellowship, she toured Canadian tech companies and innovation labs for a month. She was surprised to learn that getting women involved in STEM was still a huge problem in North America.
+Rasheeda was chosen this year to be a fellow at the [Kumvana Program](http://kumvana.ewb.ca) of Engineers Without Borders Canada. As part of her fellowship, she toured Canadian tech companies and innovation labs for a month. She was surprised to learn that getting women involved in STEM is still a huge problem in North America.
 
 "When I was growing up, I was introduced to a computer at the age of 8, which is huge in Ghana," she recounts.
 
@@ -36,7 +36,7 @@ Rasheeda took a leap of faith in her final year of high school and enrolled in h
 
 In university, there were 10 women in her class of a hundred and only 4 of them moved on to graduate studies. First year was difficult for Rasheeda, she felt like she was behind her peers because she had never programmed before.
 
-"The first programming course I had taught C++. I remember struggling with writing a program to find prime numbers," she recalls.
+"The first programming course I took taught C++. I remember struggling with writing a program to find prime numbers," she recalls.
 
 "Unlike today, there were very few websites back then that could help beginners with programming. People struggled on their own and many of her classmates, not just women, dropped out."
 
@@ -52,12 +52,12 @@ Years before Twitter exploded, she built a similar social network called Snapper
 
 Rasheeda found that confidence in her final undergraduate year. She met her dear friend and future co-founder Regina Agyare, a prominent tech guru in Ghana. Regina is the founder of [Soronko Solutions](http://www.soronkosolutions.com), a software development company that focuses on social enterprise. Her story has been featured in Sheryl Sandberg's *Lean In: Women, Work, and the Will to Lead*.
 
-"The first thought I had when I met her was, ‘Wow a woman in computer science that is older than me! It was amazing and it was the best feeling I had in a long time'."
+"The first thought I had when I met her was, 'Wow a woman in computer science that is older than me!' It was amazing and it was the best feeling I had in a long time."
 
-As a result of this chance encounter, the two embarked together on a new project called [Tech Needs Girls](http://www.soronkosolutions.com/tng.html). The first step for them was to raise awareness of computer science education by creating a community for women, young and old, to support one another.
+As a result of this chance encounter, the two embarked together on a new project called [Tech Needs Girls](http://www.soronkosolutions.com/tng.html). The first step for them was to raise awareness of computer science by creating a community for women, young and old, to support one another.
 In June 2013, they held their first workshop. Although they succeeded in raising awareness of the women in STEM problem, Rasheeda felt like the curriculum was a complete failure.
 
-"We introduced the kids to Java, which is the worst thing you can do to anyone. Setting up the ‘Hello World' program is easy, but we couldn't teach them anything else effectively," she explains.
+"We introduced the kids to Java, which is the worst thing you can do to anyone. Setting up the 'Hello World' program is easy, but we couldn't teach them anything else effectively," she explains.
 
 "We took a step back a built an entirely new curriculum. In our next iteration, we started with HTML, which was also a huge mistake."
 
@@ -69,7 +69,7 @@ Once the girls were able to grasp the problem-solving process, HTML and Scratch 
 
 "We didn't have to explain much to the girls, even though many of them had never used a computer until they started attending our workshops. It was an emotional moment when I realized they knew what logic meant and what it was like to build processes and algorithms. Their confidence skyrocketed."
 
-Tech Needs Girls would later partner with [Achievers Ghana](http://achieversghana.org), a club started by a 12-year-old girl named Amina to encourage success for girls. Both these organizations work towards the fact that a girl succeeding can bring about positive social change in her community.
+Tech Needs Girls would later partner with [Achievers Ghana](http://achieversghana.org), a club started by a 12-year-old girl named Amina to encourage girls to succeed. Both these organizations work towards the fact that a girl succeeding can bring about positive social change in her community.
 
 "It's important to invite successful women from the communities these girls are from. When girls see women that represent their background, they feel more motivated to take control of their lives. My goal is to teach girls that your profession is not just a tool for income, but also a tool for change."
 
@@ -79,7 +79,7 @@ Change means a lot of things to Rasheeda. Beyond the tech scene in Ghana, she is
 
 Across these tribes, the treatment and perception of women needs a significant overhaul. In some communities, it's still considered taboo for men to be in the kitchen. Women are still limited to stereotypical, child-rearing roles.
 
-"If I weren't in computer science, I would be a professional football player. At an early age, I was discouraged by my neighbourhood to play. In Ghana, parents don't raise their child alone - the community raises them."
+"If I weren't in computer science, I would be a professional football player. At an early age, I was discouraged by my neighbourhood to play. In Ghana, parents don't raise their child alone&mdash;the community raises them."
 
 Therefore, fixing the diversity problem in tech requires educating the community.
 
@@ -87,7 +87,7 @@ Therefore, fixing the diversity problem in tech requires educating the community
 
 Rasheeda's strong determination and activism has had its fair share of skeptics and naysayers.
 
-"I've had people question why I am doing so much to empower girls, as if my goal was to make women more superior than men. I used to take the negativity personally, but now I ignore the people who don't have the courage to share their thoughts to my face. What motivates me is what I love to do."
+"I've had people question why I am doing so much to empower girls, as if my goal is to make women more superior than men. I used to take the negativity personally, but now I ignore the people who don't have the courage to share their thoughts to my face. What motivates me is the work I love to do."
 
 Thanks to Tech Needs Girls, organizations have popped up across Africa to promote and support women in STEM. Rasheeda's ultimate goal for Tech Needs Girls is to push the curriculum into mainstream Ghanaian education. She wants to put Ghana and ultimately Africa on the map for tech, and break down negative stereotypes from the rest of the world.
 
