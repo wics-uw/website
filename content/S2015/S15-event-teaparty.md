@@ -21,4 +21,4 @@ events geared towards mentorship and community-building.
 + **What:** Tea Party Social
 + **Where:** CS Lounge (DC 3336)
 + **When:** Mon. May 11, 7:00&ndash;8:00PM
-+ **Facebook Event Page:** Click [here](https://www.facebook.com/events/754739661319138/)
++ **Facebook Event Page:** Click [here](https://www.facebook.com/events/754739661319138/).
