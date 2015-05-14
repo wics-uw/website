@@ -8,7 +8,7 @@ Summary: Last term, WiCS had the incredible privilege of meeting Rasheeda Yehuza
 
 Last term, WiCS had the incredible privilege of meeting Rasheeda Yehuza, a software engineer and computer scientist who changes the way people engage with technology in Ghana. In this interview, Rasheeda shares her journey in computer science, her passion for engaging girls in STEM, and her thoughts on Ghana's emerging tech scene.
 
-![Photo of Rasheeda Yehuza](http://i725.photobucket.com/albums/ww252/itsjulianguyen/rasheeda_yehuza_zpsmotg82t4.png "Rasheeda Yehuza")
+![Photo of Rasheeda Yehuza](/images/rasheeda_yehuza.png "Rasheeda Yehuza")
 
 Rasheeda currently works at [VOTO Mobile](https://www.votomobile.org), a mobile phone notification and survey platform that bridges communication gaps between lifesaving services and people in the most vulnerable communities. She recently worked on a maternal health project in Northern Ghana, where there are high mortality rates and no access to adequate health care resources.
 
