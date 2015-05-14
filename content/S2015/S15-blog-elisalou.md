@@ -8,7 +8,7 @@ Summary: Last winter, Elisa Lou wrapped up her undergraduate career at the Unive
 
 Last winter, Elisa Lou wrapped up her undergraduate career at the University of Waterloo. In this edition of Get to Know, Elisa shares with us the valuable lessons she learned as a software engineering student, a co-op student, and a woman in computing.
 
-![Photo of Elisa Lou](http://i725.photobucket.com/albums/ww252/itsjulianguyen/elisa_lou_zpszonm6eem.png "Elisa Lou")
+![Photo of Elisa Lou](/images/elisa_lou.png "Elisa Lou")
 
 Elisa's journey with computer science education started in the 10th grade.
 
