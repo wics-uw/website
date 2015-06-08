@@ -11,31 +11,31 @@ You can view [past terms' committees here]({filename}/pages/past-exec.md).
 
 ## Chair ##
 
-Position Vacant
+Fatema Boxwala (`fhboxwal`)
 
 ## Big CSters Director ##
 
-Position Vacant
+Akshaya Senthil (`aksenthi`)
 
 ## Director of Finance ##
 
-Position Vacant
+Christina Liu (`xc2liu`)
 
 ## Director of Publicity ##
 
-Position Vacant
+Helga Jiang (`hhjiang`)
 
 ## Office Manager ##
 
-Position Vacant
+Claire Ng (`c32ng`)
 
 ## Secretary ##
 
-Position Vacant
+Anna Lorimer (`aemhlori`)
 
 ## Systems Administrator ##
 
-Position Vacant
+Ameesha Isaac (`asisaac`)
 
 ## Volunteers ##
 
