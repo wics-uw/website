@@ -24,4 +24,4 @@ events geared towards mentorship and community-building.
 + **Where:** MC 5417
 + **When:** Tue. June 9, 5:30&ndash;7:00PM
 + **Facebook Event Page:** Click
-[here](https://www.facebook.com/events/754739661319138/).
+[here](https://www.facebook.com/events/859947664055127/).
