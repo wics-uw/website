@@ -27,7 +27,7 @@ Helga Jiang (`hhjiang`)
 
 ## Office Manager ##
 
-Claire Ng (`c32ng`)
+Clare Ng (`c32ng`)
 
 ## Secretary ##
 
