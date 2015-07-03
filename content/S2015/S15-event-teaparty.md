@@ -1,8 +1,8 @@
-itle: Big CSters Tea Party Social
+title: Big CSters Tea Party Social
 Date: 2015-05-11 18:30
 Category: Events
 Tags: social, big csters
-Slug: tea-party 
+Slug: tea-party-s15 
 Author: Anna Lorimer 
 Summary: We'll be meeting up in the CS lounge for a tea party social!
 
