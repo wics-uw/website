@@ -1,4 +1,4 @@
-te: 2015-07-11 9:00
+te: 2015-07-15 6:30
 ++Category: Events
 ++Tags: academic
 ++Slug: intersectionality-workshop
