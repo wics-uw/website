@@ -8,7 +8,7 @@ Summary: Hitch a ride with WiCS to AlterConf in Toronto!
 
 WiCS has chartered a bus to transport Univeristy of Waterloo students to
 AlterConf on Saturday July 11 2015! Space is limited so be sure to
-[register](https://goo.gl/86ILSn) and RSVP to the FaceBook event below.
+[register](https://goo.gl/86ILSn).
 
 AlterConf is a traveling conference series that provides safe opportunities for
 marginalized people and those who support them in the tech and gaming
