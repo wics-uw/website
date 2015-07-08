@@ -1,4 +1,4 @@
-iTitle: WiCS is going to AlterConf Toronto! 
+Title: WiCS is going to AlterConf Toronto! 
 Date: 2015-07-11 9:00
 Category: Events
 Tags: social
