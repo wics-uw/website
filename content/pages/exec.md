@@ -17,6 +17,14 @@ Fatema Boxwala (`fhboxwal`)
 
 Akshaya Senthil (`aksenthi`)
 
+## Director of Educational Outreach ##
+
+Srishti Gupta (`s88gupta`)
+
+## Events Coordinator ##
+
+Jenny Sun (`j89sun`)
+
 ## Director of Finance ##
 
 Christina Liu (`xc2liu`)
