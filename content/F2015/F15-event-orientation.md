@@ -1,5 +1,4 @@
-title: Orientation Event and Dinner Date: 2015-09-13 15:00-18:00 Category: Events Tags: social, big csters, academic Slug: orientation-F15 Author: Fatema Boxwala Summary: Come out and learn about the university life, and get to know some
-awesome women in CS!
+title: Orientation Event and Dinner Date: 2015-09-13 15:00-18:00 Category: Events Tags: social, big csters, academic Slug: orientation-F15 Author: Fatema Boxwala Summary: Come out and learn about the university life, and get to know some awesome women in CS!
 
 Welcome to Waterloo, incoming first-year women in CS! To help you get used to life here
 at Waterloo, WiCS is holding an orientation event, the last day before classes 
