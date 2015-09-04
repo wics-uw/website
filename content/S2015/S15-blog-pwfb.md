@@ -1,5 +1,5 @@
 Title: Python Workshops for Beginners (PWFB) Follow-up
-Date: 2015-06-08 19:00
+Date: 2015-09-04 19:00
 Category: Blog
 Tags: pwfb, workshop
 Slug: pwfb-followup
