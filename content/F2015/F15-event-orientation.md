@@ -1,5 +1,5 @@
 title: Orientation Event and Dinner
-Date: 2015-09-13 15:00
+Date: 2015-08-22 15:00
 Category: Events
 Tags: social, big csters, academic
 Slug: orientation-F15
