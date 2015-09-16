@@ -1,5 +1,5 @@
 title: CSC and WiCS Career Panel
-Date: 2015-08-30
+Date: 2015-09-24
 Category: Events
 Tags: panels, industry
 Slug: career-panel-F15
