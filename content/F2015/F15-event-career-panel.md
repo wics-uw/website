@@ -13,8 +13,11 @@ beyond university. A great chance to network and seek advice!
 The panelists are:
 
 Joanne Mckinley - Software Engineer, Google
+
 Carol Kilner - COO, BanaLogic Corporation
+
 Harshal Jethwa - Consultant, Infusion
+
 Dan Collens - CTO, Big Roads
 
 Food and drinks will be provided! Please register [here](https://docs.google.com/forms/d/1G-8LFLgxQUkahXvODpS2cVSvceNibTt18Uc8TnhlKI8/viewform?usp=send_form)
