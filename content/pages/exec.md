@@ -7,7 +7,7 @@ These are the people making things happen!
 
 You can view [past terms' committees here]({filename}/pages/past-exec.md).
 
-# Spring 2015 Committee #
+# Fall 2015 Committee #
 
 ## Chair ##
 
