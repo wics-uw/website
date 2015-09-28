@@ -11,35 +11,39 @@ You can view [past terms' committees here]({filename}/pages/past-exec.md).
 
 ## Chair ##
 
-Andee Liao (`xqliao`)
+Fatema Boxwala (`fhboxwal`)
 
 ## Big CSters Director ##
 
-Jessica Yuwono (`jryuwono`)
+Akshaya Senthil (`aksenthi`)
+
+## Director of Educational Outreach ##
+
+Srishti Gupta (`s88gupta`)
 
 ## Events Coordinator ##
 
-Ziwei Zhao (`z86zhao`)
+Jenny Sun (`j89sun`)
 
 ## Director of Finance ##
 
-Arshia Mufti (`a2mufti`)
+Christina Liu (`xc2liu`)
 
 ## Director of Publicity ##
 
-Clare Ng (`c32ng`)
+Helga Jiang (`hhjiang`)
 
 ## Office Manager ##
 
-Mengxue Yang (`m47yang`)
+Clare Ng (`c32ng`)
 
 ## Secretary ##
 
-Evy Kassirer (`eawkassi`)
+Anna Lorimer (`aemhlori`)
 
 ## Systems Administrator ##
 
-Saadiya Desai (`sidesai`)
+Ameesha Isaac (`asisaac`)
 
 ## Volunteers ##
 
