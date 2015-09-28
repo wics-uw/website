@@ -3,12 +3,6 @@ Category: pages
 Status: hidden
 Summary: Volunteer Positions
 
-These are the people making things happen!
-
-You can view [past terms' committees here]({filename}/pages/past-exec.md).
-
-# Spring 2015 Committee #
-
 ## Chair ##
 
 Fatema Boxwala (`fhboxwal`)
