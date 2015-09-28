@@ -1,0 +1,13 @@
+{
+  "name":"WiCS UW Website",
+  "buildpacks": [
+    {
+      "url": "https://github.com/wics-uw/heroku-buildpack-pelican"
+    }
+  ],
+  "env": {
+    "HEROKU_APP_NAME": {
+      "required": true
+    }
+  }
+}
