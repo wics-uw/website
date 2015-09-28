@@ -6,7 +6,8 @@ Slug:  tea-party-F15
 Author: Ziwei Zhao
 Summary:  We'll be meeting up in the CS lounge for a tea party social!
 
-Come out for an evening of tea, snacks and board games with fellow women in CS!
+Come out for an evening of tea, snacks and board games with fellow women in CS! 
+Heroku test
 
 Please bring your own mug if you can!
 
