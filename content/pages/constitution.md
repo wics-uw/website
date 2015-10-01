@@ -4,61 +4,62 @@ hidden: true
 
 # Structure of Organization #
 
-The Women in Computer Science Undergraduate Subcomittee is a
+The &ldquo;Women in Computer Science Undergraduate Committee&rdquo; is a
 subcommittee of Women in Computer Science, a standing committee of the
 Cheriton School of Computer Science. For the remainder of this document,
 this standing committee will be referred to as the "WiCS Committee". All
-references to: "the undergraduate committee", "the committee", and
-"committee members" refer to the Undergraduate Subcommittee unless
+references to: &ldquo;the undergraduate committee&rdquo;, &ldquo;the committee&rdquo;, and
+&ldquo;committee members&rdquo; refer to the Undergraduate Committee unless
 otherwise specified.
 
 ## Purpose and Vision ##
 
-The undergraduate committee aims to create a safe environment for cis
-and trans women as well as non-binary individuals in computer science,
-and to advocate for the inclusion of these marginalized groups in the
+The undergraduate committee aims to foster a safe environment for cis
+and trans women and non-binary individuals in computer science,
+and to advocate for the inclusion of these underrepresented groups in the
 computer science community at large.
 
 ## Representation ##
 
-The Women in Computer Science Undergraduate Subcommittee aims to
+The Women in Computer Science Undergraduate Committee aims to
 represent and support undergraduate cis and trans women, and non-binary
-individuals in computer science. Additionally, we seek to include and
-support members of all underrepresented groups in the fields of
-technology and computing, with the most varied and diverse backgrounds
-possible.
+individuals enrolled in computer science and related undergraduate programs 
+at the University of Waterloo. Additionally, we seek to include and support
+members of all underrepresented groups in the fields of technology and 
+computing, with the most varied and diverse backgrounds possible.
 
 ## Values ##
 
-1.  Inclusiveness: The undergraduate commitee is committed to creating
-    and inclusive environment in which women of all backgrounds will
-    feel welcome.
+1.  *Inclusiveness*: The undergraduate commitee is committed to fostering
+    an inclusive environment in which women of all backgrounds will
+    feel welcome, and to which they can contribute.
 
-2.  Humility: In all it's activities, the committee will acknowledge and
+2.  *Humility*: The committee will acknowledge and
     respect the perspectives of those with experiences different to
     ours, and will strive to understand and incorporate these
     perspectives.
 
-3.  Respoect: All members of the community will be respected, despite
+3.  *Respect*: All members of the community will be treated with respect, regardless of
     difference in opinions and values.
 
-4.  Transparency: The actions of the committee will be visible to
+4.  *Transparency*: As leaders, our actions and decision-making must be visible to
     promote accountability, and all decision-making will be open and
-    well-documented.
+    well-documented within the committee and with the public when possible.
 
-5.  Honesty: The committee will create an environment to promote honest
-    disclosure. All members should feel free speaking about any opinions
-    and feelings.
+5.  *Honesty*: The committee will foster an environment to promote honest
+    disclosure. All community members should feel free to voice their opinions and feelings. 
+    We acknowledge that everyone makes mistakes: honest disclosure and taking responsibility
+    will always be supported.
 
-6.  Technical Excellence: The committee acknowledges that it's
+6.  *Technical Excellence*: The committee acknowledges that its
     fundamental goal is to support diversity in technical work, and
     members will strive to achieve excellence in this work themselves.
 
 # Committee Composition #
 
-1.  Only undergraduate cis- and trans-women and non-binary individuals
-    enrolled in computer science or a related program may serve on the
-    committee. The committtee will be comprised of the following roles:
+1.  Only undergraduate cis and trans women and non-binary individuals
+    enrolled in computer science or a related undergraduate program may 
+    serve on the committee. The committtee will be comprised of the following roles:
 
     -   Chair,
 
@@ -81,14 +82,14 @@ possible.
 
     -   To chair all meetings;
 
-    -   To publicly represent the committee as the direct link to
+    -   To publicly represent the committee as the primary contact for
         external groups;
 
     -   To represent the undergraduate committee at meetings of the WiCS
         Committee;
 
     -   To represent the undergraduate committee at meetings of any
-        other external organization; to which the commiittee is
+        other external organization to which the committee is
         accountable, when appropriate, such as the Mathematics Society;
 
     -   To secure funding for the committee's endeavours in
@@ -103,9 +104,7 @@ possible.
     -   To represent the undergraduate committee at meetings of the WiCS
         Committee;
 
-    -   To build consensus among members in the decision-making process;
-
-    -   To ensure all members are comleting assigned resposibilities;
+    -   To track the completion of all duties assigned to members of the committee;
 
     -   To maintain the non-financial records of the committee.
 
@@ -123,7 +122,7 @@ possible.
 
 5.  The duties of the Office Manager are:
 
-    -   To maintain the Office Policy;
+    -   To maintain and uphold the Office Policy;
 
     -   To train and manage office staff;
 
@@ -135,68 +134,71 @@ possible.
 
 6.  The duties of the System Administrator are:
 
-    -   To chair the Systems Committee ("wics-sys");
+    -   To chair the Systems Committee (&ldquo;wics-sys&rdquo;);
 
-    -   To maintain the committee's systems, including office terminals
-        and servers;
-
-    -   To maintain the official website, wics.uwaterloo.ca;
-
-    -   To be the authority on matters regarding usage of systems.
+    -   To be the authority on matters regarding usage of systems;
+    
+    -   To maintain access control lists for the committee's computing resources, 
+        including office terminals and servers;
+    
+    -   To maintain and enforce the Machine Usage Agreement, dictating acceptable use
+        of the committee's computing resources.
 
 7.  The duties of the Big CSters Director are:
 
-    -   To maintain the Big CSters community through useful and
+    -   To maintain the Big CSters community through supportive and
         inclusive programming, such as workshops and discussion circles;
 
-    -   To run the Big CSters mentoring program, holding an absolute
-        minimum of two events per term;
+    -   To lead the Big CSters mentoring program, running no fewer than
+        two events per term;
 
     -   To administer the CSters mailing list.
 
 8.  The duties of the Diretor of Publicity are:
 
-    -   To publicize events and other endeavours of the committee
-        through physical and electronic means;
+    -   To publicize events and other committee activities through physical and 
+        electronic means;
 
     -   To design all media circulated by the committee including:
         posters, social media profiles and the official website.
 
-# Procedures #
+All committee memebers are free to delegate their responsibilities to others as 
+as they see fit, but are ultimately responsible for the completion of their 
+assigned duties.
 
-Any changes to procedures must be proposed with at least one week's
-notice, and ratified at an official meeting of the undergraduate
-committee.
+# Procedures #
 
 ## Policy ##
 
-1.  Code of Conduct\
+Any changes to policy must be proposed with at least one week's
+notice, and ratified at an official meeting of the undergraduate
+committee.
+
+### Code of Conduct ###
     The Code of Conduct outlines expected behaviour for all members of
-    the community at any event affiliated with the undergraduate
-    committee. Any member of the committee may prpose an amendment to
-    the CoC. The committee must ratify any proposed amendments to the
-    Code of Conduct.
+    the community at any community venues, online and in-person, and in 
+    any communications pertaining to committee business. Any member of 
+    the committee may prpose an amendment to the CoC. The committee must
+    ratify any proposed amendments to the Code of Conduct.
 
-2.  Machine Usage Agreement\
+### Machine Usage Agreement ###
     The Machine Usage Agreement outlines expected conduct when using any
-    machines maintained by the undergraduate committee. The machine
-    usage agreement is maintained by the systems administrator. Any
-    proposed changes must be first ratified by wics-sys, followed by the
-    entire committee.
+    machines maintained by the undergraduate committee. Any
+    proposed changes must be first ratified by the Systems Committee, 
+    followed by the entire committee.
 
-3.  Office Poliy\
+### Office Policy ###
     Office Policy outlines expected behaviour in the WiCS Undergraduate
-    Committee office, M3 1003. The office policy is maintained by the
-    Office Manager. Any proposed changes must be ratified by the
+    Committee office, M3 1003. Any proposed changes must be ratified by the
     committee.
 
-## Succession Procedure ##
+## Succession Procedures ##
 
-1.  No later than the end of the first week of the fourth month of the
-    current term, a call for committee members should be announced on
-    the website and sent out to all affiliated mailing lists.
+1.  No later than the last day of classes of current term, a call for 
+    committee members for the upcoming term shall be announced on the
+    website and sent out to all affiliated mailing lists.
 
-2.  New volunteers caan apply to be on the committee for the following
+2.  New volunteers can apply to be on the committee for the following
     term, and the current committee will select applicants for
     interviews. A new volunteer shall be anyone who has never served on
     the committee before, or has not served on the committee for 4 or
@@ -259,11 +261,18 @@ committee.
 -   The Systems Committee (wics-sys) shall:
 
     1.  Be chaired by the systems administrator;
+    
+    2. Consist solely of members appointed by the systems administrator;
 
-    2.  Operate all equipment in the possession of the committee;
+    3.  Operate all computing equipment in the possession of the committee;
 
-    3.  Maintain and upgrade the software on the equipment used by the
-        committee.
+    4.  Maintain and upgrade all systems in possession of the committee, including
+        office terminals and servers;
+        
+    5.  To maintain the committee's source code repositories and software;
+
+    6.  To maintain the committee's official website, wics.uwaterloo.ca.
+
 
 -   Other Committees\
     The undergraduate committee can create and task standing committees
