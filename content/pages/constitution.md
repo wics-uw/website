@@ -1,5 +1,6 @@
 Author: Fatema Boxwala
-Summary: Constitution for WiCS Undergrad Subcommittee
+Title: Constitution
+hidden: true
 
 # Structure of Organization #
 
