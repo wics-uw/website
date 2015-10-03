@@ -10,7 +10,7 @@ Snacks and swag will be provided!
 
 ## Event Details ##
 
-+ **Who:** Three female engineers from Pinterest
++ **Who:** Iva Milo, JJ Liu, Kelsey Stemmler 
 + **What:** Pinterest Tech Talk
 + **Where:** MC Comfy Lounge (3rd Floor MC)
 + **When:** Tues. Oct 6, 6:00PM
