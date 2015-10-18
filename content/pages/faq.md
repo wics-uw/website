@@ -8,7 +8,7 @@ out]({filename}/pages/contact.md) to us!
 
 ## What does &ldquo;women-only&rdquo; mean? ##
 
-Our women-only events are open to cis and trans women, and non-binary folk.
+Our women-only events are open to cis and trans women, and non-binary individuals.
 
 ## Why do you sometimes hold women-only events? ##
 
