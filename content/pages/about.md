@@ -17,7 +17,7 @@ by:
   science, technology, engineering and mathematics (STEM) at large
 + Arranging outreach and educational activities in computer science and 
   technology
-+ Providing supportive, women-only spaces (trans folk welcome!)
++ Providing supportive, [&ldquo;women-only&rdquo;]({filename}/pages/faq.md) spaces for cis & trans women and non-binary individuals
 
 If you want to visit us, we have an [office]({filename}/pages/contact.md) in 
 M3 with Linux terminals!
