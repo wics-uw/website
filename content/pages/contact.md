@@ -35,6 +35,8 @@ Fund](http://www.student.math.uwaterloo.ca/~mefcom/), and comfortable and clean
 desk space. We will publish our office hours on [the 
 calendar]({filename}/pages/calendar.md).
 
+When you visit us, keep in mind our [office policy](/office-policy/). 
+
 ## Mailing address ##
 
 Women in Computer Science Undergraduate Committee  
