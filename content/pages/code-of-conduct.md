@@ -2,6 +2,7 @@ Title: Code of Conduct
 Date: 2014-09-08 12:00
 Category: pages
 Author: Elana Hashman
+Status: hidden
 Summary: Code of Conduct for WiCS activities
 
 Our Code of Conduct is our commitment to the community to provide a welcoming,
