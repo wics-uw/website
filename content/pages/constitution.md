@@ -253,7 +253,7 @@ committee.
     to the committee and how to proceed. Otherwise, the objected person
     will be automatically accepted for the next term.
 
-5.  Once the committee has been chosen, the Director of the WiCS
+5.  Once the committee has been chosen, the Chair of the WiCS
     Committee must ratify the new committeee.
 
 ## Standing Committees ##
