@@ -1,6 +1,6 @@
 Author: Fatema Boxwala
 Title: Constitution
-hidden: true
+status: hidden
 
 # Structure of Organization #
 
