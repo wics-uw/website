@@ -5,8 +5,8 @@ status: hidden
 # Structure of Organization #
 
 The &ldquo;Women in Computer Science Undergraduate Committee&rdquo; is a
-subcommittee of Women in Computer Science, a standing committee of the
-Cheriton School of Computer Science. For the remainder of this document,
+subcommittee of the Women in Computer Science Committee, a standing committee 
+of the Cheriton School of Computer Science. For the remainder of this document,
 this standing committee will be referred to as the "WiCS Committee". All
 references to: &ldquo;the undergraduate committee&rdquo;, &ldquo;the committee&rdquo;, and
 &ldquo;committee members&rdquo; refer to the Undergraduate Committee unless
@@ -233,7 +233,7 @@ committee.
     -   Existing committee members may compose no more than 75% of the
         new committee, if more existing members are nominated than 75%
         can accomodate, each returning member will submit a new
-        application to be reviewed by the serving Director of the WiCS
+        application to be reviewed by the serving Chair of the WiCS
         Committee.
 
 4.  If there are any objections to an applicant, this procedure should
