@@ -3,8 +3,6 @@ Category: pages
 Status: hidden
 Slug: office-policy
 
-(Version 2.0 March 8th 2015)
-
 ## Personnel ##
 
 * If the office is open for office hours, drop-ins or for any other reason, a
@@ -48,3 +46,6 @@ Agreement.
 
 * The library is free to use. 
 * Books and articles must not be removed from the office.
+
+*Revision 2.0, adopted by the Women in Computer Science Undergraduate Committee
+ on 8 March 2015.*
