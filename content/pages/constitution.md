@@ -180,19 +180,62 @@ Any changes to committee policy must be proposed with at least one week's
 notice, and ratified at an official meeting of the undergraduate committee.
 
 ### 1. Code of Conduct ###
+
 The Code of Conduct (CoC) outlines expected behaviour for all members of the
 community at any community venues, online and in-person, and in any
 communications pertaining to committee business. Any member of the committee
 may propose an amendment to the CoC.
 
 ### 2. Machine Usage Agreement ###
+
 The Machine Usage Agreement outlines expected conduct when using any machines
 maintained by the undergraduate committee. Any proposed changes must be first
 ratified by the Systems Committee, followed by the entire committee.
 
 ### 3. Office Policy ###
+
 The Office Policy outlines expected behaviour in the WiCS Undergraduate
 Committee office, M3 1003.
+
+### 4. Communication and Organizational Technologies ###
+
+1. A communication or organizational technology is defined as a software
+   product that facilitates communication and group organization for completing
+   committee work. Examples include GNU Mailman, issue trackers such as
+   Bugzilla, and GitHub.
+
+2. Any change to communication or organizational technologies must occur within
+   the first three weeks of the term, to minimize workflow disruption.
+
+3. Any change to communication or organizational technologies adopted by the
+   committee must be proposed with a minimum of one week of notice, and must be
+   adopted by a supermajority: two-thirds of the total number of committee
+   members.
+
+4. Any technologies chosen must provide for archival and continuity:
+
+    1. Any activity, communications, or data generated on the platform must be
+       available indefinitely for the use of future committees. This may be
+       facilitated by logging or data exports. Examples include GNU Mailman's
+       archival feature and text-based IRC logs.
+
+    2. If the export is only available in machine-readable format (e.g. JSON or
+       XML exports), a tool must be provided to convert it to human-readable
+       form. The tool may be provided by a committee member. An example includes
+       Elana Hashman's JSON parser for Slack exports.
+
+5. When available, a free and open source software solution that could be
+   self-hosted shall be preferred over a publicly-hosted proprietary solution.
+
+6. Individuals may feel free to seek out organizational technologies for their
+   personal use, but if they plan to share the technology or onboard other
+   committee members with the same technology, they must follow the above
+   procedure.
+
+7. A list of currently adopted communication and organizational technologies
+   shall be maintained internally by the committee. Technologies adopted by the
+   current committee will be used by all following committees, unless changes
+   are made through this procedure.
 
 ## ii. Succession Procedures ##
 
