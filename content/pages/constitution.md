@@ -29,27 +29,34 @@ most varied and diverse backgrounds possible.
 
 ## iii. Values ##
 
-1. *Inclusiveness*: The undergraduate commitee is committed to fostering an
+1. *Inclusivity:* The undergraduate commitee is committed to fostering an
    inclusive environment in which women of all backgrounds will feel welcome,
    and to which they can contribute.
 
-2. *Humility*: The committee will acknowledge and respect the perspectives of
+2. *Humility:* The committee will acknowledge and respect the perspectives of
    those with experiences different to ours, and will strive to understand and
    incorporate these perspectives.
 
-3. *Respect*: All members of the community will be treated with respect,
+3. *Respect:* All members of the community will be treated with respect,
    regardless of difference in opinions and values.
 
-4. *Transparency*: As leaders, our actions and decision-making must be visible
+4. *Transparency:* As leaders, our actions and decision-making must be visible
    to promote accountability, and all decision-making will be open and
    well-documented within the committee and with the public when possible.
 
-5. *Honesty*: The committee will foster an environment to promote honest
-   disclosure. All community members should feel free to voice their opinions
-   and feelings. We acknowledge that everyone makes mistakes: honest disclosure
-   and taking responsibility will always be supported.
+5. *Accountability:* The committee will foster an environment to promote honest
+   disclosure and constructive criticism. All community members should feel safe
+   to voice their opinions and feelings for the interest of the community. We
+   understand that everyone makes mistakes, and we strongly encourage
+   acknowledging them, taking responsibility, and working to fix them.
 
-6. *Technical Excellence*: The committee acknowledges that its fundamental goal
+6. *Consensus-building:* Decisions should be made with teamwork and the
+   affirmative support of the committee. Committee members will seek feedback on
+   their proposals and work to build consensus among the committee before
+   bringing decisions to group discussion. Members also commit to providing
+   constructive feedback and actively engaging with their peers' ideas.
+
+7. *Technical Excellence:* The committee acknowledges that its fundamental goal
    is to support diversity in technical work, and members will strive to achieve
    excellence in this work themselves.
 
