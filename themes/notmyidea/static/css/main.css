@@ -89,6 +89,10 @@ ol {
 	margin: 0em 0 0 1.5em;
 }
 
+ol ol {
+    list-style: lower-latin;
+}
+
 li { margin-top: 0.5em;}
 
 .post-info {
