@@ -213,11 +213,13 @@ Committee office, M3 1003.
     past four terms, can nominate themselves for positions on the next term's
     committee given the following conditions:
 
-    1. No member may serve more than three consecutive terms;
+    1. No member may serve more than two consecutive terms;
 
-    2. No member may serve as Chair for more than one term consecutively;
+    2. Members intending to serve as Chair or Secretary must be on a study term
+       with no competing full-time commitments, such as a co-op job;
 
-    3. No member intending to serve as Chair or Secretary may be on co-op;
+    3. Members intending to serve as the Finance Director, Office Manager,
+       or Systems Administrator must be on a study term or working on campus;
 
     4. Members wishing to nominate themselves for chair should be a previous
        WiCS committee member. If no such volunteer exists, the position opens
