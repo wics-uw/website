@@ -25,8 +25,8 @@ enforcing the Code of Conduct.
 
 ## Office Hours ##
 
-* Office hours and services are open only to ciswomen, transwomen and non-binary
- folks.
+* Office hours and services are open only to cis women, trans women and
+ non-binary individuals.
 * The Code of Conduct is in effect at all times during office hours.
 
 ## Code of Conduct ##
