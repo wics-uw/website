@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Title: Spring 2015 Committee
+=======
+Title: Our Volunteers
+>>>>>>> change execlist, added old page, edited past-exec page, removed binary files
 Category: pages
 Status: hidden
 Summary: Volunteer Positions
