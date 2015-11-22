@@ -350,10 +350,15 @@ Committee office, M3 1003.
 
     1. No member may serve more than two consecutive terms;
 
-    2. Returning committee members may compose no more than 75% of the new
-       committee, if more existing members are nominated than 75% can
-       accomodate, each returning member will submit a new application to be
-       reviewed by the serving Chair of the WiCS Committee.
+    2. Returning committee members may comprise no more than 75% of the new
+       committee, unless there are insufficient qualified new volunteers to
+       maintain this ratio;
+
+    3. If there are too many returning members per the ratio above, each
+       returning member will submit a new application to be reviewed by the
+       serving Chair of the WiCS Committee, who will select the largest
+       permissible number of these applicants to serve on the next term's
+       commitee.
 
 4.  If there are any objections to an applicant, this procedure should
     be followed:
@@ -373,8 +378,8 @@ Committee office, M3 1003.
        bring the case to the committee and determine if the objection requires
        investigation under the the Code of Conduct.
 
-5.  Once the new committee members have been chosen, the Chair of the WiCS
-    Committee must ratify the new committeee.
+5.  Once the new committee members have been chosen through the above
+    procedures, the Chair of the WiCS Committee must ratify the new committee.
 
 6.  With the possible exception of the Chair, committee members will select
     their roles during the first meeting of the new committee, subject to the
