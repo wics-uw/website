@@ -62,6 +62,8 @@ computing.
 
 # II. Committee Composition #
 
+## i. Committee Members and Duties ##
+
 1.  Only undergraduate cis and trans women and non-binary individuals enrolled
     in computer science or a related undergraduate program may serve on the
     committee. The committee will be comprised of the following members:
@@ -112,7 +114,10 @@ computing.
     4. To track the completion of all duties assigned to members of the
        committee;
 
-    5. To maintain the non-financial records of the committee.
+    5. To manage all volunteers, except those helping with the Systems
+       Committee;
+
+    6. To maintain the non-financial records of the committee.
 
 4.  The duties of the Finance Director are:
 
@@ -142,12 +147,14 @@ computing.
 
     1. To chair the Systems Committee (&ldquo;wics-sys&rdquo;);
 
-    2. To serve as the authority on matters regarding usage of computer systems;
+    2. To manage Systems Committee volunteers;
 
-    3. To maintain access control lists for the committee's computing resources,
+    3. To serve as the authority on matters regarding usage of computer systems;
+
+    4. To maintain access control lists for the committee's computing resources,
        including office terminals and servers;
 
-    4. To maintain and enforce the Machine Usage Agreement, dictating
+    5. To maintain and enforce the Machine Usage Agreement, dictating
        acceptable use of the committee's computing resources.
 
 7.  The duties of the Big CSters Director are:
@@ -171,6 +178,39 @@ computing.
 All committee memebers are free to delegate their responsibilities to others as
 as they see fit, but are ultimately responsible for the completion of their
 assigned duties.
+
+## ii. Volunteers ##
+
+1.  Any individual is eligible to apply to become a volunteer.
+
+2.  Volunteer positions may include, but are not limited to:
+
+    1. Event greeters;
+
+    2. Event photographers;
+
+    3. Event or workshop organizers;
+
+    4. Event or workshop assistants and mentors;
+
+    5. Poster/advertisement designers;
+
+    6. Website contributors;
+
+    7. Systems committee volunteers.
+
+3.  The committee shall maintain a digital volunteer sign-up sheet every
+    semester. Volunteers may sign up at any point during the semester, and the
+    committee will check the sheet regularly when seeking volunteers to help
+    with committee business.
+
+4.  The committee shall maintain a volunteer mailing list, which will be used
+    to inform volunteers of upcoming opportunities to help out.
+
+5.  Each semester, the committee shall hold a "all-volunteers meeting" during
+    the first two weeks of classes. At this meeting, the committee will
+    describe available volunteer positions for the semester and encourage
+    individuals to fill out the sign-up sheet.
 
 # III. Procedures #
 
