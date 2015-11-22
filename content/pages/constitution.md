@@ -330,18 +330,43 @@ Committee office, M3 1003.
     2. The current committee will then select evaluate the applications
        received and select applicants for interviews;
 
-    3. The current committee will select interviewers. Interviewers should be
-       chosen by the current committee, and are expected to disclose any
+    3. A single interview shall be held for each candidate. Interviews shall
+       not exceed 30 minutes in length;
+
+    4. The current committee will select interviewers. Two interviewers should
+       be chosen by the current committee, and are expected to disclose any
        conflicts of interest when presented with the list of candidates. If a
        conflict of interest arises, an alternate interviewer shall be chosen.
        In any case, if no interviewer is explicitly chosen and there is no
-       conflict of interest, the current Chair shall conduct the interviews;
+       conflict of interest, the current Chair and Secretary shall conduct the
+       interviews;
 
-    4. Interviews are intended to introduce the new volunteer to the
-       committee's values, give them background on the committee's activities,
-       and evaluate them for a position on the committee for the next term.
+    5. Two interviewers must be present at every interview, and each shall
+       provide their evaluation to the rest of the committee in the form of
+       written notes. The same two interviewers should attend every interview,
+       if possible, to maintain consistency in evaluations;
 
-    5. Using the applications and interview feedback, the current committee
+    6. The interviewers shall take care to ensure that the interview candidate
+       is as comfortable as possible during the interview, to minimize the
+       stress and anxiety inherent in an interview setting;
+
+    7. The interviewers must
+
+        1. give the volunteer background on the committee's activities,
+
+        2. explain the available roles on the committee,
+
+        3. introduce them to the committee's values, and
+
+        4. stress the time commitment involved for a committee role.
+
+    8. The interviewers can then ask questions to evaluate the volunteer for a
+       position on the committee for the next term. Interviewers must emphasize
+       that even if the candidate is not chosen for a committee role, they are
+       welcome to volunteer and attend events, and will extend a formal
+       invitation to the first volunteer meeting of the upcoming term.
+
+    9. Using the applications and interview feedback, the current committee
        will ultimately select the members of the committee for next term.
 
 3.  *Returning committee members,* who have served on the committee within the
