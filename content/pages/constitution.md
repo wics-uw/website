@@ -328,7 +328,31 @@ undergraduate committee.
 
 # IV. Procedure for Amending This Document #
 
-1. Any committee member may propose a change;
+1.  Any committee member may propose a change;
 
-2. Changes must be proposed with at least two weeks of notice.
+2.  Changes must be proposed with at least two weeks of notice.
 
+# V. Acceptable Use of Committee Resources #
+
+1.  All resources under control of the committee are to be used in accordance
+    with the aims of the committee, including but not limited to office space,
+    computing resources, and resources provided through events.
+
+2.  The Chair and Secretary are jointly responsible for the proper use of all
+    committee resources, except as otherwise specified by committee decisions or
+    this document.
+
+3.  The Systems Administrator is responsible for the proper use of
+    administrative access to committee computing resources.
+
+4.  The Systems Committee, in liaison with the committee, is responsible for
+    the proper use of all committee computing resources.
+
+5.  The Office Manager is reponsible for the proper use of all office
+    resources.
+
+6.  Permission to use a resource is automatically granted to someone
+    responsible for that resource, and optionally as determined by those
+    responsible for a resource. Granting permission to someone to use a resource
+    does not make that person responsible for the proper use of the resource,
+    although the user is responsible to the person granting permission.
