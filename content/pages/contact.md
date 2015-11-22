@@ -27,6 +27,11 @@ you can join our
 [wics-announce](https://lists.uwaterloo.ca/mailman/listinfo/wics-announce)
 mailing list.
 
+If you'd like to join our women-only CSters mailing list for mentorship and
+general discussion, you can apply
+[here](https://lists.uwaterloo.ca/mailman/listinfo/csters). Please use your
+UWaterloo email address so we can verify your identity.
+
 # Office #
 
 Why not drop by our M3 office and visit? We have two shiny new office
