@@ -58,7 +58,8 @@ computing.
 
 7. *Technical Excellence:* The committee acknowledges that its fundamental goal
    is to support diversity in technical work, and members will strive to achieve
-   excellence in this work themselves.
+   growth and excellence in this work themselves and encourage it in others,
+   through hard work, mentorship, and curiosity.
 
 # II. Committee Composition #
 
