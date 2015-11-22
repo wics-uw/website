@@ -342,7 +342,7 @@ Committee office, M3 1003.
        and evaluate them for a position on the committee for the next term.
 
     5. Using the applications and interview feedback, the current committee
-       will ultimately select the composition of the committee for next term.
+       will ultimately select the members of the committee for next term.
 
 3.  *Returning committee members,* who have served on the committee within the
     past four terms, can nominate themselves for positions on the next term's
@@ -350,20 +350,7 @@ Committee office, M3 1003.
 
     1. No member may serve more than two consecutive terms;
 
-    2. Members intending to serve as Chair or Secretary must be on a study term
-       with no competing full-time commitments, such as a co-op job;
-
-    3. Members intending to serve as the Finance Director, Office Manager,
-       or Systems Administrator must be on a study term or working on campus;
-
-    4. Members wishing to nominate themselves for chair should be a previous
-       WiCS committee member. If no such volunteer exists, the position opens
-       up to new members;
-
-    5. Excluding that of Chair, no positions may be chosen until the first
-       official meeting of the new term's committee;
-
-    6. Existing committee members may compose no more than 75% of the new
+    2. Returning committee members may compose no more than 75% of the new
        committee, if more existing members are nominated than 75% can
        accomodate, each returning member will submit a new application to be
        reviewed by the serving Chair of the WiCS Committee.
@@ -380,14 +367,38 @@ Committee office, M3 1003.
        upcoming term. If a majority of members uphold the objection, the
        individual will be denied a position on the next term's committee and
        must apply in the future as a new volunteer. Otherwise, they will be
-       accepted as a returning member.
+       accepted as a returning member;
 
     4. An objection can be raised privately to the Chair or Secretary, who will
        bring the case to the committee and determine if the objection requires
        investigation under the the Code of Conduct.
 
-5. Once the committee has been chosen, the Chair of the WiCS Committee must
-   ratify the new committeee.
+5.  Once the new committee members have been chosen, the Chair of the WiCS
+    Committee must ratify the new committeee.
+
+6.  With the possible exception of the Chair, committee members will select
+    their roles during the first meeting of the new committee, subject to the
+    following conditions:
+
+    1. Members intending to serve as Chair or Secretary must be on a study term
+       with no competing full-time commitments, such as a co-op job;
+
+    2. Members intending to serve as the Finance Director, Office Manager,
+       or Systems Administrator must be on a study term or working on campus.
+
+7.  The Chair may be selected by the returning members before the first meeting
+    of the new committee, subject to the following conditions:
+
+    1. The Chair should be a returning member. Returning members can nominate
+       themselves or another returning member for the position;
+
+    2. The new Chair may be a new volunteer only if no returning member wishes
+       to serve as Chair;
+
+    3. The returning members may select the Chair at any time before the start
+       of the new term if the Chair is a returning member and if they constitute
+       the majority (>50%) of the new term's committee. Otherwise, the Chair
+       shall be chosen at the first meeting of the new term's committee.
 
 ## iii. Resignations and Removal of Members ###
 
