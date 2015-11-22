@@ -6,26 +6,26 @@ status: hidden
 The &ldquo;Women in Computer Science Undergraduate Committee&rdquo; is a
 subcommittee of the Women in Computer Science Committee, a standing committee
 of the Cheriton School of Computer Science. For the remainder of this document,
-this standing committee will be referred to as the "WiCS Committee". All
-references to: &ldquo;the undergraduate committee&rdquo;, &ldquo;the
-committee&rdquo;, and &ldquo;committee members&rdquo; refer to the
+this standing committee will be referred to as the &ldquo;WiCS
+Committee.&rdquo; All references to: &ldquo;the undergraduate committee,&rdquo;
+&ldquo;the committee,&rdquo; and &ldquo;committee members&rdquo; refer to the
 Undergraduate Committee unless otherwise specified.
 
 ## i. Purpose and Vision ##
 
-The undergraduate committee aims to foster a safe environment for cis and trans
-women and non-binary individuals in computer science, and to advocate for the
-inclusion of these underrepresented groups in the computer science community at
-large.
+The undergraduate committee seeks to build a supportive community for cis and
+trans women and non-binary individuals in computer science, and to advocate for
+the inclusion of these underrepresented groups in the computer science
+community at large.
 
 ## ii. Representation ##
 
-The Women in Computer Science Undergraduate Committee aims to represent and
+The Women in Computer Science Undergraduate Committee aims to advocate for and
 support undergraduate cis and trans women and non-binary individuals enrolled
 in computer science and related undergraduate programs at the University of
-Waterloo. Additionally, we seek to include and support members of all
-underrepresented groups in the fields of technology and computing, with the
-most varied and diverse backgrounds possible.
+Waterloo. Additionally, we seek to advocate on the behalf of, include and
+support members of all underrepresented groups in the fields of technology and
+computing.
 
 ## iii. Values ##
 
@@ -62,9 +62,9 @@ most varied and diverse backgrounds possible.
 
 # II. Committee Composition #
 
-1.  Only undergraduate cis and trans women and non-binary individuals
-    enrolled in computer science or a related undergraduate program may
-    serve on the committee. The committtee will be comprised of the following roles:
+1.  Only undergraduate cis and trans women and non-binary individuals enrolled
+    in computer science or a related undergraduate program may serve on the
+    committee. The committee will be comprised of the following members:
 
     1. Chair
 
@@ -200,21 +200,30 @@ Committee office, M3 1003.
     new committee members for the upcoming term shall be announced on the
     website and sent out to all affiliated mailing lists.
 
-2.  New volunteers can apply to be on the committee for the following term, and
-    the current committee will select applicants for interviews. A *new
-    volunteer* shall be any individual who has never served on the committee
-    before, or has not served on the committee in the past four terms.
+2.  *New volunteers* shall be defined as any individual who has never served on
+    the committee before, or has not served on the committee in the past four
+    terms. They can nominate themselves for positions on the next term's committee
+    via the call for new committee members, subject to the following process:
 
-    Interviewers should be chosen by the current committee, and are expected to
-    disclose any conflicts of interest when presented with the list of
-    candidates. If a conflict of interest arises, an alternate interviewer shall
-    be chosen. In any case, if no interviewer is explicitly chosen and there is
-    no conflict of interest, the current Chair shall conduct the interviews.
+    1. The new volunteer shall fill out an application provided by the call for
+       new committee members;
 
-    Interviews are intended to welcome the new member to the committee, give
-    them background on the committee's activities, and help them find a role for
-    the next term. The current committee will ultimately select the comoposition
-    of the committee for next term.
+    2. The current committee will then select evaluate the applications
+       received and select applicants for interviews;
+
+    3. The current committee will select interviewers. Interviewers should be
+       chosen by the current committee, and are expected to disclose any
+       conflicts of interest when presented with the list of candidates. If a
+       conflict of interest arises, an alternate interviewer shall be chosen.
+       In any case, if no interviewer is explicitly chosen and there is no
+       conflict of interest, the current Chair shall conduct the interviews;
+
+    4. Interviews are intended to introduce the new volunteer to the
+       committee's values, give them background on the committee's activities,
+       and evaluate them for a position on the committee for the next term.
+
+    5. Using the applications and interview feedback, the current committee
+       will ultimately select the composition of the committee for next term.
 
 3.  *Returning committee members,* who have served on the committee within the
     past four terms, can nominate themselves for positions on the next term's
@@ -276,15 +285,15 @@ The Systems Committee (&ldquo;wics-sys&rdquo;) shall:
 4. Maintain and upgrade all systems in possession of the committee, including
    office terminals and servers;
 
-5. To maintain the committee's source code repositories and software;
+5. Maintain the committee's source code repositories and software;
 
-6. To maintain the committee's official website, [wics.uwaterloo.ca](/).
+6. Maintain the committee's official website, [wics.uwaterloo.ca](/).
 
 ### 2. Other Committees ###
 
 The undergraduate committee can create and task standing committees as
-necessary. Such standing committees can be dissolved by the undergraduate
-committee.
+necessary. Such standing committees can be dissolved at any time by the
+undergraduate committee.
 
 ## iv. Keys ##
 
@@ -305,7 +314,7 @@ committee.
 4.  If the Secretary does not schedule a meeting within a two-week period, any
     committee member may call a meeting;
 
-5.  There will exist two types of meetings, open and closed.
+5.  Two types of meetings may be called:
 
     1. *Open Session:* This type of meeting is open to all committee members,
        and guests by invitation only. In order to invite guests, a member must
@@ -322,5 +331,4 @@ committee.
 1. Any committee member may propose a change;
 
 2. Changes must be proposed with at least two weeks of notice.
-
 
