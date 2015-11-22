@@ -98,7 +98,9 @@ computing.
        Mathematics Society;
 
     5. To secure funding for the committee's endeavours in collaboration with
-       the Finance Director.
+       the Finance Director;
+
+    6. To mediate and resolve internal committee disputes.
 
 3.  The duties of the Secretary are:
 
@@ -168,9 +170,38 @@ computing.
     2. To design all media circulated by the committee including: posters,
        social media profiles and the official website.
 
-All committee memebers are free to delegate their responsibilities to others as
-as they see fit, but are ultimately responsible for the completion of their
-assigned duties.
+9.  All committee memebers are free to delegate their responsibilities to others
+    as they see fit, but are ultimately responsible for the completion of their
+    assigned duties.
+
+10. All committee members are responsible to support their fellow members and
+    ensure their assigned duties are being completed. If a member notices that
+    a fellow member has fell behind on their responsibilities, the supporting
+    member shall:
+
+    1. Reach out to the member who has fallen behind in private, and inquire
+       about the responsibility in question. If the member is not comfortable
+       reaching out to the member who has fallen behind, they may bring the
+       matter to the attention of the Chair or Secretary, who will take over
+       the next steps in this procedure;
+
+    2. Offer assistance to the member who has fallen behind, if able. If
+       unable, the supporting member, Chair, or Secretary will ask the member
+       who has fallen behind to privately seek out help from other committee
+       members;
+
+    3. If, after the matter has been discussed privately, the responsibility
+       has still not been addressed, the supporting member, Chair, or Secretary
+       may bring up the matter to the committee publicly in a closed session
+       meeting;
+
+    4. Under the leadership of the Secretary, the committee will discuss
+       providing the necessary support to complete the responsibility,
+       possibly assigning it to another member. If appropriate, the committee
+       will also schedule a post-mortem to evaluate the circumstances leading
+       to the reassignment of the duty: perhaps that member's workload was too
+       heavy or they were not receiving enough support from other committee
+       members.
 
 # III. Procedures #
 
