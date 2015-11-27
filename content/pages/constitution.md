@@ -319,27 +319,26 @@ Committee office, M3 1003.
     new committee members for the upcoming term shall be announced on the
     website and sent out to all affiliated mailing lists.
 
-2.  *New volunteers* shall be defined as any individual who has never served on
-    the committee before, or has not served on the committee in the past four
+2.  *New volunteers* shall be defined as individuals who have never served on
+    the committee before, or have not served on the committee in the past four
     terms. They can nominate themselves for positions on the next term's committee
     via the call for new committee members, subject to the following process:
 
-    1. The new volunteer shall fill out an application provided by the call for
-       new committee members;
+    1. The new volunteer shall fill out an application provided with the call
+       for new committee members;
 
-    2. The current committee will then select evaluate the applications
-       received and select applicants for interviews;
+    2. The current committee will then evaluate the applications received and
+       select applicants for interviews;
 
     3. A single interview shall be held for each candidate. Interviews shall
        not exceed 30 minutes in length;
 
-    4. The current committee will select interviewers. Two interviewers should
-       be chosen by the current committee, and are expected to disclose any
-       conflicts of interest when presented with the list of candidates. If a
-       conflict of interest arises, an alternate interviewer shall be chosen.
-       In any case, if no interviewer is explicitly chosen and there is no
-       conflict of interest, the current Chair and Secretary shall conduct the
-       interviews;
+    4. The current committee will select two or more interviewers. The
+       interviewers are expected to disclose any conflicts of interest when
+       presented with the list of candidates. If a conflict of interest arises,
+       an alternate interviewer shall be chosen. In any case, if no interviewer
+       is explicitly chosen and there are no conflicts of interest, the current
+       Chair and Secretary shall conduct the interviews;
 
     5. Two interviewers must be present at every interview, and each shall
        provide their evaluation to the rest of the committee in the form of
@@ -350,7 +349,7 @@ Committee office, M3 1003.
        is as comfortable as possible during the interview, to minimize the
        stress and anxiety inherent in an interview setting;
 
-    7. The interviewers must
+    7. The interviewers must:
 
         1. give the volunteer background on the committee's activities,
 
@@ -367,7 +366,8 @@ Committee office, M3 1003.
        invitation to the first volunteer meeting of the upcoming term.
 
     9. Using the applications and interview feedback, the current committee
-       will ultimately select the members of the committee for next term.
+       will ultimately select the members of the committee for next term, in
+       consultation with the returning committee members, defined below.
 
 3.  *Returning committee members,* who have served on the committee within the
     past four terms, can nominate themselves for positions on the next term's
@@ -385,8 +385,8 @@ Committee office, M3 1003.
        permissible number of these applicants to serve on the next term's
        commitee.
 
-4.  If there are any objections to an applicant, this procedure should
-    be followed:
+4.  If there are any objections to either a new or returning application for
+    the new committee, this procedure should be followed:
 
     1. The objection will be presented to the committee, with accompanying
        evidence;
@@ -396,8 +396,8 @@ Committee office, M3 1003.
     3. The current committee will vote on accepting the individual for the
        upcoming term. If a majority of members uphold the objection, the
        individual will be denied a position on the next term's committee and
-       must apply in the future as a new volunteer. Otherwise, they will be
-       accepted as a returning member;
+       must apply in the future as a new volunteer. Otherwise, their application
+       shall be subject to the usual selection procedures, specified above;
 
     4. An objection can be raised privately to the Chair or Secretary, who will
        bring the case to the committee and determine if the objection requires
@@ -410,11 +410,12 @@ Committee office, M3 1003.
     their roles during the first meeting of the new committee, subject to the
     following conditions:
 
-    1. Members intending to serve as Chair or Secretary must be on a study term
-       with no competing full-time commitments, such as a co-op job;
+    1. Members intending to serve as Chair, Secretary, or Office Manager must
+       be on a study term with no competing full-time commitments, such as a
+       co-op job;
 
-    2. Members intending to serve as the Finance Director, Office Manager,
-       or Systems Administrator must be on a study term or working on campus.
+    2. Members intending to serve as the Finance Director or Systems
+       Administrator must be on a study term or working on campus.
 
 7.  The Chair may be selected by the returning members before the first meeting
     of the new committee, subject to the following conditions:
@@ -426,9 +427,10 @@ Committee office, M3 1003.
        to serve as Chair;
 
     3. The returning members may select the Chair at any time before the start
-       of the new term if the Chair is a returning member and if they constitute
-       the majority (>50%) of the new term's committee. Otherwise, the Chair
-       shall be chosen at the first meeting of the new term's committee.
+       of the new term if the Chair is a returning member and if the returning
+       members constitute the majority (>50%) of the new term's committee.
+       Otherwise, the Chair shall be chosen at the first meeting of the new
+       term's committee.
 
 ## iii. Resignations and Removal of Members ###
 
