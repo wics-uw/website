@@ -14,9 +14,9 @@ Undergraduate Committee unless otherwise specified.
 ## i. Purpose and Vision ##
 
 The undergraduate committee seeks to build a supportive community for cis and
-trans women and non-binary individuals in computer science, and to advocate for
-the inclusion of these underrepresented groups in the computer science
-community at large.
+trans women and non-binary individuals interested in computer science, and to
+advocate for the inclusion of these underrepresented groups in the computer
+science community at large.
 
 ## ii. Representation ##
 
@@ -170,15 +170,15 @@ computing.
 
     3. To administer the CSters mailing list.
 
-8.  The duties of the Diretor of Publicity are:
+8.  The duties of the Director of Publicity are:
 
     1. To publicize events and other committee activities through physical and
        electronic means;
 
     2. To design all media circulated by the committee including: posters,
-       social media profiles and the official website.
+       social media profiles, and the official website.
 
-9.  All committee memebers are free to delegate their responsibilities to others
+9.  All committee members are free to delegate their responsibilities to others
     as they see fit, but are ultimately responsible for the completion of their
     assigned duties.
 
@@ -229,7 +229,7 @@ computing.
 
     6. Website contributors;
 
-    7. Systems committee volunteers.
+    7. Systems Committee volunteers.
 
 3.  The committee shall maintain a digital volunteer sign-up sheet every
     semester. Volunteers may sign up at any point during the semester, and the
@@ -249,7 +249,8 @@ computing.
 ## i. Policies ##
 
 Any changes to committee policy must be proposed with at least one week's
-notice, and ratified at an official meeting of the undergraduate committee.
+notice, and must be ratified at an official meeting of the undergraduate
+committee.
 
 ### 1. Code of Conduct ###
 
@@ -260,9 +261,9 @@ may propose an amendment to the CoC.
 
 ### 2. Machine Usage Agreement ###
 
-The Machine Usage Agreement outlines expected conduct when using any machines
-maintained by the undergraduate committee. Any proposed changes must be first
-ratified by the Systems Committee, followed by the entire committee.
+The Machine Usage Agreement outlines expected conduct when using any computing
+resources maintained by the undergraduate committee. Any proposed changes must
+be first ratified by the Systems Committee, followed by the entire committee.
 
 ### 3. Office Policy ###
 
@@ -413,21 +414,21 @@ undergraduate committee.
 ## iv. Keys ##
 
 1. Keys will be allocated to the undergraduate committeee as per policy set out
-   in the Memorandum of Understanding with the Mathematics Society;
+   in the Memorandum of Understanding with the Mathematics Society.
 
 2. The Office Manager and Systems Administrator will both receive keys.
    Remaining keys will be allocated as the undergraduate committee sees fit.
 
 ## v. Holding Committee Meetings ##
 
-1.  The Secretary is tasked with calling meetings;
+1.  The Secretary is tasked with calling meetings.
 
-2.  Meetings should be held weekly and must occur biweekly;
+2.  Meetings should be held weekly and must occur biweekly.
 
-3.  Meetings must be announced with at least 48 hours of notice;
+3.  Meetings must be announced with at least 48 hours of notice.
 
 4.  If the Secretary does not schedule a meeting within a two-week period, any
-    committee member may call a meeting;
+    committee member may call a meeting.
 
 5.  Two types of meetings may be called:
 
@@ -443,9 +444,11 @@ undergraduate committee.
 
 # IV. Procedure for Amending This Document #
 
-1.  Any committee member may propose a change;
+1.  Any committee member may propose a change to the Constitution.
 
 2.  Changes must be proposed with at least two weeks of notice.
+
+3.  Changes must be ratified by the committee.
 
 # V. Acceptable Use of Committee Resources #
 
@@ -471,3 +474,6 @@ undergraduate committee.
     responsible for a resource. Granting permission to someone to use a resource
     does not make that person responsible for the proper use of the resource,
     although the user is responsible to the person granting permission.
+
+*Revision 1.0, adopted by the Women in Computer Science Undergraduate Committee
+on 1 December 2015.*
