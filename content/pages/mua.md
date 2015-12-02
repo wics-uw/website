@@ -84,7 +84,14 @@ it can be corrected.
 
 ## Auditing and Logging ##
 
-The WiCS Systems Committee keeps records ("logs") on our machines to
+The WiCS Systems Committee keeps records ("logs") on our machines to:
+
+1. Collect and store diagnostic information to aid in debugging hardware and software issues;
+2. Document machine usage and activity;
+3. Refer to for auditing purposes.
+
+The logs contain records of user and machine activity. The Systems Committee reserves the 
+right to share these records with University Computing or local law enforcement as required.
 
 ## Rights of the Systems Committee and the WiCS Executive ##
 
@@ -102,16 +109,16 @@ account provided that a written (possibly electronic) explanation is given.
 Cause for removal of access to an account includes, but is not limited to,
 violation of the machine usage policy, violation of University policy, or
 violation of the law. In the event of a dispute, a user whose account has been
-revoked may appeal to the WiCS Committee for its reinstatement.
+revoked may appeal to the WiCS Undergraduate Committee for its reinstatement.
 
-The WiCS Committee has the right to update any policy, including this one, with
+The WiCS Undergraduate Committee has the right to update any policy, including this one, with
 reasonable notice.
 
 # Definitions #
 
 + **WiCS**: The Women in Computer Science Undergraduate Committee of the David
   R. Cheriton School of Computer Science. The WiCS office is located in room
-  1003 of Mathematics 3 Building (UW campus), telephone number (519) 888-4657
+  1003 of the Mathematics 3 Building (UW campus), telephone number (519) 888-4657
   x30295.
 + **WiCS Network**: The network of computer hardware and peripherals owned by,
   rented to, on loan to, or otherwise under the control of WiCS.
