@@ -103,7 +103,10 @@ computing.
     5. To secure funding for the committee's endeavours in collaboration with
        the Finance Director;
 
-    6. To mediate and resolve internal committee disputes.
+    6. To mediate and resolve internal committee disputes;
+
+    7. To ensure the completion of assigned tasks and to uphold the committee
+       values, in collaboration with the Secretary.
 
 3.  The duties of the Secretary are:
 
