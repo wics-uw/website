@@ -386,7 +386,64 @@ Committee office, M3 1003.
 5. Once the committee has been chosen, the Chair of the WiCS Committee must
    ratify the new committeee.
 
-## iii. Standing Committees ##
+## iii. Resignations and Removal of Members ###
+
+1.  Members may resign from the committee at any time by providing notice to all
+    current committee members.
+
+2.  Any member of the committee may initiate the process for removing a
+    committee member, provided the following:
+
+    1. Committee members may only be removed from the committee if they commit
+       serious violations of policies or procedure. These include failure to
+       uphold responsibilities assigned by the Constitution and committee,
+       unauthorized actions on behalf of the committee that lead to negative
+       outcomes, and harmful actions that run contrary to committee values;
+
+    2. The committee member who initiated the removal process must provide
+       sufficient evidence to substantiate the claim that the committee member
+       being considered for removal has committed a serious violation of policy.
+       This evidence shall be provided to the Chair privately, who shall make
+       the determination as to whether the evidence is sufficient to bring the
+       matter to the committee. If the member wants to initiate the removal
+       process against the Chair, they shall bring their case to the Secretary,
+       who will make the determination;
+
+    3. If the Chair or Secretary determines that the claim is valid, they shall
+       call a closed session meeting of the committee to discuss the complaint.
+       Minutes of this meeting must be confidential, and any discussion of the
+       matter must occur privately. In particular, any discussion of the matter
+       shall not occur on mediums that are archived for future use, such as
+       mailing list archives and chat logs;
+
+    4. The member being considered for removal has a right to access all
+       evidence presented against them and make a rebuttal;
+
+    5. All committee members, including the member being considered for removal,
+       shall vote on the removal of the member. The member may only be removed
+       with a supermajority of votes. The outcome of the decision and a brief
+       explanation for the decision shall be recorded in the non-confidential
+       minutes;
+
+    6. A member removed through this process is free to apply to the committee
+       again as a new volunteer in a future semester.
+
+3.  Serious violations of the Code of Conduct may be handled exclusively under
+    the procedures set out within the Code of Conduct, and are not subject to
+    the process or requirements above.
+
+4.  If a committee member is removed or resigns, the committee can either choose
+    to distribute that member's responsibilities amongst the remaining members,
+    or elect to select a replacement member.
+
+5.  A replacement member may only be selected within the first two months of
+    the semester. If the committee chooses to select a replacement member, they
+    shall follow the Succession Procedures, with the exception of step 1. A
+    public call for a new committee member shall be made only if a returning
+    member is not available to fill the position, in recognition of the reduced
+    available time for onboarding a new volunteer.
+
+## iv. Standing Committees ##
 
 ### 1. Systems Committee ###
 
@@ -411,7 +468,7 @@ The undergraduate committee can create and task standing committees as
 necessary. Such standing committees can be dissolved at any time by the
 undergraduate committee.
 
-## iv. Keys ##
+## v. Keys ##
 
 1. Keys will be allocated to the undergraduate committeee as per policy set out
    in the Memorandum of Understanding with the Mathematics Society.
@@ -419,7 +476,7 @@ undergraduate committee.
 2. The Office Manager and Systems Administrator will both receive keys.
    Remaining keys will be allocated as the undergraduate committee sees fit.
 
-## v. Holding Committee Meetings ##
+## vi. Holding Committee Meetings ##
 
 1.  The Secretary is tasked with calling meetings.
 
@@ -439,8 +496,8 @@ undergraduate committee.
     2. *Closed Session:* These meetings are open only to committee members and
        individuals unanimously invited by the committee. Any committee member
        may call a closed session meeting. Internal discipline, Code of Conduct
-       violations, and funding proposals must be discussed in a closed session
-       meeting.
+       violations, removal of committee members, and funding proposals must be
+       discussed in a closed session meeting.
 
 # IV. Procedure for Amending This Document #
 
