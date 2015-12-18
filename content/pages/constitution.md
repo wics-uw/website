@@ -340,7 +340,7 @@ Committee office, M3 1003.
        is explicitly chosen and there are no conflicts of interest, the current
        Chair and Secretary shall conduct the interviews;
 
-    5. Two interviewers must be present at every interview, and each shall
+    5. Two interviewers should be present at every interview, and each shall
        provide their evaluation to the rest of the committee in the form of
        written notes. The same two interviewers should attend every interview,
        if possible, to maintain consistency in evaluations;
@@ -357,7 +357,7 @@ Committee office, M3 1003.
 
         3. introduce them to the committee's values, and
 
-        4. stress the time commitment involved for a committee role.
+        4. stress the time and energy commitment involved in a committee role.
 
     8. The interviewers can then ask questions to evaluate the volunteer for a
        position on the committee for the next term. Interviewers must emphasize
@@ -579,4 +579,4 @@ undergraduate committee.
     although the user is responsible to the person granting permission.
 
 *Revision 1.0, adopted by the Women in Computer Science Undergraduate Committee
-on 1 December 2015.*
+on 12 December 2015.*
