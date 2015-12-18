@@ -1,8 +1,8 @@
 Title: Policies
 Category: pages
-Summary: List of policies
 
-Here is a list of our policies.
+Here is a list of our official policies, approved by the committee.
 
-+ [Code of Conduct](/code-of-conduct/)
-+ [Office Policy](/office-policy/)
++ [Constitution]({filename}/pages/constitution.md)
++ [Code of Conduct]({filename}/pages/code-of-conduct.md)
++ [Office Policy]({filename}/pages/office-policy.md)
