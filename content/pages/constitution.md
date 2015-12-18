@@ -319,30 +319,55 @@ Committee office, M3 1003.
     new committee members for the upcoming term shall be announced on the
     website and sent out to all affiliated mailing lists.
 
-2.  *New volunteers* shall be defined as any individual who has never served on
-    the committee before, or has not served on the committee in the past four
+2.  *New volunteers* shall be defined as individuals who have never served on
+    the committee before, or have not served on the committee in the past four
     terms. They can nominate themselves for positions on the next term's committee
     via the call for new committee members, subject to the following process:
 
-    1. The new volunteer shall fill out an application provided by the call for
-       new committee members;
+    1. The new volunteer shall fill out an application provided with the call
+       for new committee members;
 
-    2. The current committee will then select evaluate the applications
-       received and select applicants for interviews;
+    2. The current committee will then evaluate the applications received and
+       select applicants for interviews;
 
-    3. The current committee will select interviewers. Interviewers should be
-       chosen by the current committee, and are expected to disclose any
-       conflicts of interest when presented with the list of candidates. If a
-       conflict of interest arises, an alternate interviewer shall be chosen.
-       In any case, if no interviewer is explicitly chosen and there is no
-       conflict of interest, the current Chair shall conduct the interviews;
+    3. A single interview shall be held for each candidate. Interviews shall
+       not exceed 30 minutes in length;
 
-    4. Interviews are intended to introduce the new volunteer to the
-       committee's values, give them background on the committee's activities,
-       and evaluate them for a position on the committee for the next term.
+    4. The current committee will select two or more interviewers. The
+       interviewers are expected to disclose any conflicts of interest when
+       presented with the list of candidates. If a conflict of interest arises,
+       an alternate interviewer shall be chosen. In any case, if no interviewer
+       is explicitly chosen and there are no conflicts of interest, the current
+       Chair and Secretary shall conduct the interviews;
 
-    5. Using the applications and interview feedback, the current committee
-       will ultimately select the composition of the committee for next term.
+    5. Two interviewers should be present at every interview, and each shall
+       provide their evaluation to the rest of the committee in the form of
+       written notes. The same two interviewers should attend every interview,
+       if possible, to maintain consistency in evaluations;
+
+    6. The interviewers shall take care to ensure that the interview candidate
+       is as comfortable as possible during the interview, to minimize the
+       stress and anxiety inherent in an interview setting;
+
+    7. The interviewers must:
+
+        1. give the volunteer background on the committee's activities,
+
+        2. explain the available roles on the committee,
+
+        3. introduce them to the committee's values, and
+
+        4. stress the time and energy commitment involved in a committee role.
+
+    8. The interviewers can then ask questions to evaluate the volunteer for a
+       position on the committee for the next term. Interviewers must emphasize
+       that even if the candidate is not chosen for a committee role, they are
+       welcome to volunteer and attend events, and will extend a formal
+       invitation to the first volunteer meeting of the upcoming term.
+
+    9. Using the applications and interview feedback, the current committee
+       will ultimately select the members of the committee for next term, in
+       consultation with the returning committee members, defined below.
 
 3.  *Returning committee members,* who have served on the committee within the
     past four terms, can nominate themselves for positions on the next term's
@@ -350,26 +375,18 @@ Committee office, M3 1003.
 
     1. No member may serve more than two consecutive terms;
 
-    2. Members intending to serve as Chair or Secretary must be on a study term
-       with no competing full-time commitments, such as a co-op job;
+    2. Returning committee members may comprise no more than 75% of the new
+       committee, unless there are insufficient qualified new volunteers to
+       maintain this ratio;
 
-    3. Members intending to serve as the Finance Director, Office Manager,
-       or Systems Administrator must be on a study term or working on campus;
+    3. If there are too many returning members per the ratio above, each
+       returning member will submit a new application to be reviewed by the
+       serving Chair of the WiCS Committee, who will select the largest
+       permissible number of these applicants to serve on the next term's
+       commitee.
 
-    4. Members wishing to nominate themselves for chair should be a previous
-       WiCS committee member. If no such volunteer exists, the position opens
-       up to new members;
-
-    5. Excluding that of Chair, no positions may be chosen until the first
-       official meeting of the new term's committee;
-
-    6. Existing committee members may compose no more than 75% of the new
-       committee, if more existing members are nominated than 75% can
-       accomodate, each returning member will submit a new application to be
-       reviewed by the serving Chair of the WiCS Committee.
-
-4.  If there are any objections to an applicant, this procedure should
-    be followed:
+4.  If there are any objections to either a new or returning application for
+    the new committee, this procedure should be followed:
 
     1. The objection will be presented to the committee, with accompanying
        evidence;
@@ -379,15 +396,41 @@ Committee office, M3 1003.
     3. The current committee will vote on accepting the individual for the
        upcoming term. If a majority of members uphold the objection, the
        individual will be denied a position on the next term's committee and
-       must apply in the future as a new volunteer. Otherwise, they will be
-       accepted as a returning member.
+       must apply in the future as a new volunteer. Otherwise, their application
+       shall be subject to the usual selection procedures, specified above;
 
     4. An objection can be raised privately to the Chair or Secretary, who will
        bring the case to the committee and determine if the objection requires
        investigation under the the Code of Conduct.
 
-5. Once the committee has been chosen, the Chair of the WiCS Committee must
-   ratify the new committeee.
+5.  Once the new committee members have been chosen through the above
+    procedures, the Chair of the WiCS Committee must ratify the new committee.
+
+6.  With the possible exception of the Chair, committee members will select
+    their roles during the first meeting of the new committee, subject to the
+    following conditions:
+
+    1. Members intending to serve as Chair, Secretary, or Office Manager must
+       be on a study term with no competing full-time commitments, such as a
+       co-op job;
+
+    2. Members intending to serve as the Finance Director or Systems
+       Administrator must be on a study term or working on campus.
+
+7.  The Chair may be selected by the returning members before the first meeting
+    of the new committee, subject to the following conditions:
+
+    1. The Chair should be a returning member. Returning members can nominate
+       themselves or another returning member for the position;
+
+    2. The new Chair may be a new volunteer only if no returning member wishes
+       to serve as Chair;
+
+    3. The returning members may select the Chair at any time before the start
+       of the new term if the Chair is a returning member and if the returning
+       members constitute the majority (>50%) of the new term's committee.
+       Otherwise, the Chair shall be chosen at the first meeting of the new
+       term's committee.
 
 ## iii. Resignations and Removal of Members ###
 
@@ -536,4 +579,4 @@ undergraduate committee.
     although the user is responsible to the person granting permission.
 
 *Revision 1.0, adopted by the Women in Computer Science Undergraduate Committee
-on 1 December 2015.*
+on 12 December 2015.*
