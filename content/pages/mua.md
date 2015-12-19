@@ -131,20 +131,20 @@ reasonable notice.
   handled by the network(s) in question. These networks include the University
   of Waterloo on-campus network and the Internet.
 + **Computing Resources**: Resources WiCS considers limited include:
-  + public temporary disk space
-  + swap space
-  + other commonly held disk space (which may include the home file system)
-  + inodes
-  + memory
-  + CPU time (including graphics cards)
-  + processes/threads
-  + ttys and pseudo-ttys
-  + network bandwidth
-  + ports
+    + public temporary disk space
+    + swap space
+    + other commonly held disk space (which may include the home file system)
+    + inodes
+    + memory
+    + CPU time (including graphics cards)
+    + processes/threads
+    + ttys and pseudo-ttys
+    + network bandwidth
+    + ports
 
 # User Agreement #
 
-I have read and understood the usage policy of 20 February 2015, and I agree to
+I have read and understood the usage policy of 19 December 2015, and I agree to
 use my account on the WiCS network in accordance with this policy. I am
 responsible for all actions taken by anyone using this account. Furthermore, I
 accept full legal responsibility for all of the actions that I commit using the
