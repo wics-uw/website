@@ -1,10 +1,16 @@
 title: Arduino Workshop
 Date: 2015-10-22
 Category: Events
-Tags: workshop, hardware
+Tags: workshop, hardware, BlackBerry
 Slug: arduino-workshop-F15
 Author: Evy Kassirer
 Summary: Come learn about digital hardware and Arduino programming in this women-only workshop for beginners!
+
+Technical Workshop Series: This event is generously sponsored by BlackBerry,
+as part of our Technical Workshop Series. We will be hosting three workshops
+over the next three terms focused on teaching technical skills in partnership
+with BlackBerry. To learn more about our Technical Workshop Series and partnership with BlackBerry see our 
+[sponsors page]({filename}/pages/sponsors.md)
 
 We're pleased to announce Melissa Tedesco's hardware workshop! Melissa and a 
 team of mentors will introduce you to building prototypes with digital hardware 
