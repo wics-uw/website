@@ -11,19 +11,16 @@ You can view [past terms' committees here]({filename}/pages/past-exec.md).
 
 ## Chair ##
 
-Fatema Boxwala (`fhboxwala`)
+Fatema Boxwala (`fhboxwal`)
 
 ## Secretary ##
 
-Anna Lorimer (`aemhlorimer`)
+Anna Lorimer (`aemhlori`)
 
-## Big CSters Director ##
+## Big CSters Directors ##
 
-Julia Nguyen (`j52nguyen`)
-
-## Big CSters Co-Director ##
-
-Talia McCormick (`tdmccorm`)
+Julia Nguyen (`j52nguye`)
+Talia McCormick(`tdmccorm`)
 
 ## Director of Finance ##
 
