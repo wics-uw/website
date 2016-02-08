@@ -3,8 +3,6 @@ Category: pages
 Status: hidden
 Summary: Volunteer Positions
 
-# Fall 2015 Committee #
-
 ## Chair ##
 
 Andee Liao (`xqliao`)
