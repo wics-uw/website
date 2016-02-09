@@ -17,18 +17,30 @@ Fatema Boxwala (`fhboxwal`)
 
 Anna Lorimer (`aemhlori`)
 
+## Director of Financce ##
+
+Aurora Huang (`c36huang`)
+
 ## Big CSters Directors ##
 
 Julia Nguyen (`j52nguye`)
-Talia McCormick(`tdmccorm`)
+Talia McCormick (`tdmccorm`)
 
 ## Systems Administrator ##
 
 Nivasini Ananthakrishnan (`nanantha`)
 
-## Administration Director ##
+## Director of Publicity ##
+
+Jenny Sun (`j89sun`)
+
+## Social Director ##
 
 Simran Kaur (`s53kaur`)
+
+## Office Manager ##
+
+Saadiya Desai (`sidesai`)
 
 ## Volunteer Coordinator ##
 
