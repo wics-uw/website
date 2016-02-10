@@ -62,4 +62,4 @@ dialogue around women's issues and diversity at the undergraduate level.
 Yes! Occasionally, the WiCS Undergraduate will work with companies that reach
 out and want to help out with events and other things that require funding.
 
-To read more about this, you can visit our [sponsorship page]({filename}/pages/sponsorship.md).
+To read more about this, you can visit our [sponsorship page]({filename}/pages/sponsors.md).
