@@ -56,3 +56,10 @@ curriculum-building, recruiting, and student engagement. The WiCS Undergraduate
 Committee primarily focuses on supporting women enrolled or interested in
 computer science programs at the University, building community and promoting a
 dialogue around women's issues and diversity at the undergraduate level.
+
+## Does WiCS ever work with external organizations, such as companies? ##
+
+Yes! Occasionally, the WiCS Undergraduate will work with companies that reach
+out and want to help out with events and other things that require funding.
+
+To read more about this, you can visit our [sponsorship page]({filename}/pages/sponsorship.md).
