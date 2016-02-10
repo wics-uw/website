@@ -24,6 +24,7 @@ Aurora Huang (`c36huang`)
 ## Big CSters Directors ##
 
 Julia Nguyen (`j52nguye`)
+
 Talia McCormick (`tdmccorm`)
 
 ## Systems Administrator ##
