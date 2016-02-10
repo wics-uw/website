@@ -1,9 +1,12 @@
 Title: Sponsorship
+status: hidden
 
 Occasionally companies will help us run events by providing us with funding, currently we are working
 on the following projects:
 
-### Technical Workshop Series with BlackBerry
+
+## Technical Workshop Series 
+#### Brought to you in partnership with ![BlackBerry](/images/bb_logo.jpg)
 
 Currently we are running a Technical Workshop Series, which will consist of three
 technical skills workshops over the next three terms.
