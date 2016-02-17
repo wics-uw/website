@@ -1,7 +1,7 @@
 Title: Google Talk
 Date: 2015-05-14 18:30
 Category: Events
-Tags: talks
+Tags: talks, industry
 Slug: google-talk
 Author: Christina Liu 
 Summary: Join us for a Google Engineer's Career Talk!
