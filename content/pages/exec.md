@@ -17,7 +17,7 @@ Fatema Boxwala (`fhboxwal`)
 
 Anna Lorimer (`aemhlori`)
 
-## Director of Financce ##
+## Director of Finance ##
 
 Aurora Huang (`c36huang`)
 
