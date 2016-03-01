@@ -1,5 +1,5 @@
 Title: Big CSters Blogging Workshop
-Date: 2016-02-24 14:00
+Date: 2016-02-29 14:00
 Category: Events
 Tags: social, big csters, blogging
 Slug: blogging-workshop
@@ -21,6 +21,13 @@ Schedule:
 + 7:00 - Writing session
 + 7:30 - Publishing session
 
+Our panel includes:
++ [Catherine Vendryes](http://hotpepperlatte.blogspot.ca) @cat_vendryes
++ [Arshia Mufti](http://medium.com/@arshia__) @arshia__
++ [Winnie Giang](youtube.com/ThosePaperHearts) @winniegiang
++ [Vanessa Kingson](http://vanessakingson.com) @vanessakingson
++ [Julia Nguyen](http://julia.tech) @fleurchild
+
 **About Big CSters:** Our Big CSters program helps connect cis &amp; trans
 women and non-binary students in computer science and related fields, through
 events geared towards mentorship and community-building.
@@ -29,5 +36,5 @@ events geared towards mentorship and community-building.
 
 + **Who:** Big and Little CSters
 + **What:** Big CSters Blogging Workshop
-+ **Where:** TBA
++ **Where:** MC 5479
 + **When:** Wednesday March 2, 6:00&ndash;8:00PM
