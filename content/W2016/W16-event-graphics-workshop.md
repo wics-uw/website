@@ -8,7 +8,7 @@ Summary: Express your creativity by making art on 3D animation software!
 
 Come out to WiCS graphics workshop! Express your creativity and have fun with your friends by making art on an animation software! No experience is required. An instructor will give a Blender tutorial that will walk you through the steps of creating a simple 3D animation. Mentors will also be present to provide guidance.
 
-For this event you will need to bring your own computer and also have the latest Blender downloaded and installed: [https://www.blender.org/download/] (https://www.blender.org/download/)
+For this event you will need to bring your own computer and also have the latest Blender downloaded and installed: [https://www.blender.org/download/](https://www.blender.org/download/)
 
 
 
