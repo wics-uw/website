@@ -9,7 +9,7 @@ Summary: Join us for a fun workshop to learn the basics of Git, Github and open 
 What is Git? Why are people always telling me to make branches? How does one 
 contribute to an open-source project? We’ll be answering all these questions
 and more at our Intro to Git and Open Source Software Workshop! Fatema will
-to explain the basics of Git, and by the end of the workshop all participants will
+explain the basics of Git, and by the end of the workshop all participants will
 have submitted a pull request to a public repository. Upper year mentors will
 be around to answer questions and dinner will be provided!
 
