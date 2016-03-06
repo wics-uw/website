@@ -14,8 +14,8 @@ have submitted a pull request to a public repository. Upper year mentors will
 be around to answer questions and dinner will be provided!
 
 This workshop is recommended for beginners, and you can view the repo we’ll be working
-on [here](https://github.com/fboxwala/git-workshop-W16). Navigate to the [wiki
-tab](https://github.com/fboxwala/git-workshop-W16/wiki) to view the full curriculum. Space for the workshop is limited so make 
+on [here](https://github.com/wics-uw/git-workshop-W16). Navigate to the [wiki
+tab](https://github.com/wics-uw/git-workshop-W16/wiki) to view the full curriculum. Space for the workshop is limited so make 
 sure to [register](https://docs.google.com/forms/d/1eoRTSp2CtEHkbp8yIoxnMSfC_0I5w2EDvHocD4aoL7Y/viewform)
 soon!
 
