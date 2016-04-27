@@ -57,7 +57,7 @@ includes a mobile application with out-of-the-box push notifications and you're
 not worried about the small cost, this may be a great choice for you.
 
 For a more traditional setup, you can [follow these
-instructions](http://wiki.csclub.uwaterloo.ca/How_to_IRC) to configure IRC in a
+instructions](https://git.uwaterloo.ca/wics/documentation/wikis/irc) to configure IRC in a
 screen session on a remote server, allowing you to use a secure shell to log in
 and view your session at any time.
 
