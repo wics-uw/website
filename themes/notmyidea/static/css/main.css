@@ -5,7 +5,7 @@
 	Version: 1.0
 	License: MIT <http://opensource.org/licenses/MIT>
 	Licensed by: Smashing Media GmbH <http://www.smashingmagazine.com/>
-	Original author: Enrique RamÃ­rez <http://enrique-ramirez.com/>
+	Original author: Enrique Ramírez <http://enrique-ramirez.com/>
 */
 
 /* Imports */
@@ -36,13 +36,14 @@ h5 {font-size: 1.143em}	/* 16px */
 h6 {font-size: 1em}		/* 14px */
 
 h1, h2, h3, h4, h5, h6 {
-	font-weight: 400;
-	line-height: 1.1;
-	margin-bottom: .8em;
+    font-weight: 400;
+    line-height: 1.1;
     font-family: 'Yanone Kaffeesatz', arial, serif;
 }
 
-h3, h4, h5, h6 { margin-top: .8em; }
+h1, h2, h3, h4, h5, h6, p, ol, ul, div.line-block {
+    margin-bottom: .8em;
+}
 	
 hr { border: 2px solid #EEEEEE; }
 
@@ -70,23 +71,15 @@ a.tag {
     text-decoration: none;
 }
 
-/* Paragraphs */
-div.line-block,
-p { margin-top: 1em;
-    margin-bottom: 1em;}
-
-strong, b {font-weight: bold;}
-em, i {font-style: italic;}
-
 /* Lists */
 ul {
 	list-style: outside disc;
-	margin: 0em 0 0 1.5em;
+        margin-left: 1.5em;
 }
 
 ol {
 	list-style: outside decimal;
-	margin: 0em 0 0 1.5em;
+        margin-left: 1.5em;
 }
 
 ol ol {
