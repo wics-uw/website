@@ -19,7 +19,7 @@ questions.
 If you're interested:
 
 1. Please let us know by [signing up as a "wics-sys
-   volunteer."](https://docs.google.com/forms/d/14VNYPU-AzeFwig8ZDAbGaDpdXrRhZmkEm8XK6baPK-g/viewform)
+   volunteer."](https://docs.google.com/forms/d/1FAwWiujc7qhM84QSxMDN38TxL5W46XN18KoxeKy6mVw/viewform)
    This way, we have a record of your email.
 2. [Join our IRC channel.](http://wics.uwaterloo.ca/irc/) IRC, [while
    old](https://en.wikipedia.org/wiki/Internet_Relay_Chat#History), is
