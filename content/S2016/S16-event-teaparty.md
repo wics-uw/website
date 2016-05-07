@@ -1,4 +1,4 @@
-title: Tea Party and Volunteer Meeting
+title: Coffee Party and Volunteer Meeting
 Date: 2016-4-27
 Category: Events
 Tags: social, volunteer, big csters
