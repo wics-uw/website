@@ -11,38 +11,29 @@ You can view [past terms' committees here]({filename}/pages/past-exec.md).
 
 ## Chair ##
 
-Fatema Boxwala (`fhboxwal`)
+Arshia Mufti (`a2mufti`)
 
 ## Secretary ##
 
-Anna Lorimer (`aemhlori`)
+Evy Kassirer (`eawkassi`)
 
 ## Director of Finance ##
 
-Aurora Huang (`c36huang`)
+Zarina Mamoukhouva (`zrmamouk`)
 
-## Big CSters Directors ##
+## Big CSters Director ##
 
-Julia Nguyen (`j52nguye`)
-
-Talia McCormick (`tdmccorm`)
+Michelle Liauw (`nmaliauw`)
 
 ## Systems Administrator ##
 
-Nivasini Ananthakrishnan (`nanantha`)
+Srishti Gupta (`s88gupta`)
 
 ## Director of Publicity ##
 
-Jenny Sun (`j89sun`)
-
-## Social Director ##
-
-Simran Kaur (`s53kaur`)
+Clare Ng (`c32ng`)
 
 ## Office Manager ##
 
-Saadiya Desai (`sidesai`)
+Bhargavi Dameracharla (`bdamerac`)
 
-## Volunteer Coordinator ##
-
-Christina Liu (`xc2liu`)
