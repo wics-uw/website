@@ -5,6 +5,7 @@ Summary: Past Committees
 
 This is our record of the committees from previous terms.
 
++ [Winter 2016]({filename}/pages/exec-W16.md)
 + [Fall 2015]({filename}/pages/exec-F15.md)
 + [Spring 2015]({filename}/pages/exec-S15.md)
 + [Winter 2015]({filename}/pages/exec-W15.md)
