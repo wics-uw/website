@@ -8,7 +8,8 @@ out]({filename}/pages/contact.md) to us!
 
 ## What does &ldquo;women-only&rdquo; mean? ##
 
-Our women-only events are open to cis and trans women, and non-binary individuals.
+Our women-only events are open to cis and trans women, and non-binary
+individuals.
 
 ## Why do you sometimes hold women-only events? ##
 
@@ -19,12 +20,12 @@ Holding events which are only open to women helps some women deal with
 "Geek Feminism Wiki: Stereotype Threat").
 
 An example of an event that's women-only is our mentoring program, where we
-match up junior female students with more senior female students to talk
-about their experiences and support them throughout their academic career.
-Women can obviously seek out male mentors as well, but they don't quite share
-the same experiences so the impact of the mentoring is not the same. There
-are also events that are traditionally very competitive (such as hackathons)
-that women feel more comfortable coming out to if they're women-only.
+match up junior female students with more senior female students to talk about
+their experiences and support them throughout their academic career.  Women can
+obviously seek out male mentors as well, but they don't quite share the same
+experiences so the impact of the mentoring is not the same. There are also
+events that are traditionally very competitive (such as hackathons) that women
+feel more comfortable coming out to if they're women-only.
 
 Our women-only events are not publicly advertised and we always specify
 **very explicitly** if an event is going to be women-only.
@@ -32,7 +33,9 @@ Our women-only events are not publicly advertised and we always specify
 ## How can I get involved? ##
 
 Please see the **Volunteer Opportunities** section on our [About
-page]({filename}/pages/about.md)!
+page]({filename}/pages/about.md).  You can **sign up to be a volunteer** and
+read about our current volunteer opportunities
+[here]({filename}/pages/volunteers.md)!
 
 ## Do you have resources to learn more about women in tech? ##
 
