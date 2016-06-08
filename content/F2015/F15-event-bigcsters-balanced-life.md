@@ -18,7 +18,7 @@ Note: This event is [women-only](http://wics.uwaterloo.ca/faq).
 
 ## Event Details ##
 
-+ **Who:** [Women and non-binary individuals] (http://wics.uwaterloo.ca/faq).
++ **Who:** [Women and non-binary individuals](http://wics.uwaterloo.ca/faq).
 + **What:** Balancing Lifestyle
 + **Where:** MC 5479
 + **When:** Wednesday, October 21, 5:30 - 7 PM
