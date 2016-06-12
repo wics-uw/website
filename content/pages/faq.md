@@ -34,6 +34,16 @@ Our women-only events are not publicly advertised and we always specify
 Please see the **Volunteer Opportunities** section on our [About
 page]({filename}/pages/about.md)!
 
+## Do you have resources to learn more about women in tech? ##
+
+We have a library with feminist resources including:
+
+* Quarterly publications from Model View Culture 
+* Your Startup is Broken - Collected Essays by Shanley Kane
+* The Recompiler
+
+They are available to read during office hours.
+
 ## I have a food sensitivity. Can you accomodate me at catered events? ##
 
 Yes, we would be happy to! Please try to notify us of your allergies at
