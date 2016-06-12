@@ -10,7 +10,7 @@ Join us and several female engineers from Dropbox for coffee and snacks at Willi
 
 ## Event Details ##
 
-+ **Who:** This is a [women-only](http://wics.uwaterloo.ca/faq/) event.
++ **Who:** [Cis & trans women and non-binary individuals ](http://wics.uwaterloo.ca/faq/)
 + **What:** Coffee with Dropbox
 + **Where:** William's Cafe, University Plaza
 + **When:** Monday. Oct. 5, 12:00&ndash;4:00PM
