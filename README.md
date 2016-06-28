@@ -249,7 +249,7 @@ Django, you'll find the templates very similar.
 To modify the theme css or html, simply take a look at the theme data under
 `theme/notmyidea/` and modify it at will.
 
-### Testing ###
+### Testing Locally ###
 
 To test a local copy of the site, you'll need to start the development server.
 There's no additional software you need to install to launch a local version of
@@ -269,6 +269,32 @@ To shut down the development server, use
 ```
 ./develop_server stop
 ```
+
+## Heroku Review Apps ##
+
+When prompted, Heroku will provision temporary public web hosting and a domain
+name for any open pull request, and post a pingback on GitHub. This allows
+anyone to access the temporary site and review what our website would look
+like upon merging the changes from that pull request.
+
+### Permissions to access Heroku
+
+Access to Heroku is granted to all committers in the wics-uw GitHub
+organization. Membership to the "committers" group is granted to all full
+Systems Committee members, as well as individuals that the Systems Committee
+have chosen in recognition of their contributions and demonstrated
+responsibility and good judgment.
+
+To become a committer, you'll need to learn git, contribute regularly to the
+WiCS website (both opening pull requests and reviewing them), and then ask the
+Systems Committee for access, by emailing <wics-sys@lists.uwaterloo.ca>.
+
+### To deploy a pull request
+
+1. Go to [https://dashboard.heroku.com/apps](https://dashboard.heroku.com/apps)
+2. Click on *wics-site*
+3. In the left column, named *Review Apps*, find the PR you want to deploy and
+   click the button that says *Create Review App*
 
 ## Deployment ##
 
