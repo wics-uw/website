@@ -12,7 +12,7 @@ library. Take a break from the hardcore study sesh and come work with other
 WiCS! We have booked QNC 1502 (a nice big room with outlets) where you can come
 to study all day. There will be snacks and coffee and upper-year students with
 experience who you can ask for help. This is a 
-[women-only](http://wics.uwaterloo.ca/faq/) event.
+[women-only]({filename}/pages/faq.md) event.
 
 **About Big CSters:** Our Big CSters program helps connect cis &amp; trans
 women and non-binary students in computer science and related fields, through

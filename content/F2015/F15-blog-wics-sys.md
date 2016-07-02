@@ -21,7 +21,7 @@ If you're interested:
 1. Please let us know by [signing up as a "wics-sys
    volunteer."](https://docs.google.com/forms/d/14VNYPU-AzeFwig8ZDAbGaDpdXrRhZmkEm8XK6baPK-g/viewform)
    This way, we have a record of your email.
-2. [Join our IRC channel.](http://wics.uwaterloo.ca/irc/) IRC, [while
+2. [Join our IRC channel.]({filename}/pages/irc.md) IRC, [while
    old](https://en.wikipedia.org/wiki/Internet_Relay_Chat#History), is
    the official communication channel of the Systems Committee, so you'll need
    to hop on our channel in order to keep up with all the action.
