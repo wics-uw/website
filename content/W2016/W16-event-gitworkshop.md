@@ -25,11 +25,11 @@ focused on teaching technical skills in partnership with BlackBerry. To learn
 more about our Technical Workshop Series and partnership with BlackBerry see 
 our [sponsors page]({filename}/pages/sponsors.md)
 
-Note: This is a [women-only](http://wics.uwaterloo.ca/faq) event.
+Note: This is a [women-only]({filename}/pages/faq.md) event.
 
 ## Event Details ##
 
-+ **Who:** [Women-only](http://wics.uwaterloo.ca/faq)
++ **Who:** [Women-only]({filename}/pages/faq.md)
 + **What:** Git Workshop
 + **Where:** STC 0050
 + **When:** Tuesday March 15, 5:30&ndash;7:30PM
