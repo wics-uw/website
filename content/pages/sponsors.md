@@ -16,5 +16,5 @@ BlackBerry has agreed to fund our three events and we are very excited to
 work with them!
 
 To view all the event posts for our technical workshops, click 
-[here](http://wics.uwaterloo.ca/tags/blackberry). In Fall 2015 we ran our 
+[here]({tag}blackberry). In Fall 2015 we ran our
 Arduino Workshop, and we plan on running one more this term.

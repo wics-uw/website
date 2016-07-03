@@ -16,11 +16,11 @@ people!
 
 Dinner will be provided.
 
-Note: This is a [women-only](http://wics.uwaterloo.ca/faq/) event.
+Note: This is a [women-only]({filename}/pages/faq.md) event.
 
 ## Event Details ##
 
-+ **Who:** Incoming [Women](http://wics.uwaterloo.ca/faq/) in CS
++ **Who:** Incoming [Women]({filename}/pages/faq.md) in CS
 + **What:** Orientation Event
 + **Where:** TBD
 + **When:** Sun. Sept. 13, 3:00&ndash;6:00PM

@@ -18,7 +18,7 @@ Content warning: this event involves some activities that might be disturbing
 for some people, including being handcuffed (for a short period of time) and
 being in a small space with 15-20 other people.
 
-Please note that this is a [women-only](http://wics.uwaterloo.ca/faq) event.
+Please note that this is a [women-only]({filename}/pages/faq.md) event.
 
 ## Event Details ##
 

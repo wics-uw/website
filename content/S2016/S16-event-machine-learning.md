@@ -25,13 +25,13 @@ Technical Workshop Series: This event is generously sponsored by
 Technical Workshop Series. We are hosting three such workshops 
 focused on teaching technical skills in partnership with BlackBerry. 
 To learn more about our Technical Workshop Series and partnership 
-with BlackBerry see our [sponsors page](http://wics.uwaterloo.ca/sponsorship/).
+with BlackBerry see our [sponsors page]({filename}/sponsorship.md).
 
-Note: This is a [women-only](http://wics.uwaterloo.ca/faq) event.
+Note: This is a [women-only]({filename}/pages/faq.md) event.
 
 ## Event Details ##
 
-+ **Who:** [Women and non-binary individuals](http://wics.uwaterloo.ca/faq)
++ **Who:** [Women and non-binary individuals]({filename}/pages/faq.md)
 + **What:** Machine Learning Tech Workshop
 + **Where:** QNC 1506
 + **When:** Sat. June 18, 1:00&ndash;3:00PM
