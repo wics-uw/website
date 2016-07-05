@@ -16,4 +16,4 @@ Bring your friends! :)
 + **Who:** Everyone
 + **What:** Bonfire
 + **Where:** Velocity Firepit (EV3 Firepit)
-+ **When:** Thursday, July 7, 7:00&ndash;9:00PM
++ **When:** Monday, July 11, 7:00&ndash;9:00PM
