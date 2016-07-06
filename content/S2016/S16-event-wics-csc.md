@@ -6,8 +6,13 @@ Slug: wics-csc-s16
 Author: Clare Ng
 Summary: We're having a bonfire with the CSC! There will be ice cream and marshmellows.
 
-Join us at the Laurel Creek Fire Pit (by EV3) for a night outdoors with fellow people 
-in computer science! There will be ice cream and s'mores! Also fire. And a creek.
+**This event has been cancelled due to fire ban for KW and surrounding areas 
+due to dry weather conditions. We're trying to organize an alternate event, so
+we'll keep you posted!**
+
+Join us at the Laurel Creek Fire Pit (by EV3) for a night outdoors with fellow 
+people in computer science! There will be ice cream and s'mores! Also fire. 
+And a creek.
 
 Bring your friends! :)
 
