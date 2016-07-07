@@ -16,11 +16,11 @@ options.
 There is an attendance cap of 70 people (50 undergrads and 20 grads),
 so make sure to [register](https://www.eventbrite.com/e/square-tech-workshop-becoming-ok-with-okhttp-tickets-25360009471).
 
-Note: This event is [women-only](http://wics.uwaterloo.ca/faq).
+Note: This event is [women-only]({filename}/pages/faq.md).
 
 ## Event Details ##
 
-+ **Who:** [Cis & trans women and non-binary individuals](http://wics.uwaterloo.ca/faq)
++ **Who:** [Cis & trans women and non-binary individuals]({filename}/pages/faq.md)
 + **What:** Okhttp Workshop
 + **Where:** STC 0010
 + **When:** Wednesday, May 25, 5:30&ndash;7:30PM

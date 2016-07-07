@@ -17,11 +17,11 @@ we suggest bringing a small container if possible).
 
 As always, food will be provided! (With vegetarian, vegan, gluten-free options.)
 
-Note: This event is [women-only](http://wics.uwaterloo.ca/faq).
+Note: This event is [women-only]({filename}/pages/faq.md).
 
 ## Event Details ##
 
-+ **Who:** [Women and non-binary individuals](http://wics.uwaterloo.ca/faq).
++ **Who:** [Women and non-binary individuals]({filename}/pages/faq.md).
 + **What:** WiCS & FemPhys De-stressing Session
 + **Where:** QNC 1506
 + **When:** Tuesday. June 7, 6:00 - 7:30 PM

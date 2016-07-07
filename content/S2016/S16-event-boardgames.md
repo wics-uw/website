@@ -12,11 +12,11 @@ and ask questions about further education and academia.
 
 Food will be provided! (With vegetarian, vegan, gluten-free options.)
 
-Note: This event is [women-only](http://wics.uwaterloo.ca/faq).
+Note: This event is [women-only]({filename}/pages/faq.md).
 
 ## Event Details ##
 
-+ **Who:** [Women and non-binary individuals](http://wics.uwaterloo.ca/faq).
++ **Who:** [Women and non-binary individuals]({filename}/pages/faq.md).
 + **What:** Board Games Night with Grads
 + **Where:** CnD (3rd Floor MC)
 + **When:** Thurs. May 19, 5:00&ndash;6:30PM

@@ -14,7 +14,7 @@ come for the tea party, feel free to come by at 5:30. Please try to bring your
 own mug if possible.
 
 Note: Although our volunteer meeting is open to everyone, our Tea Party is
-a Big CSters event is and is thus [women-only](http://wics.uwaterloo.ca/faq).
+a Big CSters event is and is thus [women-only]({filename}/pages/faq.md).
 
 ## Event Details ##
 
