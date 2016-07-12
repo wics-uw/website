@@ -231,7 +231,7 @@ good to me!”
 
 If you have `x` commits you want to squash into one, run `[git
 rebase](https://help.github.com/articles/about-git-rebase/) -i HEAD~x`. It will
-list the last `x` commits. Keep the first one as `pick` ___, and then choose
+list the last `x` commits. Keep the first one as `pick`, and then choose
 `fixup` (or you can just type `f`) for the rest of the commits. Save and close,
 and there should just be one commit there! (To confirm, you can run `git log`.)
 
