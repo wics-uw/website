@@ -5,6 +5,20 @@ called [Pelican](http://docs.getpelican.com/en/3.5.0/).
 
 These docs are aimed at a Debian-based Linux user.
 
+## Contents: ##
+
+[Installation](#installation)
+
+[Setup](#setup)
+
+[Contributing content to the website](#contributing-content-to-the-website)
+
+[Development](#development)
+
+[Heroku Review Apps](#heroku-review-apps)
+
+[Deployment](#deployment)
+
 ## Installation ##
 
 ### `git` ###
@@ -97,10 +111,12 @@ Now we need to add a reference to our upstream remote repository:
 git remote add upstream https://github.com/wics-uw/website.git
 ```
 
-### Feature development ###
+## Contributing content to the website ##
+
+### Creating a feature branch ###
 
 In git, when we are working on a feature, we usually split it off from the
-master branch and refer to this branch as a "feature" or "topic branch."
+master branch and refer to this branch as a "feature branch" or "topic branch."
 
 If you're ready to work on a topic branch, follow these easy steps. First,
 ensure your master branch is up to date:
@@ -172,27 +188,73 @@ command.
 There are three views for reviewing a pull request on GitHub: **Conversation**,
 **Commits**, and **Files changed**.
 
-#### Conversation ####
+Conversation
 
-Comments on the pull request show up here, including any inline comments that
-are added when viewing the file diffs. A summary of submitted commits is also
-listed.
+- Comments on the pull request show up here, including any inline comments that
+  are added when viewing the file diffs. A summary of submitted commits is also
+  listed.
+- Use this section to submit general feedback about the pull request.
 
-Use this section to submit general feedback about the pull request.
+Commits
 
-#### Commits ####
+- A more detailed list of commits included in the pull request, that will allow
+  a reviewer to view each individually.
+- Usually before merging, you'll want all the commits from that change to be
+  squashed into a single commit.
 
-A more detailed list of commits included in the pull request, that will allow a
-reviewer to view each individually.
+Files changed
 
-#### Files changed ####
+- The `diff` view of the pull request. Lets the reviewer see the full patch in
+  its entirety, and add inline comments on changes.
+- Use this section to submit line-specific feedback.
 
-The `diff` view of the pull request. Lets the reviewer see the full patch in
-its entirety, and add inline comments on changes.
+#### Giving feedback ####
 
-Use this section to submit line-specific feedback.
+Everyone is invited to give feedback regardless of experience. Comments can
+touch on:
 
-#### Merging ####
+- phrasing of any text added
+- tags on event posts (do they make sense? are they existing tags?)
+- lines that are over 80 characters long (which we avoid)
+- any identation that's hard to read 
+- the way the change looks on the [Heroku Review App](#heroku-review-apps)
+- if there are mutliple commmits that can be [squashed into one
+  commit](#squashing-commits)
+
+You can even look at it and decide it looks good and just comment with “looks
+good to me!” 
+
+
+### Squashing commits ###
+
+To squash multiple commits created over the review process into a single commit
+that contains your change, use [git
+rebase](https://help.github.com/articles/about-git-rebase/).
+
+If you have `x` commits you want to squash into one, run `git rebase -i
+HEAD~x`. It will list the last `x` commits. Keep the first one as `pick` ___,
+and then choose `fixup` (or you can just type `f`) for the rest of the commits.
+Save and close, and there should just be one commit there! (To confirm, you can
+run `git log`.)
+
+When you push the new squashed commit, `git` will be confused and think you're
+missing those `x` commits (when really you just turned them all into a new
+single commit). It will suggest you run `git pull`. **Do not ever run `git
+pull`**. Instead run `git push --force`.
+
+### Pulling in changes ###
+
+Maybe while you were working on your change, someone else contributed updates
+to the repository and you want add them to your branch. **Do not ever run `git
+pull`**. Instead run:
+
+```
+git fetch upstream
+git rebase upstream/master
+git push -f origin HEAD
+```
+
+### Merging ###
 
 A back-and-forth revision process will occur during the course of the review.
 For the developer to update the pull request, they simply need to push new
