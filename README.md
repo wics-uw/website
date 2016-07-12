@@ -188,21 +188,23 @@ command.
 There are three views for reviewing a pull request on GitHub: **Conversation**,
 **Commits**, and **Files changed**.
 
-Conversation
+**Conversation**
 
 - Comments on the pull request show up here, including any inline comments that
   are added when viewing the file diffs. A summary of submitted commits is also
   listed.
 - Use this section to submit general feedback about the pull request.
 
-Commits
+**Commits**
 
 - A more detailed list of commits included in the pull request, that will allow
   a reviewer to view each individually.
 - Usually before merging, you'll want all the commits from that change to be
-  squashed into a single commit.
+  squashed into a single commit. This so that the commit can show the whole
+  change that was made, and so that there aren't a bunch of typo fixes in the
+  repository's commit history!
 
-Files changed
+**Files changed**
 
 - The `diff` view of the pull request. Lets the reviewer see the full patch in
   its entirety, and add inline comments on changes.
@@ -227,20 +229,17 @@ good to me!”
 
 ### Squashing commits ###
 
-To squash multiple commits created over the review process into a single commit
-that contains your change, use [git
-rebase](https://help.github.com/articles/about-git-rebase/).
-
-If you have `x` commits you want to squash into one, run `git rebase -i
-HEAD~x`. It will list the last `x` commits. Keep the first one as `pick` ___,
-and then choose `fixup` (or you can just type `f`) for the rest of the commits.
-Save and close, and there should just be one commit there! (To confirm, you can
-run `git log`.)
+If you have `x` commits you want to squash into one, run `[git
+rebase](https://help.github.com/articles/about-git-rebase/) -i HEAD~x`. It will
+list the last `x` commits. Keep the first one as `pick` ___, and then choose
+`fixup` (or you can just type `f`) for the rest of the commits. Save and close,
+and there should just be one commit there! (To confirm, you can run `git log`.)
 
 When you push the new squashed commit, `git` will be confused and think you're
 missing those `x` commits (when really you just turned them all into a new
-single commit). It will suggest you run `git pull`. **Do not ever run `git
-pull`**. Instead run `git push --force`.
+single commit). You might see the error message failed to push some refs to
+`https://github.com/<some-path>` and a suggestion to run `git pull`. **Do not
+ever run `git pull`**. Instead run `git push --force`.
 
 ### Pulling in changes ###
 
@@ -252,6 +251,13 @@ pull`**. Instead run:
 git fetch upstream
 git rebase upstream/master
 git push -f origin HEAD
+```
+
+If you can't fetch from upstream, you might have to add a reference to our
+upstream remote repo:
+
+```
+git remote add upstream https://github.com/wics-uw/website.git
 ```
 
 ### Merging ###
