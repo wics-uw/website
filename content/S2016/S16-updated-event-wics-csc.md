@@ -2,7 +2,7 @@ title: WiCS & CSC Go Outside
 Date: 2016-07-08
 Category: Events
 Tags: social
-Slug: wics-csc-s16
+Slug: updated-wics-csc-s16
 Author: Bhargavi Dameracharla
 Summary: Join WiCS and CSC pinic + outdoor games event
 
