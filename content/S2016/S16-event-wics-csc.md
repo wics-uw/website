@@ -1,4 +1,4 @@
-title: WiCS & CSC Go Outside
+title: WiCS & CSC Go Outside (cancelled)
 Date: 2016-06-30
 Category: Events
 Tags: social
@@ -8,7 +8,7 @@ Summary: We're having a bonfire with the CSC! There will be ice cream and marshm
 
 **This event has been cancelled due to fire ban for KW and surrounding areas 
 due to dry weather conditions. Details about updated event can be found in 
-the updated event post.
+the updated event post.**
 
 Join us at the Laurel Creek Fire Pit (by EV3) for a night outdoors with fellow 
 people in computer science! There will be ice cream and s'mores! Also fire. 
