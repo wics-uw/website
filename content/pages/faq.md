@@ -51,7 +51,7 @@ They are available to read during office hours.
 
 We're always open to hearing your feedback! Feel free to fill out our
 [feedback form](http://goo.gl/forms/MbgCnFt2yiEtfawq1) with any suggestions or
-concerns you have.
+concerns you have. You can fill it out anonymously.
 
 ## I have a food sensitivity. Can you accomodate me at catered events? ##
 
