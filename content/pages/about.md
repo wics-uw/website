@@ -25,7 +25,7 @@ M3 with Linux terminals!
 
 # Volunteer Opportunities #
 
-We can always use more volunteers! If you're interested in getting involved, 
+We can always use more volunteers! If you're interested in getting involved,
 we'd love to hear from you. Email the [committee]({filename}/pages/exec.md) at
 <wics-ugrad@lists.uwaterloo.ca> and we'll get back to you as soon as we can.
 
@@ -40,5 +40,8 @@ but let us know if you would like to
 + Organize talks, which could involve hosting out-of-town speakers
 + Represent undergraduate interests on the Women in Computer Science Committee
 + Represent WiCS at student government meetings
+
+You can **sign up** or read more about our volunteer opportunities
+[here]({filename}/pages/volunteers.md).
 
 Cheers!
