@@ -13,6 +13,11 @@ and more!
 You can contact our executive team at any time by emailing
 [wics-ugrad@lists.uwaterloo.ca](mailto:wics-ugrad@lists.uwaterloo.ca).
 
+# Feedback Form #
+
+If you'd like to contact us anonymously with feedback about what WiCS does, you
+can fill out our [feedback form](http://goo.gl/forms/MbgCnFt2yiEtfawq1).
+
 # Mailing Lists #
 
 If you are a female student enrolled in a computer science program (CS, SE,

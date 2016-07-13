@@ -47,6 +47,12 @@ We have a library with feminist resources including:
 
 They are available to read during office hours.
 
+## Where can I give my feedback about WiCS? ##
+
+We're always open to hearing your feedback! Feel free to fill out our
+[feedback form](http://goo.gl/forms/MbgCnFt2yiEtfawq1) with any suggestions or
+concerns you have. You can fill it out anonymously.
+
 ## I have a food sensitivity. Can you accomodate me at catered events? ##
 
 Yes, we would be happy to! Please try to notify us of your allergies at
