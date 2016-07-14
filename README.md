@@ -215,13 +215,18 @@ There are three views for reviewing a pull request on GitHub: **Conversation**,
 Everyone is invited to give feedback regardless of experience. Comments can
 touch on:
 
-- phrasing of any text added
+- phrasing of any text added (typos, awkward phrasing, using gendered language
+  where it could be gender neutral)
 - tags on event posts (do they make sense? are they existing tags?)
-- lines that are over 80 characters long (which we avoid)
+- lines that are over 80 characters long (which we avoid except for certain
+  cases like the metadata at the top of many of the files)
 - any identation that's hard to read 
 - the way the change looks on the [Heroku Review App](#heroku-review-apps)
 - if there are mutliple commmits that can be [squashed into one
   commit](#squashing-commits)
+- linking to the site with a [static urls instead of relative 
+  urls](https://github.com/wics-uw/website/issues/222) (which generally [is bad
+  practice](http://stackoverflow.com/questions/2005079/))
 
 You can even look at it and decide it looks good and just comment with “looks
 good to me!” 
@@ -239,7 +244,9 @@ When you push the new squashed commit, `git` will be confused and think you're
 missing those `x` commits (when really you just turned them all into a new
 single commit). You might see the error message failed to push some refs to
 `https://github.com/<some-path>` and a suggestion to run `git pull`. **Do not
-ever run `git pull`**. Instead run `git push --force`.
+ever run `git pull`**. It will bring back in a copy of all the commits you
+squashed and potentially other commits unrelated to your change. Instead run
+`git push --force`.
 
 ### Pulling in changes ###
 
