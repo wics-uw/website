@@ -222,7 +222,7 @@ touch on:
   cases like the metadata at the top of many of the files)
 - any identation that's hard to read 
 - the way the change looks on the [Heroku Review App](#heroku-review-apps)
-- if there are mutliple commmits that can be [squashed into one
+- if there are multiple commmits that can be [squashed into one
   commit](#squashing-commits)
 - linking to the site with a [static urls instead of relative 
   urls](https://github.com/wics-uw/website/issues/222) (which generally [is bad
