@@ -7,3 +7,4 @@ Here is a list of our official policies, approved by the committee.
 + [Constitution]({filename}/pages/constitution.md)
 + [Machine Usage Agreement]({filename}/pages/mua.md)
 + [Office Policy]({filename}/pages/office-policy.md)
++ [Photography Policy]({filename}/pages/photography-policy.md)
