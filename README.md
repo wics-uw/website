@@ -200,9 +200,9 @@ There are three views for reviewing a pull request on GitHub: **Conversation**,
 - A more detailed list of commits included in the pull request, that will allow
   a reviewer to view each individually.
 - Usually before merging, you'll want all the commits from that change to be
-  squashed into a single commit. This so that the commit can show the whole
-  change that was made, and so that there aren't a bunch of typo fixes in the
-  repository's commit history!
+  squashed into a single commit. Some of the reasons for this is so that the
+  commit can show the whole change that was made, and so that there aren't a
+  bunch of typo fixes in the repository's commit history!
 
 **Files changed**
 
@@ -234,11 +234,15 @@ good to me!”
 
 ### Squashing commits ###
 
-If you have `x` commits you want to squash into one, run `[git
-rebase](https://help.github.com/articles/about-git-rebase/) -i HEAD~x`. It will
-list the last `x` commits. Keep the first one as `pick`, and then choose
-`fixup` (or you can just type `f`) for the rest of the commits. Save and close,
-and there should just be one commit there! (To confirm, you can run `git log`.)
+If you have `x` commits you want to squash into one, run
+
+```git rebase -i HEAD~x```
+
+- you'll see a list of the last `x` commits.
+- keep the first one as `pick`
+- choose `fixup` (or you can just type `f`) for the rest of the commits
+- save and close, and there should just be one commit there! (to confirm, you
+  can run `git log`)
 
 When you push the new squashed commit, `git` will be confused and think you're
 missing those `x` commits (when really you just turned them all into a new
