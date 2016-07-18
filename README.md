@@ -158,6 +158,14 @@ best practices.
 Remember: code reviews will help catch these things and give you a better idea
 of what's considered standard. Don't fear constructive feedback!
 
+### Seeing what your change looks like ###
+
+Before submitting a pull request, you can test your change locally to see what
+it will look like on the website. If you don't want to [test
+locally](#testing-locally) or are having trouble setting it up, you can also
+just submit a pull request and wait for someone to deploy a [Heroku Review
+App](#heroku-review-apps)
+
 ### Submitting pull requests ###
 
 After you've made your modifications on your topic branch, perhaps following
