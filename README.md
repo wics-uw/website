@@ -32,9 +32,10 @@ sudo apt-get install git-core
 ```
 
 For more information about what a typical `git` workflow for contributing to
-the site might look like, check out [this OpenHatch
-document](http://openhatch.readthedocs.org/en/latest/advanced/working_with_git.html)
-and look into completing the [OpenHatch `git` training
+the site might look like, check out [the curriculum from the WiCS git
+workshop](https://github.com/wics-uw/git-workshop-W16/wiki) and [this OpenHatch
+document](http://openhatch.readthedocs.org/en/latest/advanced/working_with_git.html).
+You can also look into completing the [OpenHatch `git` training
 mission](http://openhatch.org/missions/git).
 
 ### `pelican` ###
