@@ -39,11 +39,11 @@ UWaterloo email address so we can verify your identity.
 
 # Office #
 
-Why not drop by our M3 office and visit? We have two shiny new office
+Why not drop by our MC office and visit? We have two shiny new office
 terminals, generously funded by the [Mathematics Endowment
 Fund](http://www.student.math.uwaterloo.ca/~mefcom/), and comfortable and clean
-desk space. We also have a library including feminist tech publications and 
-various technical resources available for you to read during office hours. We 
+desk space. We also have a library including feminist tech publications and
+various technical resources available for you to read during office hours. We
 will publish our office hours on [the calendar]({filename}/pages/calendar.md).
 
 When you visit us, keep in mind our [office policy](/office-policy/).
@@ -51,7 +51,7 @@ When you visit us, keep in mind our [office policy](/office-policy/).
 ## Mailing address ##
 
 Women in Computer Science Undergraduate Committee  
-Mathematics 3 Room 1003  
+Mathematics & Computer Building Room 3013C  
 University of Waterloo  
 200 University Ave. W  
 Waterloo, ON, Canada  

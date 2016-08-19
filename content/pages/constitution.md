@@ -271,7 +271,7 @@ be first ratified by the Systems Committee, followed by the entire committee.
 ### 3. Office Policy ###
 
 The Office Policy outlines expected behaviour in the WiCS Undergraduate
-Committee office, M3 1003.
+Committee office, MC 3013C.
 
 ### 4. Communication and Organizational Technologies ###
 
