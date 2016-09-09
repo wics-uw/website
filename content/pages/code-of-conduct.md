@@ -100,7 +100,7 @@ communications pertaining to community business.
 
 WiCS Undergraduate Committee<br>
 <wics-ugrad@lists.uwaterloo.ca><br>
-M3 1003<br>
+MC 3013C<br>
 University of Waterloo
 
 # License Information and Attribution #
