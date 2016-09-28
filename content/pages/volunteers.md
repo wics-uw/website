@@ -1,4 +1,4 @@
-Title: Volunteer Opportunities
+Title: Volunteer
 
 **You can sign up for most volunteer positions by filling out [this
 form](http://goo.gl/forms/NsOXea6Yjf5t02Oj1).**
