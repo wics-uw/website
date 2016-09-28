@@ -1,4 +1,3 @@
-status: hidden
 Title: Volunteer Opportunities
 
 **You can sign up for most volunteer positions by filling out [this
