@@ -18,9 +18,9 @@ we do not publish our logs. Communication in the channel is governed by our
 [Code of Conduct]({filename}/pages/code-of-conduct.md). If you haven't given it
 a read yet, please take a few minutes to familiarize yourself with it!
 
-# Installation instructions #
+## Setting Up IRC (you can pick any of these options)
 
-## Web ##
+#### Web
 
 If you just want to drop by our channel to see what all the fuss is about, it's
 as easy as clicking a link  to join us via a web chat client. You can join our
@@ -29,42 +29,81 @@ systems committee channel,
 [#wics-sys](http://webchat.oftc.net/?channels=wics-sys), in this way. Simply
 choose a username and click "Connect"!
 
-## Graphical clients ##
+#### WeeChat
+Weechat has become a favourite among committee, so if you like to have a gui
+and point-and-clickness, we recommend you try this first. It also has
+notifications on phone and desktop, and you are always connected if you keep it
+on a screen.
 
-Follow these instructions on the OpenHatch wiki to download and install an IRC
-client:
+Steps:
 
-+ [Windows](https://openhatch.org/wiki/Open_Source_Comes_to_Campus/Curriculum/Laptop_setup/Windows_IRC)
-+ [OS X](https://openhatch.org/wiki/Open_Source_Comes_to_Campus/Curriculum/Laptop_setup/OSX_IRC)
-+ [Linux](https://openhatch.org/wiki/Open_Source_Comes_to_Campus/Curriculum/Laptop_setup/Linux_IRC)
+1. ssh into taurine or mother gooose, by running one of these commands in PuTTY
+   (Windows) or in a Terminal (Mac/Linux):
+   - `ssh userid@taurine.csclub.uwaterloo.ca` (for CSC) - If you don’t have an
+      account, visit the CSC office and pay $2 to sign up
+   - `ssh userid@mother-goose.wics.uwaterloo.ca` (for WiCS) - If you don’t have
+     a userid, ask Fatema to create one.
+2. type into the terminal `screen weechat`
+3. in WeeChat buffer type: `/set relay.network.password [pick a password that
+   you don’t use for anything important]`
+4. `/relay add weechat #####` where ##### is a port number. Pick a number
+   between 28000 and 28500
+5. To set up on a web browser, go to glowing-bear.org, and enter the
+   information, (eg. host: taurine.uwaterloo.ca; port: 00009; password:
+   butts123)
+6. To set up on your phone, download WeeChat Android, or the Glowing Bear app,
+   and go to settings>connection settings, fill out the same information again
+7. Either in the app or the web interface, you need to join all the channels
+   and servers. In the buffer type:
+    - `/server add oftc irc.oftc.net`
+    - `/connect oftc`
+8. Go to the oftc screen, in glowing-bear click on the bear’s face, and click
+   on oftc, in weechat android click on the W in the top-left corner
+    - `/join #wics` (public conversation)
+    - `/join #wics-sys`
+    - `/join #wics-general` (committee -only channel! wics-sys people don't
+      join this)
+8. All these channels will appear on the list on the left.
+9. You should be connected forevs, unless sucrose goes down for some reason.
 
-Our connection information differs from the OpenHatch wiki. Please use the
-following parameters:
+# Important things for using IRC
 
-**Server name:** OFTC (Open and Free Technology Community)<br>
-**Channel name:** #wics
+### Notifications
+- It's important that you check IRC frequently - for some people notifications
+  help this be a thing
+- WeeChat has notifications!
+- If you're not using weechat and have an Android phone, see documentation on
+  irssinotifier
 
-## Persistent sessions ##
+#### Beginner's Guide to IRC Commands
+- IRC is command based. Here are the basic commands you should know:
+- `/connect $ircNetwork` (e.g. `/connect irc.oftc.org`): this connects you to
+  an irc network
+- `/nick new_name` (e.g. `/nick evy`): If you want to change your nickname use
+  this command  where `new_name` is the name you want. If that nick is
+  registered, you have 30 seconds to "identify" yourself
+- `/msg nickserv identify $password`: this is the command used to identify
+  yourself. Your password is whatever you set it to be when you register your
+  nick
+- `/join $channel` (e.g. `/join #wics`): This is the command used to join a
+  channel
+- `/q $nick` (e.g. `/q evy`): This opens a "query" window with another user.
+  This is used to PM someone. You can then switch to that window and chat with
+  another user
+- `/wc` or `/close` closes the window you’re in
 
-Many of our users have an IRC session online at all times. If you'd like to
-use a similar setup, you will need access to a Linux server.
+#### Hilight
 
-[IRCCloud](https://www.irccloud.com/) is a user-friendly and feature rich
-graphical client that supports persistent sessions, file and image sharing, and
-more through web and mobile clients. However, it costs $5 USD/month for
-persistent sessions. If you're looking for a more modern take on IRC that
-includes a mobile application with out-of-the-box push notifications and you're
-not worried about the small cost, this may be a great choice for you.
+Highlight will give you notifications for certain words. You are automatically
+hilighted on your nick when it is at the beginning of a line. You can add
+additional hilight by typing `/hilight $word`).
 
-For a more traditional setup, you can [follow these
-instructions](http://wiki.csclub.uwaterloo.ca/How_to_IRC) to configure IRC in a
-screen session on a remote server, allowing you to use a secure shell to log in
-and view your session at any time.
+We recommend you add at least these hilight:
+- your nick (so it will hilight anywhere)
+- your actual name (if it differs from your nick)
+- the word "all" and the word "channel" (we use these to get everyone's
+  attention)
 
-The instructions above are aimed at Computer Science Club members, who have
-login credentials for `taurine.csclub.uwaterloo.ca`. Unfortunately, at this
-time, WiCS does not offer community logins. We hope to have a server set up in
-the near future to provide this service. In the meantime, University of
-Waterloo students, staff, and alumni can purchase a
-[Computer Science Club](https://csclub.uwaterloo.ca) membership for $2 per
-term, which grants you access to the CSC network.
+If you have a Quest account and want to read more about IRC, you can view
+the full IRC documentation
+[here](https://git.uwaterloo.ca/wics/documentation/wikis/irc)
