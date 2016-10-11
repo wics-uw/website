@@ -1,4 +1,7 @@
-# Spring 2016 Committee #
+Title: Spring 2016 Committee
+Category: pages
+Status: hidden
+Summary: Volunteer Positions
 
 ## Chair ##
 
