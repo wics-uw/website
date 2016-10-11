@@ -7,33 +7,39 @@ These are the people making things happen!
 
 You can view [past terms' committees here]({filename}/pages/past-exec.md).
 
-# Spring 2016 Committee #
+# Fall 2016 Committee #
 
 ## Chair ##
 
-Arshia Mufti (`a2mufti`)
+Jenny Sun (`j89sun`)
 
 ## Secretary ##
 
-Evy Kassirer (`eawkassi`)
+Shirley Miao (`scmiao`)
 
 ## Director of Finance ##
 
-Zarina Mamoukhouva (`zrmamouk`)
+Talia McCormick (`tdmccorm`)
 
-## Big CSters Director ##
+## Big CSters Directors ##
 
-Michelle Liauw (`nmaliauw`)
+Saadiya Desai (`sidesai`)
+
+Fatima Taj (`ftaj`)
 
 ## Systems Administrator ##
 
-Srishti Gupta (`s88gupta`)
+Fatema Boxwala (`fhboxwal`)
 
 ## Director of Publicity ##
 
-Clare Ng (`c32ng`)
+Shivangi Patwardhan (`spatward`)
 
 ## Office Manager ##
 
-Bhargavi Dameracharla (`bdamerac`)
+Rolina Wu (`r48wu`)
+
+## Volunteer Coordinator ##
+
+Anna Lorimer (`aemhlori`)
 
