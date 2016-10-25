@@ -43,8 +43,9 @@ Why not drop by our MC office and visit? We have two shiny new office
 terminals, generously funded by the [Mathematics Endowment
 Fund](http://www.student.math.uwaterloo.ca/~mefcom/), and comfortable and clean
 desk space. We also have a library including feminist tech publications and
-various technical resources available for you to read during office hours. We
-will publish our office hours on [the calendar]({filename}/pages/calendar.md).
+various technical resources available for you to read during office hours. 
+The schedule for this term's office hours is 
+[here]({filename}/F2016/F16-Office-Hours.md).
 
 When you visit us, keep in mind our [office policy](/office-policy/).
 
