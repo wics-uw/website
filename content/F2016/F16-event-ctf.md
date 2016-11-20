@@ -11,7 +11,7 @@ start?
 [Have you ever wondered what exactly a "CTF" is?](https://ctftime.org/ctf-wtf/)
 Do you want to learn how you too can become a Hacker^TM? Come out to WiCS
 Undergrad's Security and Networking CTF (Capture the Flag)! There will be
-teams and competition and questions about security, crypto, networking and 
+teams and competition and questions about security, crypto, networking and
 infrastructure, as well as snacks and prizes!
 
 [Register here.](https://www.eventbrite.com/e/security-networking-ctf-tickets-29304546688)
