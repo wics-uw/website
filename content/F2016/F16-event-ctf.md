@@ -1,5 +1,5 @@
 title: Security & Networking CTF
-Date: 2016-01-24
+Date: 2016-11-21
 Category: Events
 Tags: Security, networking, ctf, events
 Slug: ctf-F16
