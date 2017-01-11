@@ -1,7 +1,7 @@
 Title: Office Hours for Fall 2016
 Date: 2016-10-25 16:00
 Category: Blog
-Tags: Office Hours
+Tags: office
 Author: Rolina Wu
 Summary: Announcing our Office Hours for Fall 2016
 
