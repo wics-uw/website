@@ -7,15 +7,15 @@ These are the people making things happen!
 
 You can view [past terms' committees here]({filename}/pages/past-exec.md).
 
-# Fall 2016 Committee #
+# Winter 2017 Committee #
 
 ## Chair ##
 
-Jenny Sun (`j89sun`)
+Bhargavi Dameracharla (`bdamerac`)
 
 ## Secretary ##
 
-Shirley Miao (`scmiao`)
+Anakha Palissery (`apalisse`)
 
 ## Director of Finance ##
 
@@ -23,23 +23,27 @@ Talia McCormick (`tdmccorm`)
 
 ## Big CSters Directors ##
 
-Saadiya Desai (`sidesai`)
-
-Fatima Taj (`ftaj`)
-
-## Systems Administrator ##
-
-Fatema Boxwala (`fhboxwal`)
-
-## Director of Publicity ##
+Monica Xu (`m92xu`)
 
 Shivangi Patwardhan (`spatward`)
 
+## Systems Administrator ##
+
+Fatima Taj (`ftaj`)
+
+## Director of Publicity ##
+
+Karolina Xin (`KarolinaXin`)
+
 ## Office Manager ##
 
-Rolina Wu (`r48wu`)
+Erin Edward (`esedward`)
 
-## Volunteer Coordinator ##
+## Mentor ##
 
 Anna Lorimer (`aemhlori`)
+
+## Mentor ##
+
+Evy Kassirer (`eawkassi`)
 
