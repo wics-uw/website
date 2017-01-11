@@ -1,31 +1,33 @@
-Title: Office Hours for Winter 2017
-Date: 2017-01-11 17:30
+Title: Office Hours for Fall 2016
+Date: 2016-10-25 16:00
 Category: Blog
-Tags: office
-Author: Erin Edward
-Summary: Announcing our Office Hours for Winter 2017
+Tags: Office Hours
+Author: Rolina Wu
+Summary: Announcing our Office Hours for Fall 2016
 
 Monday:
 
-- 11 am - 1 pm
+- 10am - 1 pm
+-  2pm - 4 pm
 
 Tuesday:
 
-- 10 am - 11 am
-- 12 pm - 1 pm
+-  2pm - 4 pm
 
 Wednesday:
 
-- 12:30 pm - 2:30 pm
+- 10am - 11am
+- 12pm - 1 pm
+-  2pm - 4 pm
 
 Thursday:
 
-- 10 am - 11 am
-- 12 pm - 1 pm
+-  2pm - 4 pm
 
 Friday:
 
 - 10am - 11am
+- 2pm - 4 pm
 
 No office hours will be held on Saturday and Sunday.
 
