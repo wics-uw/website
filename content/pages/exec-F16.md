@@ -1,4 +1,4 @@
-Title: Our Volunteers
+Title: Fall 2016 Committee
 Category: pages
 Status: hidden
 Summary: Volunteer Positions
