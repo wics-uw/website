@@ -1,3 +1,8 @@
+Title: Our Volunteers
+Category: pages
+Status: hidden
+Summary: Volunteer Positions
+
 # Fall 2016 Committee #
 
 ## Chair ##
