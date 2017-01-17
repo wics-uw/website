@@ -14,7 +14,8 @@ to get more information on co-op, and to get a few tips on applying for jobs.
 ## Event Details ##
 
 + **Who:** Co-op Panelists
-+ **What:** Come here to get hints on how to get a job through co-op! Room Number TBA
++ **What:** Come here to get hints on how to get a job through co-op!
++ **Where**: MC 2065
 + **When:** Thursday Jan 19, 6:00&ndash;
 
 
