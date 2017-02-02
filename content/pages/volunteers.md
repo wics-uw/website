@@ -16,16 +16,16 @@ We have a range of volunteer positions, each of which will help you to learn
 about an aspect of our committee. By volunteering to be a **photographer**, you
 can learn about how we run events and help with publicizing them. By
 volunteering to be a **technical mentor** for our events, you can help teach
-technical concepts to others. By becoming a **systems committee volunteer**, you
-can learn systems administration and static website development from our systems
-committee.
+technical concepts to others. We will no longer be accepting volunteers
+for our systems committee.
 
 ## How volunteering works
 
 You can sign up for most positions by filling out [this
-form](https://lists.uwaterloo.ca/mailman/listinfo/wics-volunteers). The only exception is volunteering
-to run your own event (mentioned below), in which case you'll have to [email us
-directly](mailto:wics-ugrad@lists.uwaterloo.ca). When you sign up, you will be
+form](https://lists.uwaterloo.ca/mailman/listinfo/wics-volunteers). 
+The only exception is volunteering to run your own event (mentioned below), 
+in which case you'll have to [email us directly]
+(mailto:wics-ugrad@lists.uwaterloo.ca). When you sign up, you will be
 added to our volunteer mailing list and be notified of future volunteer
 opportunities by email. Most volunteer opportunities will be assigned on a
 first-come-first-serve basis. However, if you have volunteered for the same
