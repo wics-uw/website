@@ -19,13 +19,35 @@ Holding events which are only open to women helps some women deal with
 [stereotype threat](http://geekfeminism.wikia.com/wiki/Stereotype_threat
 "Geek Feminism Wiki: Stereotype Threat").
 
-An example of an event that's women-only is our mentoring program, where we
-match up junior female students with more senior female students to talk about
-their experiences and support them throughout their academic career.  Women can
-obviously seek out male mentors as well, but they don't quite share the same
-experiences so the impact of the mentoring is not the same. There are also
-events that are traditionally very competitive (such as hackathons) that women
-feel more comfortable coming out to if they're women-only.
+There are a few categories of events that the Undergraduate Committee
+generally chooses to keep women only. These include: workshops,
+networking, and mentoring or discussion circle-style events.
+
+Women are often excluded from these kinds of events when held by other
+organizations. This is sometimes because of unconscious biases playing a part 
+in the admissions process, or because some women do not feel comfortable
+at these events when they know the majority of attendants will
+be men (see our link on stereotype threat above). We find 
+that holding these events as women-only is a way to alleviate this issue a
+ little for women in our community.
+
+It's true that it is important to educate people (including and 
+sometimes especially men) about the issues faced by women in 
+STEM fields. However, as is stated in our constitution, "[WiCS] seeks
+to build a supportive community for cis and trans women and non-binary
+individuals in computer science." Although this does occasionally
+include educating and spreading our message to the populous at large,
+it also includes creating spaces and events where these individuals
+feel comfortable attending and contributing. WiCS often holds events
+that are open to anyone, including panels and talks by prominent women
+in the field.
+
+We would love to see other organizations at our school hold 
+workshops and skill building events that are similar to ours, but open to all genders!
+If this is something you would like to see, we suggest you reach out to
+the [UW CSClub](csclub.uwaterloo.ca), or check out organizations such as AppDev club.
+We are Women in Computer Science, and our top priority will always be the 
+women of our community.
 
 Our women-only events are not publicly advertised and we always specify
 **very explicitly** if an event is going to be women-only.
