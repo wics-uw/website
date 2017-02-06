@@ -16,16 +16,21 @@ We have a range of volunteer positions, each of which will help you to learn
 about an aspect of our committee. By volunteering to be a **photographer**, you
 can learn about how we run events and help with publicizing them. By
 volunteering to be a **technical mentor** for our events, you can help teach
-technical concepts to others. We will no longer be accepting volunteers
-for our systems committee.
+technical concepts to others. By becoming a **systems committee volunteer**, you
+can learn systems administration and static website development from our systems
+committee.
+
+**Note:** We currently don't have the capacity to support volunteers and will
+not be accepting volunteers until further notice. We will be reinstating 
+the volunteer program as soon as we have mentors available. 
 
 ## How volunteering works
 
 You can sign up for most positions by filling out [this
-form](https://lists.uwaterloo.ca/mailman/listinfo/wics-volunteers). 
-The only exception is volunteering to run your own event (mentioned below), 
-in which case you'll have to [email us directly]
-(mailto:wics-ugrad@lists.uwaterloo.ca). When you sign up, you will be
+form](https://lists.uwaterloo.ca/mailman/listinfo/wics-volunteers). The only 
+exception is volunteering to run your own event (mentioned below),
+in which case you'll have to [email us directly](mailto:wics-ugrad@lists.uwaterloo.ca).
+When you sign up, you will be
 added to our volunteer mailing list and be notified of future volunteer
 opportunities by email. Most volunteer opportunities will be assigned on a
 first-come-first-serve basis. However, if you have volunteered for the same
@@ -70,17 +75,6 @@ Here are the volunteer positions currently available.
 * **Commitment**: This is a higher commitment position than the previous
   positions. In addition to attending the event, you will also have to spend
   time familiarizing yourself with the material prior to it.
-
-### Systems Committee Volunteer
-
-* This is a great way to learn about Linux systems administration, version
-  control, and static website development!
-* You’ll work with our WiCS systems committee and help maintain our machines,
-  track issues, etc.  Indicate your interest in being a systems-committee
-  volunteer in the form above. Doing so will add you to the wics-sys mailing list.
-* **You will need:** to be willing to work independently, try new things,
-  follow along with existing work, and ask questions. Prior experience, although
-  appreciated, is not a pre-requisite.
 
 ### Run an event with us!
 
