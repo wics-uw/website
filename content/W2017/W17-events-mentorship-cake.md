@@ -4,8 +4,7 @@ Category: Events
 Tags: social, big csters, 
 Slug: mentoship-night-w17
 Author: Monica Xu
-Summary: Get upperclassmen help about various CS options, specific upper year classes,
-interviews and other aspects of university life
+Summary: Get upperclassmen help about various CS options, specific upper year classes, interviews and other aspects of university life
 
 Hey there! Do you love cake? Want to get some life advice? Resume critiqued?
 How about just meeting some awesome people in your Faculty?
