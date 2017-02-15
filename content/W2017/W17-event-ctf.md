@@ -1,5 +1,5 @@
 title: Security and Networking CTF with CrySP
-Date: Feb 28th, 2017
+Date: 2017-02-15
 Category: Events
 Tags: Security, networking, ctf, events
 Slug: ctf-W17
