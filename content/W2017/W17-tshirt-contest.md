@@ -22,7 +22,7 @@ Designs must adhere to the following:
 +  Fit on A4 paper
 +  1 or 2 colours on 1 solid colour shirt of choice
 +  Include "Women in Computer Science" or "WiCS"
-+  Be appropriate and adhere to the University of Waterloo and WiCS [codes-of-conduct]({filename}/pages/code-of-conduct.md)
++  Be appropriate and adhere to the University of Waterloo and WiCS [code-of-conduct]({filename}/pages/code-of-conduct.md)
 
 
 Deadline is February 26 at 11:59PM! Submit files to [wics-ugrad@lists.uwaterloo.ca](mailto:wics-ugrad@lists.uwaterloo.ca).
