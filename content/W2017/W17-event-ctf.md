@@ -25,4 +25,4 @@ Note: This event is women-only and requires registration.
 + **Who:** [Cis & trans women and non-binary individuals]({filename}/pages/faq.md)
 + **What:** Security and Networking CTF with CrySP
 + **Where:** EV3 1408
-+ **When:** Feb 28th, 2017
++ **When:** Feb 28th, 2017 6:00&ndash;8:00PM
