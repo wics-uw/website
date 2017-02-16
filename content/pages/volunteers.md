@@ -1,7 +1,7 @@
 Title: Volunteer
 
 **You can sign up for most volunteer positions by filling out [this
-form](http://goo.gl/forms/NsOXea6Yjf5t02Oj1).**
+form](https://lists.uwaterloo.ca/mailman/listinfo/wics-volunteers).**
 
 As we strive to improve the quality of our events, every contribution, large or
 small counts. Volunteering with our committee is a great way to get involved
@@ -23,7 +23,7 @@ committee.
 ## How volunteering works
 
 You can sign up for most positions by filling out [this
-form](http://goo.gl/forms/NsOXea6Yjf5t02Oj1). The only exception is volunteering
+form](https://lists.uwaterloo.ca/mailman/listinfo/wics-volunteers). The only exception is volunteering
 to run your own event (mentioned below), in which case you'll have to [email us
 directly](mailto:wics-ugrad@lists.uwaterloo.ca). When you sign up, you will be
 added to our volunteer mailing list and be notified of future volunteer
