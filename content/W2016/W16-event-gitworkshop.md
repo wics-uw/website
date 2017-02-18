@@ -1,7 +1,7 @@
 Title: Technical Workshop: Intro to Git and Open Source Software
 Date: 2016-03-03 14:00
 Category: Events
-Tags: BlackBerry, workshop, git, open source
+Tags: BlackBerry, workshop, open source
 Slug: git-workshop-w16
 Author: Fatema Boxwala
 Summary: Join us for a fun workshop to learn the basics of Git, Github and open source contributions!

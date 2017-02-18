@@ -1,7 +1,7 @@
 Title: Big Data Panel
 Date: 2016-02-15
 Category: Events
-Tags: big data, panels
+Tags: panels
 Slug: big-data-panel-w16
 Author: Fatema Boxwala
 Summary: Learn about the world of Big Data, and the roles of various women in that space!

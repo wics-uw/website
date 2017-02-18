@@ -1,7 +1,7 @@
 title: Problem Solving Session
 Date: 2016-02-01
 Category: Events
-Tags: problem solving, computing, math
+Tags: 
 Slug: problem-solving-w16
 Author: Nivasini Ananthakrishnan
 Summary: An evening of math and coding

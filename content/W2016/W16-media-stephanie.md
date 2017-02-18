@@ -1,7 +1,7 @@
 Title: Stephanie Morillo: “Circuit Breaker”
 Date: 2016-03-22
 Category: Media
-Tags: talks, #WoCinTech, technical writing
+Tags: talks
 Slug: stephanie-morillo-video-2016
 Author: Fatema Boxwala
 Summary: The amazing Stephanie Morillo gives a talk to UW students about her experiences entering the tech world from a unique place.

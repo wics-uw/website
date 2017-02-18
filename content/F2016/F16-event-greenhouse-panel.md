@@ -1,7 +1,7 @@
 Title: GreenHouse Tech Talk
 Date: 2016-09-19
 Category: Events
-Tags: panels, GreenHouse
+Tags: panels
 Slug: greenhouse-tech-talk-f16
 Author: Anna Lorimer
 Summary: Come out for a talk from Female Social Innovators who work in technology.

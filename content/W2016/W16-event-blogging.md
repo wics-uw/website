@@ -1,7 +1,7 @@
 Title: Big CSters Blogging Workshop
 Date: 2016-02-29 14:00
 Category: Events
-Tags: social, big csters, blogging
+Tags: social, big csters
 Slug: blogging-workshop
 Author: Julia Nguyen
 Summary: Join us for an interactive workshop on blogging!

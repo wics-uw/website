@@ -1,7 +1,7 @@
 Title: Graphics Workshop
 Date: 2016-03-01
 Category: Events
-Tags: workshop, graphics
+Tags: workshop
 Slug: graphics-workshop-w16
 Author: Aurora Huang
 Summary: Express your creativity by making art on 3D animation software!
