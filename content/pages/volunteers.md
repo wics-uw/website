@@ -3,6 +3,10 @@ Title: Volunteer
 **You can sign up for most volunteer positions by filling out [this
 form](https://lists.uwaterloo.ca/mailman/listinfo/wics-volunteers).**
 
+**Note:** We currently don't have the capacity to support volunteers and will
+not be accepting volunteers until further notice. We will be reinstating 
+the volunteer program as soon as we have opportunities available. 
+
 As we strive to improve the quality of our events, every contribution, large or
 small counts. Volunteering with our committee is a great way to get involved
 with us on a smaller scale. While being a committee member requires you to
@@ -20,9 +24,6 @@ technical concepts to others. By becoming a **systems committee volunteer**, you
 can learn systems administration and static website development from our systems
 committee.
 
-**Note:** We currently don't have the capacity to support volunteers and will
-not be accepting volunteers until further notice. We will be reinstating 
-the volunteer program as soon as we have mentors available. 
 
 ## How volunteering works
 
@@ -41,6 +42,17 @@ opportunities interest you, verify that you are free on that day and reply back
 to the email.
 
 Here are the volunteer positions currently available.
+
+### Systems Committee Volunteer
+
+* This is a great way to learn about Linux systems administration, version
+  control, and static website development!
+* You’ll work with our WiCS systems committee and help maintain our machines,
+  track issues, etc.  Indicate your interest in being a systems-committee
+  volunteer in the form above. Doing so will add you to the wics-sys mailing list.
+* **You will need:** to be willing to work independently, try new things,
+  follow along with existing work, and ask questions. Prior experience, although
+  appreciated, is not a pre-requisite.
 
 ### Photographer
 
