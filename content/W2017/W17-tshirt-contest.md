@@ -30,7 +30,7 @@ Deadline is February 26 at 11:59PM! Submit files to [wics-ugrad@lists.uwaterloo.
 
 ## Contest Details ##
 
-+  **Who:**  +  [Women and Non-Binary students in the Faculty of Math]({filename}/pages/faq.md)
++  **Who:**  [Women and Non-Binary students in the Faculty of Math]({filename}/pages/faq.md)
 +  **What:** T-Shirt Design Contest
 -  **Where:** Online submissions: [wics-ugrad@lists.uwaterloo.ca](mailto:wics-ugrad@lists.uwaterloo.ca).
 -  **When:** Sunday, February 26, 11:59PM
