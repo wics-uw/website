@@ -19,4 +19,4 @@ Note: This event is [women-only]({filename}/pages/faq.md).
 + **Who:** [Women and non-binary individuals]({filename}/pages/faq.md)
 + **What:** Big CSters: Talking About Tech
 + **Where:** QNC 1506
-- **When:** Monday June 27, 6:00 - 8:00 PM
++ **When:** Monday June 27, 6:00&ndash;8:00 PM
