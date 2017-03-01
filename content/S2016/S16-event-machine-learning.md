@@ -1,7 +1,7 @@
 title: Machine Learning Workshop
 Date: 2016-6-7
 Category: Events
-Tags: workshop, BlackBerry, machine learning
+Tags: workshop, BlackBerry
 Slug: machine-learning-bb-s16
 Author: Clare Ng
 Summary: Join us to get some hands-on experience with machine learning!

@@ -1,7 +1,7 @@
 Title: WiCS is going to AlterConf Toronto! 
 Date: 2015-07-11 9:00
 Category: Events
-Tags: conference
+Tags: conference 
 Slug: alterconf-toronto-2015
 Author: Fatema Boxwala
 Summary: Hitch a ride with WiCS to AlterConf in Toronto!

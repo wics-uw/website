@@ -1,7 +1,7 @@
 Title: Holiday Party with Magnet Forensics
 Date: 2016-11-28
 Category: Events
-Tags: holiday, industry
+Tags: industry
 Slug: f16-holiday-party 
 Author: Anna Lorimer
 Summary: Join us for an evening of holiday fun at Magnet Forensic's office!

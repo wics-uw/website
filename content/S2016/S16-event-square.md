@@ -1,7 +1,7 @@
 title: Square Tech Workshop: Becoming Ok with Okhttp
 Date: 2016-05-18
 Category: Events
-Tags: Square, workshop, open source, Okhttp
+Tags: Square, workshop, open source
 Slug: square-event-s16
 Author: Bhargavi Dameracharla
 Summary: Technical workshop on open source HTTP & HTTP/2 client
