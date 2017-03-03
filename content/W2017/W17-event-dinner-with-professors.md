@@ -13,9 +13,9 @@ and your own academic interests.
 Note: Tickets for students are sold for $10 in MathSoc, until Wednesday, March
 1. Registration for professors and for grad students who are interested in
 attending as mentors is free and available [here](goo.gl/B8PQHL). Registration
-is required and is first-come first-serve. If you can   not make it to the
+is required and is first-come first-serve. If you can not make it to the
 MathSoc office in-person, please email us at [*wics-ugrad@lists.uwaterloo.ca*](mailto:wics-ugrad@lists.uwaterloo.ca) to
-find   a workaround.
+find a workaround.
 
 
 ## Event Details ##
