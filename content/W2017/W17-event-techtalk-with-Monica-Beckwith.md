@@ -21,7 +21,7 @@ During this talk, Monica will cover a few JIT and Runtime optimizations and she
 will dive into the HotSpot garbage collection and provide an overview of the
 various garbage collectors available in HotSpot.
 
-[Get tickets here.](http://preview.tinyurl.com/jlac62h)
+[Get tickets here.](https://www.eventbrite.com/e/monica-beckwith-hotspot-virtual-machines-execution-engine-talk-tickets-32482143967)
 
 ## Event Details ##
 
