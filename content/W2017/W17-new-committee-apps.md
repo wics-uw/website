@@ -15,11 +15,14 @@ If you've applied previously, we encourage you to apply again!
 
 Kindly review the following guidelines before you apply:
 
-+ You don't need any prior experience to apply. If you have a desire to improve the social and academic environment of women and non-binary people in computer science, that's exactly what we're looking for.
++ You don't need any prior experience to apply. If you have a desire to improve
+the social and academic environment of women and non-binary people in computer
+science, that's exactly what we're looking for.
 
 + We require a time commitment of 8+ hours per week.
 
-+ Please ensure you'll be in Waterloo for the Spring 2017 term, either on a co-op or study term.
++ Please ensure you'll be in Waterloo for the Spring 2017 term, either on a 
+co-op or study term.
 
 + Applications close on Wednesday, 22nd March 2017 at 1pm.
 
