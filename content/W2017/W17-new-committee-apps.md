@@ -1,5 +1,5 @@
 Title: Spring 2017 WiCS Committee Applications
-Date: 2017-03-11
+Date: 2017-03-15
 Category: Events
 Tags: news, volunteer
 Slug: S17-committee
