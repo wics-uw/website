@@ -7,43 +7,24 @@ These are the people making things happen!
 
 You can view [past terms' committees here]({filename}/pages/past-exec.md).
 
-# Winter 2017 Committee #
+# Spring 2017 Committee #
 
 ## Chair ##
 
-Bhargavi Dameracharla (`bdamerac`)
+Saadiya Desai (`sidesai`)
 
 ## Secretary ##
 
-Anakha Palissery (`apalisse`)
+Vinutna Margam (`vmargam`)
 
 ## Director of Finance ##
 
-Talia McCormick (`tdmccorm`)
+Xun (Alicia) Yang (`x299yang`)
 
-## Big CSters Directors ##
+## Big CSters Director and Office Manager ##
 
-Monica Xu (`m92xu`)
-
-Shivangi Patwardhan (`spatward`)
-
-## Systems Administrator ##
-
-Fatima Taj (`ftaj`)
+Falah Shazib (`fshazib`)
 
 ## Director of Publicity ##
 
-Karolina Xin (`KarolinaXin`)
-
-## Office Manager ##
-
-Erin Edward (`esedward`)
-
-## Mentor ##
-
-Anna Lorimer (`aemhlori`)
-
-## Mentor ##
-
-Evy Kassirer (`eawkassi`)
-
+Jiannan (Alice) Wang (`j496wang`)
