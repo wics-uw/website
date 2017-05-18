@@ -20,7 +20,6 @@ by:
 + Providing supportive, [women-only]({filename}/pages/faq.md) spaces for cis &
   trans women and non-binary individuals
 
-
 If you want to visit us, we have an [office]({filename}/pages/contact.md) in
 MC with Linux terminals!
 
