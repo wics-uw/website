@@ -2,6 +2,7 @@ Title: Code of Conduct
 Date: 2014-09-08 12:00
 Category: pages
 Author: Elana Hashman
+Status: hidden
 Summary: Code of Conduct for WiCS activities
 
 Our Code of Conduct is our commitment to the community to provide a welcoming,
@@ -99,7 +100,7 @@ communications pertaining to community business.
 
 WiCS Undergraduate Committee<br>
 <wics-ugrad@lists.uwaterloo.ca><br>
-M3 1003<br>
+MC 3013C<br>
 University of Waterloo
 
 # License Information and Attribution #

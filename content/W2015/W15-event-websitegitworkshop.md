@@ -1,7 +1,7 @@
 Title: GitHub/git and Website Workshop
 Date: 2015-03-1 12:00-17:00
 Category: Events
-Tags: workshop
+Tags: workshop, open source
 Slug: git-website-workshop
 Author: Evy Kassirer
 Summary: Come learn about web design and build your own website, hosted on Github.

@@ -5,6 +5,20 @@ called [Pelican](http://docs.getpelican.com/en/3.5.0/).
 
 These docs are aimed at a Debian-based Linux user.
 
+## Contents: ##
+
+[Installation](#installation)
+
+[Setup](#setup)
+
+[Contributing content to the website](#contributing-content-to-the-website)
+
+[Development](#development)
+
+[Heroku Review Apps](#heroku-review-apps)
+
+[Deployment](#deployment)
+
 ## Installation ##
 
 ### `git` ###
@@ -18,9 +32,10 @@ sudo apt-get install git-core
 ```
 
 For more information about what a typical `git` workflow for contributing to
-the site might look like, check out [this OpenHatch
-document](http://openhatch.readthedocs.org/en/latest/advanced/working_with_git.html)
-and look into completing the [OpenHatch `git` training
+the site might look like, check out [the curriculum from the WiCS git
+workshop](https://github.com/wics-uw/git-workshop-W16/wiki) and [this OpenHatch
+document](http://openhatch.readthedocs.org/en/latest/advanced/working_with_git.html).
+You can also look into completing the [OpenHatch `git` training
 mission](http://openhatch.org/missions/git).
 
 ### `pelican` ###
@@ -97,10 +112,12 @@ Now we need to add a reference to our upstream remote repository:
 git remote add upstream https://github.com/wics-uw/website.git
 ```
 
-### Feature development ###
+## Contributing content to the website ##
+
+### Creating a feature branch ###
 
 In git, when we are working on a feature, we usually split it off from the
-master branch and refer to this branch as a "feature" or "topic branch."
+master branch and refer to this branch as a "feature branch" or "topic branch."
 
 If you're ready to work on a topic branch, follow these easy steps. First,
 ensure your master branch is up to date:
@@ -142,6 +159,14 @@ best practices.
 Remember: code reviews will help catch these things and give you a better idea
 of what's considered standard. Don't fear constructive feedback!
 
+### Seeing what your change looks like ###
+
+Before submitting a pull request, you can test your change locally to see what
+it will look like on the website. If you don't want to [test
+locally](#testing-locally) or are having trouble setting it up, you can also
+just submit a pull request and wait for someone to deploy a [Heroku Review
+App](#heroku-review-apps)
+
 ### Submitting pull requests ###
 
 After you've made your modifications on your topic branch, perhaps following
@@ -172,27 +197,90 @@ command.
 There are three views for reviewing a pull request on GitHub: **Conversation**,
 **Commits**, and **Files changed**.
 
-#### Conversation ####
+**Conversation**
 
-Comments on the pull request show up here, including any inline comments that
-are added when viewing the file diffs. A summary of submitted commits is also
-listed.
+- Comments on the pull request show up here, including any inline comments that
+  are added when viewing the file diffs. A summary of submitted commits is also
+  listed.
+- Use this section to submit general feedback about the pull request.
 
-Use this section to submit general feedback about the pull request.
+**Commits**
 
-#### Commits ####
+- A more detailed list of commits included in the pull request, that will allow
+  a reviewer to view each individually.
+- Usually before merging, you'll want all the commits from that change to be
+  squashed into a single commit. Some of the reasons for this is so that the
+  commit can show the whole change that was made, and so that there aren't a
+  bunch of typo fixes in the repository's commit history!
 
-A more detailed list of commits included in the pull request, that will allow a
-reviewer to view each individually.
+**Files changed**
 
-#### Files changed ####
+- The `diff` view of the pull request. Lets the reviewer see the full patch in
+  its entirety, and add inline comments on changes.
+- Use this section to submit line-specific feedback.
 
-The `diff` view of the pull request. Lets the reviewer see the full patch in
-its entirety, and add inline comments on changes.
+#### Giving feedback ####
 
-Use this section to submit line-specific feedback.
+Everyone is invited to give feedback regardless of experience. Comments can
+touch on:
 
-#### Merging ####
+- phrasing of any text added (typos, awkward phrasing, using gendered language
+  where it could be gender neutral)
+- tags on event posts (do they make sense? are they existing tags?)
+- lines that are over 80 characters long (which we avoid except for certain
+  cases like the metadata at the top of many of the files)
+- any identation that's hard to read 
+- the way the change looks on the [Heroku Review App](#heroku-review-apps)
+- if there are multiple commmits that can be [squashed into one
+  commit](#squashing-commits)
+- linking to the site with a [static urls instead of relative 
+  urls](https://github.com/wics-uw/website/issues/222) (which generally [is bad
+  practice](http://stackoverflow.com/questions/2005079/))
+
+You can even look at it and decide it looks good and just comment with “looks
+good to me!” 
+
+
+### Squashing commits ###
+
+If you have `x` commits you want to squash into one, run
+
+```git rebase -i HEAD~x```
+
+- you'll see a list of the last `x` commits.
+- keep the first one as `pick`
+- choose `fixup` (or you can just type `f`) for the rest of the commits
+- save and close, and there should just be one commit there! (to confirm, you
+  can run `git log`)
+
+When you push the new squashed commit, `git` will be confused and think you're
+missing those `x` commits (when really you just turned them all into a new
+single commit). You might see the error message failed to push some refs to
+`https://github.com/<some-path>` and a suggestion to run `git pull`. **Do not
+ever run `git pull`**. It will bring back in a copy of all the commits you
+squashed and potentially other commits unrelated to your change. Instead run
+`git push --force`.
+
+### Pulling in changes ###
+
+Maybe while you were working on your change, someone else contributed updates
+to the repository and you want add them to your branch. **Do not ever run `git
+pull`**. Instead run:
+
+```
+git fetch upstream
+git rebase upstream/master
+git push -f origin HEAD
+```
+
+If you can't fetch from upstream, you might have to add a reference to our
+upstream remote repo:
+
+```
+git remote add upstream https://github.com/wics-uw/website.git
+```
+
+### Merging ###
 
 A back-and-forth revision process will occur during the course of the review.
 For the developer to update the pull request, they simply need to push new
@@ -249,7 +337,7 @@ Django, you'll find the templates very similar.
 To modify the theme css or html, simply take a look at the theme data under
 `theme/notmyidea/` and modify it at will.
 
-### Testing ###
+### Testing Locally ###
 
 To test a local copy of the site, you'll need to start the development server.
 There's no additional software you need to install to launch a local version of
@@ -269,6 +357,32 @@ To shut down the development server, use
 ```
 ./develop_server stop
 ```
+
+## Heroku Review Apps ##
+
+When prompted, Heroku will provision temporary public web hosting and a domain
+name for any open pull request, and post a pingback on GitHub. This allows
+anyone to access the temporary site and review what our website would look
+like upon merging the changes from that pull request.
+
+### Permissions to access Heroku
+
+Access to Heroku is granted to all committers in the wics-uw GitHub
+organization. Membership to the "committers" group is granted to all full
+Systems Committee members, as well as individuals that the Systems Committee
+have chosen in recognition of their contributions and demonstrated
+responsibility and good judgment.
+
+To become a committer, you'll need to learn git, contribute regularly to the
+WiCS website (both opening pull requests and reviewing them), and then ask the
+Systems Committee for access, by emailing <wics-sys@lists.uwaterloo.ca>.
+
+### To deploy a pull request
+
+1. Go to [https://dashboard.heroku.com/apps](https://dashboard.heroku.com/apps)
+2. Click on *wics-site*
+3. In the left column, named *Review Apps*, find the PR you want to deploy and
+   click the button that says *Create Review App*
 
 ## Deployment ##
 

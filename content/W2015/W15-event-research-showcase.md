@@ -1,7 +1,7 @@
 Title: Research Showcase and Mixer
 Date: 2015-02-04 17:30
 Category: Events
-Tags: talks, academia, social
+Tags: talks, academic, social
 Slug: research-showcase
 Author: Srishti Gupta
 Summary: Interested in academic computer science? Want to learn more about research? This session will showcase current graduate students' research fields and work.

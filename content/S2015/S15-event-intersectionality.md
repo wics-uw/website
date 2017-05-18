@@ -1,7 +1,7 @@
 Title: Intersectionality Workshop
 Date: 2015-07-15 6:30
 Category: Events
-Tags: academic
+Tags: feminism, workshop
 Slug: intersectionality-workshop
 Author: Fatema Boxwala 
 Summary: Come learn about how different forms of diversity interact with each other.

@@ -1,7 +1,7 @@
 title: Big CSters Discussion Circles: You Are Not Your Grades
 date: 2015-06-08 22:00
 category: Events
-tags: social, big csters
+tags: academic, big csters
 slug: you-are-not-your-grades
 author: Anna Lorimer
 summary: Big CSters convenes for a discussion circle around the topics of self-worth and academic achievement.

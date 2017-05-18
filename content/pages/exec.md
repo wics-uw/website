@@ -7,40 +7,43 @@ These are the people making things happen!
 
 You can view [past terms' committees here]({filename}/pages/past-exec.md).
 
-# Fall 2015 Committee #
+# Winter 2017 Committee #
 
 ## Chair ##
 
-Andee Liao (`xqliao`)
-
-## Big CSters Director ##
-
-Jessica Yuwono (`jryuwono`)
-
-## Events Coordinator ##
-
-Ziwei Zhao (`z86zhao`)
-
-## Director of Finance ##
-
-Arshia Mufti (`a2mufti`)
-
-## Director of Publicity ##
-
-Clare Ng (`c32ng`)
-
-## Office Manager ##
-
-Mengxue Yang (`m47yang`)
+Bhargavi Dameracharla (`bdamerac`)
 
 ## Secretary ##
 
-Evy Kassirer (`eawkassi`)
+Anakha Palissery (`apalisse`)
+
+## Director of Finance ##
+
+Talia McCormick (`tdmccorm`)
+
+## Big CSters Directors ##
+
+Monica Xu (`m92xu`)
+
+Shivangi Patwardhan (`spatward`)
 
 ## Systems Administrator ##
 
-Saadiya Desai (`sidesai`)
+Fatima Taj (`ftaj`)
 
-## Volunteers ##
+## Director of Publicity ##
 
-Positions Vacant
+Karolina Xin (`KarolinaXin`)
+
+## Office Manager ##
+
+Erin Edward (`esedward`)
+
+## Mentor ##
+
+Anna Lorimer (`aemhlori`)
+
+## Mentor ##
+
+Evy Kassirer (`eawkassi`)
+

@@ -5,3 +5,5 @@ content/extra
 content/images
 output/
 build/
+
+**/.DS_Store

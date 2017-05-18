@@ -16,7 +16,7 @@ Ragde](https://cs.uwaterloo.ca/faculty-staff/contacts/prabhakar-ragde),
 [Dr. Carla Fehr](https://uwaterloo.ca/philosophy/people-profiles/carla-fehr),
 [Dr. Aim&eacute;e 
 Morrison](https://uwaterloo.ca/english/people-profiles/aimee-morrison),
-[Dr. Mary Wells](https://uwaterloo.ca/english/people-profiles/aimee-morrison)
+[Dr. Mary Wells](https://uwaterloo.ca/mechanical-mechatronics-engineering/people-profiles/mary-wells)
 and [Elana Hashman](https://hashman.ca).
 
 <video width="320" height="240" controls>

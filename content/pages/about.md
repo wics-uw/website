@@ -6,29 +6,31 @@ Summary: About WiCS
 <img src="/images/logo.png" style="margin:5px">
 </footer>
 
-The Women in Computer Science Undergraduate Committee is a student-run 
-initiative that supports the success of women in computer science at Waterloo 
+The Women in Computer Science Undergraduate Committee is a student-run
+initiative that supports the success of women in computer science at Waterloo
 by:
 
 + Hosting speakers and lecturers in industry and academia
 + Running a mentorship program and providing networking opportunities
 + Organizing social events and fostering community
-+ Educating on women's issues and issues of diverity in computer science and 
++ Educating on women's issues and issues of diverity in computer science and
   science, technology, engineering and mathematics (STEM) at large
-+ Arranging outreach and educational activities in computer science and 
++ Arranging outreach and educational activities in computer science and
   technology
-+ Providing supportive, [&ldquo;women-only&rdquo;]({filename}/pages/faq.md) spaces for cis & trans women and non-binary individuals
++ Providing supportive, [women-only]({filename}/pages/faq.md) spaces for cis &
+  trans women and non-binary individuals
 
-If you want to visit us, we have an [office]({filename}/pages/contact.md) in 
-M3 with Linux terminals!
+
+If you want to visit us, we have an [office]({filename}/pages/contact.md) in
+MC with Linux terminals!
 
 # Volunteer Opportunities #
 
-We can always use more volunteers! If you're interested in getting involved, 
+We can always use more volunteers! If you're interested in getting involved,
 we'd love to hear from you. Email the [committee]({filename}/pages/exec.md) at
 <wics-ugrad@lists.uwaterloo.ca> and we'll get back to you as soon as we can.
 
-We have many diverse volunteer opportunities. This is not an exhaustive list, 
+We have many diverse volunteer opportunities. This is not an exhaustive list,
 but let us know if you would like to
 
 + Run workshops and educational outreach events
@@ -39,5 +41,8 @@ but let us know if you would like to
 + Organize talks, which could involve hosting out-of-town speakers
 + Represent undergraduate interests on the Women in Computer Science Committee
 + Represent WiCS at student government meetings
+
+You can **sign up** or read more about our volunteer opportunities
+[here]({filename}/pages/volunteers.md).
 
 Cheers!
