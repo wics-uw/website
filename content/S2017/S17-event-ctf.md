@@ -20,5 +20,5 @@ Note: This event is women-only.
 
 + **Who:** [Cis & trans women and non-binary individuals]({filename}/pages/faq.md)
 + **What:** S17 Security and Networking CTF with CrySP
-+ **Where:** STC 0010
++ **Where:** STC 0020
 + **When:** Jul 13th, 2017 6:00&ndash;8:00PM
