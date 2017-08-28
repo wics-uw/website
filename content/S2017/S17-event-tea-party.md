@@ -7,10 +7,10 @@ Author: Anna Lorimer
 Summary: Meet other women in CS and enjoy some tea!
 
 Welcome back! You're cordially invited to our Big CSters Tea Party. Come out to
-socialize with some WiCS members, meet the new committee, and ask upper year 
+socialize with some WiCS members, meet the new committee, and ask upper year
 students questions! Please try to bring your own mug if possible.
 
-Note: Tea Party is a Big CSters event is and is thus 
+Note: Tea Party is a Big CSters event is and is thus
 [women-only]({filename}/pages/faq.md).
 
 ## Event Details ##
@@ -19,4 +19,3 @@ Note: Tea Party is a Big CSters event is and is thus
 + **What:** Big CSters Tea Party
 + **Where:** CS Lounge (DC 3336)
 + **When:** Thursday May 11, 5:30&ndash;6:30PM
-
