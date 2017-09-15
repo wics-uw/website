@@ -7,28 +7,40 @@ These are the people making things happen!
 
 You can view [past terms' committees here]({filename}/pages/past-exec.md).
 
-# Spring 2017 Committee #
+# Fall 2017 Committee #
 
 ## Chair ##
 
-Saadiya Desai (`sidesai`)
+Monica Xu (`m92xu`)
 
 ## Secretary ##
 
-Vinutna Margam (`vmargam`)
+Erin Edward (`esedward`)
 
 ## Director of Finance ##
 
-Alicia Yang (`x299yang`)
-
-## Big CSters Directors ##
-
-Falah Shazib (`fshazib`)
+Alicia Lee (`y84lee`)
 
 ## Director of Publicity ##
 
-Alice Wang (`j496wang`)
+Helen Yang (`sq2yang`)
+
+## System Administrator ##
+
+Ruofan Luo (`r24luo`)
+
+## Big CSters Directors ##
+
+Bonnie Wu (`s275wu`)
+
+Skylar Meng (`h9meng`)
 
 ## Office Manager ##
 
-Falah Shazib (`fshazib`)
+Rosy Castro (`rcastroj`)
+
+## Mentors ## 
+
+Fatima Taj (`ftaj`)
+
+Shivangi Patwardhan (`spatwardhan`)
