@@ -1,7 +1,7 @@
 Title: Fall 2017 Options Panel
 Date: 2017-11-08
 Category: Events
-Tags: social, panels, coop
+Tags: social, panels
 Slug: options-panel-F17
 Author: Ruofan Luo
 Summary: Ask questions about options in CS
