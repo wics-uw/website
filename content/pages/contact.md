@@ -45,7 +45,7 @@ Fund](http://www.student.math.uwaterloo.ca/~mefcom/), and comfortable and clean
 desk space. We also have a library including feminist tech publications and
 various technical resources available for you to read during office hours. 
 The schedule for this term's office hours is 
-[here]({filename}/W2017/W17-Office-Hours.md).
+[here]({filename}/F2017/F17-Office-Hours.md).
 
 When you visit us, keep in mind our [office policy](/office-policy/).
 
