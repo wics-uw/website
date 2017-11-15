@@ -1,12 +1,15 @@
 Title: Fall 2017 CSC Joint Event
-Date: 2017-11-08
+Date: 2017-11-02
 Category: Events
 Tags: social, csc
 Slug: csc-joint-event-f17
 Author: Ruofan Luo
-Summary: Enjoy a movie and board games night 
+Summary: Enjoy a movie and board games night with CSC
 
-Join us for a night of exam stress relief! We will be having a Wonder Woman movie night and board games night at MC 4061 and MC 4059. Come for free food, fun friends, and a good time :)
+Join us for a night of exam stress relief! 
+We will be having a Wonder Woman movie night and board games night 
+at MC 4061 and MC 4059. 
+Come for free food, fun friends, and a good time :)
 
 ## Event Details ##
 
