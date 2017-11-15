@@ -1,5 +1,5 @@
 Title: Fall 2017 Options Panel
-Date: 2017-11-08
+Date: 2017-09-28
 Category: Events
 Tags: social, panels
 Slug: options-panel-F17
