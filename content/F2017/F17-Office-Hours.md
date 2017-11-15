@@ -28,14 +28,16 @@ Friday:
 - 11 am - 12 pm
 - 2 pm - 3 pm
 
-The office may be open at other times throughout the week but times will not be posted. No office hours will be held on weekends or during Reading Week.
+The office may be open at other times throughout the week 
+but times will not be posted.
+No office hours will be held on weekends or during Reading Week.
 
 **Why should you come to WiCS office hours?**
 
 Come talk to us about:
 
 - Meet the execs, learn about becoming an exec in the future
-- Ask us about our experiences in CS (courses, coop, going abroad, options, etc.)
+- Ask us about our experiences in CS (courses, coop, options, exchange, etc.)
 - Hangout, chat, do your homework here
 - MATH/CS help for first years
 - Learn about our events
