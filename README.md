@@ -150,12 +150,12 @@ best practices.
     while only the first line is visible in summary view, additional comments
     below go into the git log and can be very useful
 + Separate commits in the smallest logical, reversible steps possible.
-  + **DON'T** submit multiple small commits fixing typos; rebase these into a
-    single commit
+  + **DO** [squash](#squashing-commits) multiple small commits into a single commit. 
   + **DO** include whitespace updates in a separate commit from code changes,
     template changes separate from adding content, etc.
 + Ask for help if you're not sure how to do some of these things!
 
+Instructions on how to amend a commit can be found [here](https://github.com/blog/2141-squash-your-commits).
 Remember: code reviews will help catch these things and give you a better idea
 of what's considered standard. Don't fear constructive feedback!
 
@@ -190,6 +190,24 @@ local repository, the branch can be deleted with the
 git branch -d topic-name
 ```
 
+### A Common Error That Occurs When You Push ###
+
+When you try to push to you branch, and someone else has contributed updates to the repository since your, git will not allow you to push to your branch and will suggest that you run `git pull`. **Do not ever run `git
+pull`**. Instead run:
+
+```
+git fetch upstream
+git rebase upstream/master
+git push -f origin HEAD
+```
+
+If you can't fetch from upstream, you might have to add a reference to our
+upstream remote repository:
+
+```
+git remote add upstream https://github.com/wics-uw/website.git
+```
+
 command.
 
 ### Reviewing a pull request ###
@@ -209,9 +227,7 @@ There are three views for reviewing a pull request on GitHub: **Conversation**,
 - A more detailed list of commits included in the pull request, that will allow
   a reviewer to view each individually.
 - Usually before merging, you'll want all the commits from that change to be
-  squashed into a single commit. Some of the reasons for this is so that the
-  commit can show the whole change that was made, and so that there aren't a
-  bunch of typo fixes in the repository's commit history!
+  [squashed](#squashing-commits) into a single commit.
 
 **Files changed**
 
@@ -240,45 +256,43 @@ touch on:
 You can even look at it and decide it looks good and just comment with “looks
 good to me!” 
 
-
 ### Squashing commits ###
 
-If you have `x` commits you want to squash into one, run
+**What does it mean to squash commits?**
+
+A commit is a snapshot of the changes made to files at a particular point. To "squash" x commits means to retain the changes of those x commits, and omit the individual commits from history and replace them with a single commit instead.
+
+**What does it mean to squash commits?**
+Typically, it's useful to represent all the commits of a pull request by a single commit by squashing. This gives us a clean, meaningful git history when we merge the pull request into the master branch.
+
+**How to squash**
+To squash the **last** `x` commits you want to squash into one, run
 
 ```git rebase -i HEAD~x```
 
 - you'll see a list of the last `x` commits.
-- keep the first one as `pick`
-- choose `fixup` (or you can just type `f`) for the rest of the commits
-- save and close, and there should just be one commit there! (to confirm, you
-  can run `git log`)
 
-When you push the new squashed commit, `git` will be confused and think you're
-missing those `x` commits (when really you just turned them all into a new
+```
+pick d3d8769 adds big csters event post
+pick e77b0d1 fixes typo
+pick 36be271 removes extra whitespace
+```
+- change the file like this
+```
+pick d3d8769 adds big csters event post
+squash e77b0d1 fixes typo
+squash 36be271 removes extra whitespace
+```
+- Write/quit you editor twice (the second file would allow you to change the commit message, though it's easiest to keep it the same).
+- At this point, your commits are squashed into one. If you run `git log`, there should be just one commit there.
+- To push your squashed commit, run `git push --force origin HEAD`.
+
+**Note**: Why **force** push? If you simply push without the `-f` flag, `git` will think you're
+missing those `x` commits (when really you just squashed them into a new
 single commit). You might see the error message failed to push some refs to
-`https://github.com/<some-path>` and a suggestion to run `git pull`. **Do not
-ever run `git pull`**. It will bring back in a copy of all the commits you
-squashed and potentially other commits unrelated to your change. Instead run
-`git push --force`.
-
-### Pulling in changes ###
-
-Maybe while you were working on your change, someone else contributed updates
-to the repository and you want add them to your branch. **Do not ever run `git
-pull`**. Instead run:
-
-```
-git fetch upstream
-git rebase upstream/master
-git push -f origin HEAD
-```
-
-If you can't fetch from upstream, you might have to add a reference to our
-upstream remote repo:
-
-```
-git remote add upstream https://github.com/wics-uw/website.git
-```
+`https://github.com/<some-path>` and a suggestion to run `git pull`. **Do not  `git pull`**.
+It will bring back in a copy of all the commits you
+squashed and potentially other commits unrelated to your change.
 
 ### Merging ###
 
