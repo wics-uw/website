@@ -7,23 +7,23 @@ These are the people making things happen!
 
 You can view [past terms' committees here]({filename}/pages/past-exec.md).
 
-# Fall 2017 Committee #
+# Winter 2018 Committee #
 
 ## Chair ##
 
-Monica Xu (`m92xu`)
+Helen Yang (`sq2yang`)
 
 ## Secretary ##
 
-Erin Edward (`esedward`)
+Falah Shazib (`fshazib`)
 
 ## Director of Finance ##
 
-Alicia Lee (`y84lee`)
+Tamilla Umudova (`tumudova`)
 
 ## Director of Publicity ##
 
-Helen Yang (`sq2yang`)
+Alicia Yang (`x299yang`)
 
 ## System Administrator ##
 
@@ -31,16 +31,11 @@ Ruofan Luo (`r24luo`)
 
 ## Big CSters Directors ##
 
-Bonnie Wu (`s275wu`)
+Qinrui Li (`q283li`)
 
-Skylar Meng (`h9meng`)
+Rachel Liu (`r248liu`)
 
 ## Office Manager ##
 
-Rosy Castro (`rcastroj`)
+Bonnie Wu (`s275wu`)
 
-## Mentors ## 
-
-Fatima Taj (`ftaj`)
-
-Shivangi Patwardhan (`spatwardhan`)
