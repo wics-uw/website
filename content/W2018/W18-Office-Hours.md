@@ -5,7 +5,7 @@ Tags: office
 Author: Ruofan Luo
 Summary: Announcing our Office Hours for Winter 2018
 
-Office Location: MC 3013C
+Office Location: MC 1011
 
 Monday:
 
