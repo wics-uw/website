@@ -52,7 +52,7 @@ When you visit us, keep in mind our [office policy](/office-policy/).
 ## Mailing address ##
 
 Women in Computer Science Undergraduate Committee  
-Mathematics & Computer Building Room 3013C  
+Mathematics & Computer Building Room 1011  
 University of Waterloo  
 200 University Ave. W  
 Waterloo, ON, Canada  
