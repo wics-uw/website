@@ -31,6 +31,14 @@ be men (see our link on stereotype threat above). We find
 that holding these events as women-only is a way to alleviate this issue a
  little for women in our community.
 
+Another reason that we hold women-only technical events is called 
+[letting the side down](http://geekfeminism.wikia.com/wiki/Letting_the_side_down
+"Geek Feminism Wiki: Letting the side down"). 
+It allows women to learn in an environment where they are in the majority, 
+where they can participate actively, ask and answers questions, and make 
+mistakes without worrying that others interpreting the mistakes as evidence 
+that women are inferior at computing.
+
 It's true that it is important to educate people (including and 
 sometimes especially men) about the issues faced by women in 
 STEM fields. However, as is stated in our constitution, "[WiCS] seeks
