@@ -2,7 +2,7 @@ Title: Spring 2018 Tea Party
 Date: 2018-05-10
 Category: Events
 Tags: social, big csters
-Slug: tea-party-w18
+Slug: tea-party-s18
 Author: Monica Xu
 Summary: Meet other women in CS and enjoy some tea!
 
