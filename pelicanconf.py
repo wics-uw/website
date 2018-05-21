@@ -72,3 +72,8 @@ TWITTER_USERNAME = 'wicsuw'
 DEFAULT_PAGINATION = 5
 
 THEME = 'themes/notmyidea'
+
+# Plug-in
+PLUGINS = [
+    'pelican_youtube'
+]
