@@ -1,18 +1,16 @@
-Title: Get to Know: Holly Xu
+Title: Get to Know: Holly
 Date: 2015-01-26 19:00
 Category: Blog
 Tags: get to know
-Slug: get-to-know-holly-xu
+Slug: get-to-know-holly
 Author: Julia Nguyen
-Summary: This week I sat down with Holly Xu, a fourth year student, to talk about her transition into CS from accounting, how the robotics club boosted her confidence, and the importance of independence.
+Summary: This week I sat down with Holly, a fourth year student, to talk about her transition into CS from accounting, how the robotics club boosted her confidence, and the importance of independence.
 
 There's a recurring theme in these interviews&mdash;taking risks. Overcoming
 self-esteem issues is a huge part of being a woman in computing. This week I
-sat down with Holly Xu, a fourth year student, to talk about her transition
+sat down with Holly, a fourth year student, to talk about her transition
 into CS from accounting, how a robotics club boosted her confidence, and the
 importance of independence.
-
-![Photo of Holly Xu](/images/holly_xu.png "Holly Xu")
 
 Holly had a difficult decision to make when it came to applying to university.
 She had always been interested in computers, but she faced familial pressure to
@@ -55,7 +53,7 @@ Holly had peers she admired but never reached out to, which she regrets.
 
 The mentorships she had during co-op helped her to develop more confidence.
 Holly's mentors have supported her growth as a software engineer without
-patronizing her for being a woman. One of her first mentors, Leith Abdulla,
+patronizing her for being a woman. One of her first mentors, Leith,
 encouraged her to ask more questions that were intimidating to ask.
 
 "He's a great communicator," she recalls. "Whenever I had problems, he would
@@ -63,7 +61,7 @@ try to approach it from my perspective. It was really helpful."
 
 In addition to achieving career goals during co-op, Holly is grateful for being
 able to travel and meet new people. She enjoys working at companies with many
-interns. Last term, she had a blast working with her close friend Jackie Baek
+interns. Last term, she had a blast working with her close friend Jackie
 in Venice Beach.
 
 Jackie spent an entire term convincing Holly to join her in the same co-op
@@ -87,10 +85,6 @@ should be treated as friendships.
 "I wish I was part of more opportunities to help women gain confidence in STEM.
 If you have any questions and would like to talk, I would love to help! I
 didn't realize how much young Holly needed it."
-
-## Connect ##
-
-Follow Holly at [hollyx.ca](http://hollyx.ca)!
 
 **Get to Know** is a series of interviews with women in computing at the
 University of Waterloo. They showcase women in our community with inspiring
