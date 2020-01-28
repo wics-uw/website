@@ -1,0 +1,51 @@
+Title: Office Hours for Summer 2019
+Date: 2019-05-28 13:00
+Category: Blog
+Tags: office
+Author: Karolina Xin
+Summary: Announcing our Office Hours for Winter 2019
+
+Office Location: MC 3013
+
+Monday:
+
+- 11:30 am - 1 pm 
+- 3 pm - 5 pm
+
+Tuesday:
+
+- 11:30 am - 2 pm
+
+Wednesday:
+
+- 11:30 am - 2 pm 
+- 3 pm - 5 pm
+
+Thursday:
+
+- 11:30 am - 2 pm
+
+Friday:
+
+- 12 pm - 1 pm
+
+The office may be open at other times throughout the week 
+but times will not be posted.
+No office hours will be held on weekends or during Reading Week.
+
+**Why should you come to WiCS office hours?**
+
+Come talk to us about:
+
+- Meet the execs, learn about becoming an exec in the future
+- Ask us about our experiences in CS (courses, coop, options, exchange, etc.)
+- Hangout, chat, do your homework here
+- MATH/CS help for first years
+- Learn about our events
+- Check out our library
+- Get free swag
+- FREE candy and hot drinks
+
+*Office hours and services are open only to students who identify as women and non-binary individuals.*
+
+*The [Code of Conduct]({filename}/pages/code-of-conduct.md) is in effect at all times during office hours.*
