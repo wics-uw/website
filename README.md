@@ -421,7 +421,7 @@ Pull the latest version of the site from GitHub:
 
 ```
 cd ~/pelican
-git pull
+git pull https://github.com/wics-uw/website
 ```
 
 Then build and deploy the site:
