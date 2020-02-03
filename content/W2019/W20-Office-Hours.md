@@ -1,11 +1,11 @@
-Title: Office Hours for Winter 2019
-Date: 2019-02-03 13:00
+Title: Office Hours for Winter 2020
+Date: 2020-02-03 13:00
 Category: Blog
 Tags: office
 Author: Karolina Xin
 Summary: Announcing our Office Hours for Winter 2019
 
-Office Location: MC 3013
+Office Location: MC 3029
 
 Monday:
 
