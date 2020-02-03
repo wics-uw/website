@@ -1,4 +1,4 @@
-Title: Office Hours for Summer 2019
+Title: Office Hours for Winter 2019
 Date: 2019-05-28 13:00
 Category: Blog
 Tags: office
@@ -9,7 +9,7 @@ Office Location: MC 3013
 
 Monday:
 
-- 11:30 am - 1 pm 
+- 11:30 am - 1 pm
 - 3 pm - 5 pm
 
 Tuesday:
