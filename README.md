@@ -1,4 +1,4 @@
-# The code that runs the WiCS site #
+# THE CODE THAT RUNS THE WISC WEBSITE #
 
 The site is generates static content from Markdown articles, using software
 called [Pelican](http://docs.getpelican.com/en/3.5.0/).
@@ -19,7 +19,7 @@ These docs are aimed at a Debian-based Linux user.
 
 [Deployment](#deployment)
 
-## Installation ##
+## INSTALATION PROCESS ##
 
 ### `git` ###
 
@@ -294,7 +294,7 @@ single commit). You might see the error message failed to push some refs to
 It will bring back in a copy of all the commits you
 squashed and potentially other commits unrelated to your change.
 
-### Merging ###
+### MERGING ###
 
 A back-and-forth revision process will occur during the course of the review.
 For the developer to update the pull request, they simply need to push new
@@ -307,17 +307,17 @@ merged into the upstream master branch. For the changes to appear on the
 website, someone needs to deploy the new code (see the **Deployment** section
 for more details).
 
-## Development ##
+## DEVLOPMENT ##
 
 You can either add content to the site or modify its theme.
 
-### Adding site content ###
+### ADDING SITES CONTENT ###
 
 All site content is contained in the `content/` directory. Posts are sorted by
 term directories, e.g. "F2014". There is also a `pages/` directory that
 contains non-post type pages, such as contact info, about us, etc.
 
-#### Posts ####
+#### POSTS ####
 
 We currently use three posting categories: **Blog**, **Events**, and **Media**.
 
@@ -332,7 +332,7 @@ Please try to use a consistent naming scheme. Articles are named by term,
 category, and slug; for instance, posting a video of a talk about automata in
 S13 might be named `S13-media-automata.md`.
 
-#### Pages ####
+#### PAGES ####
 
 We only need a limited number of pages. You probably won't need to add many
 more. These include things like our Code of Conduct, contact info, etc.
@@ -342,7 +342,7 @@ To do so, make sure you set `Status: hidden` in the Markdown preamble. This
 will cause the page to be generated without showing up in the site's main
 navigation.
 
-### Markup beautification ###
+### MARKUP BEAUTIFICATION ###
 
 The theme we are currently using is called `notmyidea`. Pelican uses the
 [jinja2](http://jinja.pocoo.org/docs/dev/) templating system; if you've used
@@ -351,7 +351,7 @@ Django, you'll find the templates very similar.
 To modify the theme css or html, simply take a look at the theme data under
 `theme/notmyidea/` and modify it at will.
 
-### Testing Locally ###
+### TESTING LOCALLY ###
 
 To test a local copy of the site, you'll need to start the development server.
 There's no additional software you need to install to launch a local version of
@@ -372,7 +372,7 @@ To shut down the development server, use
 ./develop_server stop
 ```
 
-## Heroku Review Apps ##
+## HEROKU REVIEW APPS ##
 
 When prompted, Heroku will provision temporary public web hosting and a domain
 name for any open pull request, and post a pingback on GitHub. This allows
