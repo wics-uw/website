@@ -13,7 +13,4 @@ Thanks to those awesome women and all who attended our event!
 
 From left to right, this panel featured panelists: Shirley M, Arshia M, Anna L, Amy Q, and Evy K.
 
-.. youtube:: rBieIcS9kwE
-	:class: youtube-4x3
-	:allowfullscreen: no
-	:seamless: no
+Please click this [link to watch the video](www.youtube.com/watch?v=rBieIcS9kwE)
